@@ -6,6 +6,8 @@ from creator_tracker.models import Company, Confidence, Subsector
 def test_subsector_from_str_normalizes():
     assert Subsector.from_str("Talent Management") == Subsector.TALENT_MANAGEMENT
     assert Subsector.from_str("agency") == Subsector.AGENCY
+    assert Subsector.from_str("Performance Marketing") == Subsector.PERFORMANCE_MARKETING
+    assert Subsector.from_str("software") == Subsector.SOFTWARE
     with pytest.raises(ValueError):
         Subsector.from_str("nonsense")
 

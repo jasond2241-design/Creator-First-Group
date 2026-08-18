@@ -17,6 +17,8 @@ class Subsector(str, Enum):
     """Routes which revenue model a company is estimated with."""
 
     AGENCY = "agency"
+    SOFTWARE = "software"
+    PERFORMANCE_MARKETING = "performance_marketing"
     TALENT_MANAGEMENT = "talent_management"
 
     @classmethod
@@ -53,6 +55,10 @@ CSV_OPTIONAL_FIELDS = (
     "net_revenue_per_head",
     "roster_gmv",
     "commission_rate",
+    "customers",
+    "arpu",
+    "managed_ad_spend",
+    "fee_rate",
     "ebitda_margin_low",
     "ebitda_margin_high",
     "notes",
@@ -85,6 +91,14 @@ class Company:
     roster_gmv: Optional[float] = None
     commission_rate: Optional[float] = None
 
+    # Software model inputs: revenue ~= customers * arpu (annual revenue per customer)
+    customers: Optional[float] = None
+    arpu: Optional[float] = None
+
+    # Performance marketing model inputs: revenue ~= managed_ad_spend * fee_rate
+    managed_ad_spend: Optional[float] = None
+    fee_rate: Optional[float] = None
+
     # Optional manual override for the EBITDA margin band, e.g. from a data room
     # or public comp set. If provided, used verbatim with high confidence.
     ebitda_margin_low: Optional[float] = None
@@ -106,6 +120,10 @@ class Company:
             net_revenue_per_head=_parse_optional_float(row.get("net_revenue_per_head")),
             roster_gmv=_parse_optional_float(row.get("roster_gmv")),
             commission_rate=_parse_optional_float(row.get("commission_rate")),
+            customers=_parse_optional_float(row.get("customers")),
+            arpu=_parse_optional_float(row.get("arpu")),
+            managed_ad_spend=_parse_optional_float(row.get("managed_ad_spend")),
+            fee_rate=_parse_optional_float(row.get("fee_rate")),
             ebitda_margin_low=_parse_optional_float(row.get("ebitda_margin_low")),
             ebitda_margin_high=_parse_optional_float(row.get("ebitda_margin_high")),
             notes=(row.get("notes") or "").strip(),

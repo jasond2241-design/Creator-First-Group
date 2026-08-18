@@ -32,6 +32,48 @@ def test_talent_management_revenue_estimate():
     assert result.method == "talent_management"
 
 
+def test_software_revenue_estimate():
+    company = Company(
+        name="Kit", subsector=Subsector.SOFTWARE, customers=40_000, arpu=300
+    )
+    result = estimate_revenue(company)
+    assert result.value == 40_000 * 300
+    assert result.confidence == Confidence.HIGH
+    assert result.method == "software"
+
+
+def test_software_revenue_missing_inputs():
+    company = Company(name="Kit", subsector=Subsector.SOFTWARE)
+    result = estimate_revenue(company)
+    assert result.value is None
+    assert result.confidence == Confidence.LOW
+
+
+def test_performance_marketing_revenue_estimate():
+    company = Company(
+        name="Ubiquitous",
+        subsector=Subsector.PERFORMANCE_MARKETING,
+        managed_ad_spend=20_000_000,
+        fee_rate=0.15,
+    )
+    result = estimate_revenue(company)
+    assert result.value == 3_000_000
+    assert result.confidence == Confidence.HIGH
+    assert result.method == "performance_marketing"
+
+
+def test_performance_marketing_invalid_fee_rate():
+    company = Company(
+        name="Bad Co",
+        subsector=Subsector.PERFORMANCE_MARKETING,
+        managed_ad_spend=1_000_000,
+        fee_rate=1.5,
+    )
+    result = estimate_revenue(company)
+    assert result.value is None
+    assert result.confidence == Confidence.LOW
+
+
 def test_talent_management_invalid_commission_rate():
     company = Company(
         name="Bad Co",

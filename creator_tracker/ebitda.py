@@ -16,10 +16,17 @@ from .models import Company, Confidence, EBITDAEstimate, RevenueEstimate, Subsec
 
 # (margin_low, margin_high) applied to revenue when no company-specific
 # override is supplied. Rough bootstrapped-company benchmarks:
-# agencies run leaner-margin/labor-heavy books; talent management is a
-# commission pass-through model with less delivery cost, so it skews higher.
+# - agency: labor-heavy delivery, leaner margins
+# - software: low marginal delivery cost once built, but bootstrapped SaaS
+#   typically reinvests heavily in growth rather than maximizing margin
+# - performance_marketing: fee revenue on managed spend, thin delivery cost
+#   but competitive/commoditized, so margins land between agency and SaaS
+# - talent_management: commission pass-through with little delivery cost,
+#   so it skews highest
 SUBSECTOR_MARGIN_BANDS = {
     Subsector.AGENCY: (0.12, 0.22),
+    Subsector.SOFTWARE: (0.15, 0.30),
+    Subsector.PERFORMANCE_MARKETING: (0.15, 0.25),
     Subsector.TALENT_MANAGEMENT: (0.20, 0.35),
 }
 

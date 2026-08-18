@@ -1,12 +1,15 @@
 # Creator Economy Funding & Revenue Tracker
 
-Tracks bootstrapped creator-economy companies (agencies, talent management
-shops) from a seed CSV watchlist. For each company it:
+Tracks bootstrapped creator-economy companies across four subsectors --
+brand/social agencies, software, performance marketing, and talent
+management -- from a seed CSV watchlist. For each company it:
 
 1. Checks SEC EDGAR full-text search for Form D filings to flag institutional
    funding (i.e. companies that may no longer be bootstrapped).
 2. Estimates revenue with a subsector-routed model:
    - **agency**: `headcount x net_revenue_per_head`
+   - **software**: `customers x arpu` (annual revenue per customer)
+   - **performance_marketing**: `managed_ad_spend x fee_rate`
    - **talent_management**: `roster_gmv x commission_rate`
 3. Estimates EBITDA as a margin band (`[low, high]`) applied to the revenue
    estimate, with a confidence flag.
@@ -38,13 +41,17 @@ Other flags:
 | column | required | used by | notes |
 |---|---|---|---|
 | `name` | yes | all | company name, also used as the EDGAR search term |
-| `subsector` | yes | revenue routing | `agency` or `talent_management` |
+| `subsector` | yes | revenue routing | `agency`, `software`, `performance_marketing`, or `talent_management` |
 | `website` | no | reference | |
 | `cik` | no | reference | not currently used for the EDGAR lookup, which matches by name |
 | `headcount` | agency only | revenue | |
 | `net_revenue_per_head` | agency only | revenue | |
 | `roster_gmv` | talent_management only | revenue | |
 | `commission_rate` | talent_management only | revenue | decimal, e.g. `0.20` |
+| `customers` | software only | revenue | paying customer/account count |
+| `arpu` | software only | revenue | annual revenue per customer |
+| `managed_ad_spend` | performance_marketing only | revenue | annual ad spend the company manages for clients |
+| `fee_rate` | performance_marketing only | revenue | decimal fee taken on managed spend, e.g. `0.15` |
 | `ebitda_margin_low` / `ebitda_margin_high` | no | EBITDA | overrides the subsector default margin band when both are supplied |
 | `notes` | no | reference | |
 
