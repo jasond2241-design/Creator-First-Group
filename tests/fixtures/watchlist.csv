@@ -1,0 +1,4 @@
+name,subsector,website,cik,headcount,net_revenue_per_head,roster_gmv,commission_rate,ebitda_margin_low,ebitda_margin_high,notes
+Big Agency,agency,,,200,200000,,,,,Clears the $5M threshold easily
+Small Talent Shop,talent_management,,,,,1000000,0.2,,,Below the $5M threshold
+No Data Co,agency,,,,,,,,,No financial inputs supplied

@@ -1,0 +1,10 @@
+name,subsector,website,cik,headcount,net_revenue_per_head,roster_gmv,commission_rate,ebitda_margin_low,ebitda_margin_high,notes
+Whalar Group,agency,https://whalar.com,,180,220000,,,,,Creator marketing agency; bootstrapped per public reporting
+Viral Nation,agency,https://viralnation.com,,250,200000,,,,,Influencer marketing + talent agency hybrid
+Fanbytes,agency,https://fanbytes.co.uk,,60,180000,,,,,TikTok-first creator agency
+Underscore Talent,talent_management,https://underscoretalent.com,,,,15000000,0.20,,,YouTube/TikTok creator management roster
+Select Management Group,talent_management,,,,,25000000,0.18,,,Multi-platform creator talent management
+Patreon,agency,https://patreon.com,0001860300,,,,,,,Known VC-backed control case -- expect Form D flag
+Cameo,agency,https://cameo.io,,,,,,,,Known VC-backed control case -- no financial inputs supplied on purpose
+Night Media,talent_management,https://nightmedia.co,,,,8000000,0.20,,,Boutique creator talent management
+Chameleon Collective,agency,,,25,150000,,,,,Small shop; expected to fall below $5M threshold
