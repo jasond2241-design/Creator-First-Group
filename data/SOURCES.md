@@ -1,0 +1,147 @@
+# Watchlist sources
+
+Research notes and citations for `watchlist.csv`, gathered via web search,
+company websites, press coverage, and LinkedIn (August 2026). Full detail
+lives here so the CSV's `notes` column can stay short; treat this file as
+the provenance record for every non-obvious number in the watchlist.
+
+## Methodology
+
+- **Headcount** (agency subsector): pulled from each company's LinkedIn
+  company page. LinkedIn shows a size band (e.g. "51-200") and often a more
+  precise "Discover all N employees" count; where sources disagreed, the
+  CSV uses a documented approximation, noted inline.
+- **`net_revenue_per_head` / `fee_rate` / `commission_rate` benchmarks**:
+  none of these companies publicly disclose a per-head revenue figure or
+  exact fee/commission rate. Where the CSV supplies one, it's a documented
+  industry-benchmark assumption applied consistently across the subsector
+  (agency: $150k-$220k net revenue/head; performance marketing: 15% fee on
+  managed spend; talent management: 15%, the midpoint of johanna b. voss's
+  published 10-20% guidance) -- not a company-specific disclosed number.
+  Revenue estimates built on these inputs should be read as "the arithmetic
+  is right given the assumed rate," not "this is the company's actual
+  reported revenue."
+- **`customers` / `arpu` (software subsector)**: used only where both a
+  customer count AND a revenue figure were independently disclosed by the
+  company or credible reporting, so `arpu` is a derived figure from two real
+  data points rather than a guess. Where only one side was available (e.g.
+  revenue but no customer count), both fields are left blank rather than
+  filling in a fabricated number -- see each company's note for the
+  known-but-unmodeled revenue figure.
+- Companies verified to have raised institutional/VC/PE funding, or that
+  were acquired, are excluded from the "bootstrapped" set entirely (list
+  below), except for two intentional control cases (Patreon, Night Media)
+  kept in the watchlist specifically to validate that the Form D check
+  flags them correctly.
+
+## Brand/social agencies
+
+- **Billion Dollar Boy** — https://www.billiondollarboy.com — "grown as an
+  independent, cash-generative business without a full institutional
+  venture-capital track" — https://everything-pr.com/billion-dollar-boy-the-independent-influencer-agency-category-leader
+  — headcount via https://www.linkedin.com/company/billion-dollar-boy
+- **The Influencer Marketing Factory** — https://theinfluencermarketingfactory.com
+  — self-funded since 2018 per founders — https://www.inc.com/profile/the-influencer-marketing-factory
+  — headcount via https://www.linkedin.com/company/the-influencer-marketing-factory
+- **Movement Strategy** — https://www.movementstrategy.com — no funding
+  rounds on Crunchbase/Tracxn — https://www.crunchbase.com/organization/movement-strategy
+  — self-funded acquisition of Newfangled Studios — https://www.adweek.com/agencies/movement-strategy-acquires-newfangled-studios-to-create-a-social-marketing-powerhouse/
+- **The Digital Fairy** — https://www.thedigitalfairy.co.uk — founder grew
+  agency from a ~£16k personal loan to £3M turnover — https://daniellenewnham.medium.com/from-16-000-to-3-million-the-rise-or-eve-lee-and-the-digital-fairies-4f6716c776f6
+- **Socially Powerful** — https://sociallypowerful.com — no funding rounds
+  found; lower-confidence bootstrapped read (absence-of-record only, no
+  explicit founder statement located)
+
+### Excluded (verified funded or acquired)
+Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
+Obviously (acquired, WPP), Whalar (multiple seed rounds + 2025 round),
+Viral Nation (~$198M PE, Eldridge/Maverix), Sixteenth (acquired by Whalar),
+Fanbytes (VC-funded, acquired by Brainlabs), The Goat Agency (VC-funded,
+acquired by WPP), Cashmere Agency (acquired, S4 Capital), Digital Voices
+(acquired, PMG), Open Influence (Series A), Mediakix (acquired, Stadiumred).
+
+## Software
+
+- **Kit (formerly ConvertKit)** — https://kit.com — founder Nathan Barry:
+  never raised VC — https://yaro.blog/nathan-barry-vc10/ — revenue growth
+  history — https://startupgtm.substack.com/p/convertkit-now-kit-growth-story-how
+- **Buffer** — https://buffer.com — bought back all outside investor equity
+  — https://buffer.com/resources/buying-out-investors/ — ~$22.7M ARR /
+  67,000 customers (2025, aggregated from Tracxn/Buffer reporting)
+- **Gumroad** — https://gumroad.com — founder described buying back investor
+  equity, paying $5.34M shareholder dividend — https://sahillavingia.com/dividends
+  — Q2 2023 revenue $5.29M/quarter — https://x.com/shl/status/1690330199055896576
+  — **correction found by this tool's own Form D check**: EDGAR shows
+  Gumroad, Inc. (CIK 1532978) filed a real equity Form D on 2024-03-04
+  ($2,136,975 offering, fully sold, "Other Technology" industry group) and
+  another on 2023-06-16 -- both post-dating the "bought back investors"
+  narrative. Kept in the watchlist as a demonstration of the funding check
+  catching something the qualitative research alone would have missed;
+  should not be treated as a confirmed-bootstrapped company without further
+  diligence on what those 2023/2024 raises were.
+- **Ghost** — https://ghost.org — nonprofit Ghost Foundation, funded via
+  2013 Kickstarter after 2x YC rejection; crossed $10M ARR per founder —
+  https://x.com/JohnONolan/status/2029195753428758756
+- **Flodesk** — https://flodesk.com — founders rejected by YC, self-funded
+  with ~$90k savings, now ~$36-37M ARR — https://www.inc.com/jennifer-conrad/she-was-rejected-by-y-combinator-bootstrapped-startup-36-million-arr-flodesk/91278173
+  — growth detail — https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu
+
+### Excluded (verified funded)
+Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
+a16z/YC seed), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
+Forerunner Ventures), ThriveCart ($35M investment from LTV SaaS Growth
+Fund, Jan 2023, after being bootstrapped 2016-2023).
+
+## Performance marketing
+
+- **Hawke Media** — https://www.hawkemedia.com — founder Erik Huberman:
+  self-funded growth, no outside investment — https://erikhuberman.com/posts/scaling-without-strings-the-power-of-self-funded-growth/
+  — manages $500M+ in media spend (company-reported)
+- **KlientBoost** — https://www.klientboost.com — founder built on personal
+  savings, chose agency model over VC-backed SaaS deliberately — https://pod.tomhunt.io/e/x816wj1n-bootstrapping-klientboost-to-1m-mrr-with-jonathan-dane-of-klientboost
+- **Kynship** — https://www.kynship.co — no funding rounds found on
+  Crunchbase/PitchBook/Tracxn
+- **AdVenture Media Group** — https://adventuremedia.ai — no funding rounds
+  found; founder retrospective — https://medium.com/@isaacrudansky/i-forfeited-760-560-in-revenue-last-year-f5f643670064
+- **Brighter Click** — https://www.brighterclick.com — founded by a
+  freelancer in 2019, no funding rounds found; pricing via https://themanifest.com/company/brighter-click
+
+### Excluded (verified funded or acquired)
+Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
+Billo (€2.9M seed/pre-seed), The Shelf ($1.4M VC per Crunchbase), Common
+Thread Collective (PE from The Acacia Group), Mavely (acquired, Nu Skin
+then Later), Motion ($60M+ across Seed-Series C), Directive Consulting
+(Serent Capital growth investment), Ignite Visibility (backed by
+Mountaingate Capital), Trend.io (acquired by soona).
+
+## Talent management
+
+- **Select Management Group** — https://www.select.co — 500+ creator
+  roster — https://deadline.com/2026/08/mormon-wives-love-island-stars-sign-select-management-1237040858/
+  — "not brought in outside investors" at time of 2018 merger — https://www.hollywoodreporter.com/business/digital/talent-firms-flip-management-select-management-group-merge-1132700/
+- **Underscore Talent** — https://www.underscoretalent.com — founded by
+  ex-Studio71 execs, 2021 — https://deadline.com/2021/01/underscore-talent-management-agency-formed-michael-green-reza-izad-dan-weinstein-1234682202
+- **Shine Talent Group** — https://shinetalentgroup.com — described as
+  having "remained independent" — https://www.netinfluencer.com/shine-talent-groups-jess-hunichen-advocates-for-creator-value/
+- **VRAI Digital** — https://vraidigital.com — solo-founded 2019 — https://shoutoutla.com/meet-molly-tracy-ceo-founder-of-vrai-digital-boutique-talent-management-agency/
+- **johanna b. voss Agency** — https://www.johannavoss.com — founder
+  self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
+  — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
+
+### Excluded (verified funded, acquired, or wrong category)
+Night Media ($70M raised, kept as a control case instead, see below),
+Fixated ($62.8M total incl. Eldridge Industries), Digital Brand Architects
+(acquired by UTA), Symphony Talent Agency (wrong category -- corporate
+recruitment marketing, PE-owned), Beckham Media (wrong company -- a
+Pittsburgh PR firm), Amra & Elma (brand-side agency, not a talent roster),
+The Digital Fairy [talent mgmt search] (couldn't confirm it manages a
+roster rather than running brand campaigns -- it's included in this
+watchlist under the agency subsector instead, see above).
+
+## Control cases (intentionally included, known-funded)
+
+- **Patreon** (software) — CIK 0001860300, Form D on file — validates the
+  EDGAR check flags a real institutionally-funded company correctly.
+- **Night Media** (talent_management) — raised $70M (StepStone Group,
+  Founders Fund, House Capital, K5 Global, PagsGroup) and runs its own
+  $100M VC fund — https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/

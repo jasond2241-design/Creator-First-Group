@@ -59,6 +59,13 @@ def _match_quality(target_norm: str, entity_norm: str) -> Optional[str]:
     a whole-token prefix of the other allows legitimate variants (e.g.
     "Patreon" vs. "Patreon Holdings") while rejecting names where the
     company is merely referenced at the end or in the middle.
+
+    A prefix match is only trusted when the shorter name has at least two
+    tokens: single generic words ("Ghost", "Buffer", "Shine") are common
+    enough as a first word that a prefix match alone is unreliable -- e.g.
+    "Ghost" is a token-prefix of "Ghost Autonomy Inc." and "Ghost Locomotion
+    Inc.", both unrelated companies. Single-token names still match, just
+    only when the full normalized names are identical.
     """
     if not target_norm or not entity_norm:
         return None
@@ -66,6 +73,8 @@ def _match_quality(target_norm: str, entity_norm: str) -> Optional[str]:
         return "exact"
     target_tokens = target_norm.split()
     entity_tokens = entity_norm.split()
+    if min(len(target_tokens), len(entity_tokens)) < 2:
+        return None
     if (
         entity_tokens[: len(target_tokens)] == target_tokens
         or target_tokens[: len(entity_tokens)] == entity_tokens
@@ -91,7 +100,7 @@ class EdgarClient:
         self.request_delay = request_delay
         self._last_request_at = 0.0
 
-    def _get(self, params: dict) -> dict:
+    def _get(self, params: dict, retries: int = 2) -> dict:
         elapsed = time.monotonic() - self._last_request_at
         if elapsed < self.request_delay:
             time.sleep(self.request_delay - elapsed)
@@ -102,6 +111,9 @@ class EdgarClient:
             timeout=15,
         )
         self._last_request_at = time.monotonic()
+        if resp.status_code >= 500 and retries > 0:
+            time.sleep(self.request_delay * 2)
+            return self._get(params, retries=retries - 1)
         resp.raise_for_status()
         return resp.json()
 

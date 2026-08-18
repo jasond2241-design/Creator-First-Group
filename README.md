@@ -55,7 +55,11 @@ Other flags:
 | `ebitda_margin_low` / `ebitda_margin_high` | no | EBITDA | overrides the subsector default margin band when both are supplied |
 | `notes` | no | reference | |
 
-See `data/watchlist.csv` for a seed example.
+See `data/watchlist.csv` for a seed example covering all four subsectors,
+researched from company websites, press coverage, client/case-study pages,
+and LinkedIn. See `data/SOURCES.md` for full citations, the benchmark-input
+methodology, and the list of well-known creator-economy names that were
+checked and excluded because they're actually VC/PE-backed or acquired.
 
 ## Form D check
 
@@ -73,7 +77,14 @@ into the results as false positives.
 - **No matches over an 8-year window -> high confidence, not flagged**
   (reasonably confident there's no Form D on record).
 - **Request failure -> unchecked**, with the error surfaced rather than
-  silently treated as "no filings."
+  silently treated as "no filings" (transient 5xx responses get one retry
+  before surfacing).
+
+Single generic-word company names (e.g. "Ghost") are handled carefully: a
+fuzzy prefix match is only trusted when the shorter of the two names has at
+least two tokens, otherwise unrelated companies that happen to start with
+the same word (e.g. "Ghost Autonomy Inc.") would incorrectly match. See
+`tests/test_edgar.py::test_single_token_name_rejects_prefix_collisions`.
 
 ## Confidence flags
 
