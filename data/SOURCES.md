@@ -51,6 +51,12 @@ the provenance record for every non-obvious number in the watchlist.
 - **Socially Powerful** — https://sociallypowerful.com — no funding rounds
   found; lower-confidence bootstrapped read (absence-of-record only, no
   explicit founder statement located)
+- **The Exposure Co.** (Brisbane, Australia) — https://theexposure.co —
+  Tracxn: unfunded, no institutional or angel investors —
+  https://tracxn.com/d/companies/the-exposure-co/__ySgj-CQaWdRUN8Beaw7oR1YMFF-LY43Yl8HgJEScRWo
+  — founded 2015 by Tara Kingi and Victoria Harrison —
+  https://www.startupdaily.net/advice/exposure-co-crushfame-want-tap-influencer-marketing-industry/
+  — headcount via https://au.linkedin.com/company/the-exposure-co-
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
@@ -105,6 +111,11 @@ Fund, Jan 2023, after being bootstrapped 2016-2023).
   found; founder retrospective — https://medium.com/@isaacrudansky/i-forfeited-760-560-in-revenue-last-year-f5f643670064
 - **Brighter Click** — https://www.brighterclick.com — founded by a
   freelancer in 2019, no funding rounds found; pricing via https://themanifest.com/company/brighter-click
+- **inBeat Agency** (Montreal, Canada) — https://inbeat.agency — Tracxn:
+  unfunded, has not raised any funding —
+  https://tracxn.com/d/companies/inbeat/__W8IJQ2QJdLl3MDSgaw9Jxz4qCOOnr8de_Mn28sEqGEM
+  — co-founded 2019 by David Morneau —
+  https://ca.linkedin.com/in/morneaudavid
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
@@ -124,6 +135,14 @@ Mountaingate Capital), Trend.io (acquired by soona).
 - **johanna b. voss Agency** — https://www.johannavoss.com — founder
   self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
+- **Insanity** (London/LA) — https://insanity.com — B Corp certified,
+  founded 1997 by Andy Varley, who describes it as "a completely
+  independent company with a positive balance sheet and zero debt" —
+  https://www.managementtoday.co.uk/one-founder-launched-global-talent-agency-teenage-bedroom/interviews/article/1793974
+  — B Corp status — https://www.bcorporation.net/en-us/find-a-b-corp/company/insanity-group/
+  — headcount via LinkedIn (~136 employees, Aug 2025) — note: runs a record
+  label as a partnership with Sony Music UK, a content joint venture rather
+  than equity investment, flagged in the CSV note for transparency.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Night Media (raised $70M from StepStone Group, Founders Fund, House
