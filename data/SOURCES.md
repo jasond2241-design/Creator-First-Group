@@ -30,9 +30,9 @@ the provenance record for every non-obvious number in the watchlist.
   known-but-unmodeled revenue figure.
 - Companies verified to have raised institutional/VC/PE funding, or that
   were acquired, are excluded from the "bootstrapped" set entirely (list
-  below), except for two intentional control cases (Patreon, Night Media)
-  kept in the watchlist specifically to validate that the Form D check
-  flags them correctly.
+  below), except for one intentional control case (Patreon) kept in the
+  watchlist specifically to validate that the Form D check flags it
+  correctly.
 
 ## Brand/social agencies
 
@@ -116,9 +116,6 @@ Mountaingate Capital), Trend.io (acquired by soona).
 
 ## Talent management
 
-- **Select Management Group** — https://www.select.co — 500+ creator
-  roster — https://deadline.com/2026/08/mormon-wives-love-island-stars-sign-select-management-1237040858/
-  — "not brought in outside investors" at time of 2018 merger — https://www.hollywoodreporter.com/business/digital/talent-firms-flip-management-select-management-group-merge-1132700/
 - **Underscore Talent** — https://www.underscoretalent.com — founded by
   ex-Studio71 execs, 2021 — https://deadline.com/2021/01/underscore-talent-management-agency-formed-michael-green-reza-izad-dan-weinstein-1234682202
 - **Shine Talent Group** — https://shinetalentgroup.com — described as
@@ -129,19 +126,25 @@ Mountaingate Capital), Trend.io (acquired by soona).
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
 
 ### Excluded (verified funded, acquired, or wrong category)
-Night Media ($70M raised, kept as a control case instead, see below),
-Fixated ($62.8M total incl. Eldridge Industries), Digital Brand Architects
-(acquired by UTA), Symphony Talent Agency (wrong category -- corporate
-recruitment marketing, PE-owned), Beckham Media (wrong company -- a
-Pittsburgh PR firm), Amra & Elma (brand-side agency, not a talent roster),
-The Digital Fairy [talent mgmt search] (couldn't confirm it manages a
-roster rather than running brand campaigns -- it's included in this
-watchlist under the agency subsector instead, see above).
+Night Media (raised $70M from StepStone Group, Founders Fund, House
+Capital, K5 Global, PagsGroup, and runs its own $100M VC fund —
+https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/ —
+removed 2026-08; previously kept as a control case, now dropped entirely
+per user direction), Select Management Group (Artists First acquired a
+minority stake in Feb 2020 — https://www.hollywoodreporter.com/business/business-news/artists-first-acquires-stake-influencers-management-firm-select-1279882/
+, https://www.tubefilter.com/2020/02/19/artists-first-minority-stake-select-management-group/
+— Artists First is majority-owned by Propagate, an institutionally-backed
+media company; removed 2026-08 per user direction, superseding the earlier
+"no institutional equity funding found" read, which predated this
+ownership check), Fixated ($62.8M total incl. Eldridge Industries),
+Digital Brand Architects (acquired by UTA), Symphony Talent Agency (wrong
+category -- corporate recruitment marketing, PE-owned), Beckham Media
+(wrong company -- a Pittsburgh PR firm), Amra & Elma (brand-side agency,
+not a talent roster), The Digital Fairy [talent mgmt search] (couldn't
+confirm it manages a roster rather than running brand campaigns -- it's
+included in this watchlist under the agency subsector instead, see above).
 
 ## Control cases (intentionally included, known-funded)
 
 - **Patreon** (software) — CIK 0001860300, Form D on file — validates the
   EDGAR check flags a real institutionally-funded company correctly.
-- **Night Media** (talent_management) — raised $70M (StepStone Group,
-  Founders Fund, House Capital, K5 Global, PagsGroup) and runs its own
-  $100M VC fund — https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/
