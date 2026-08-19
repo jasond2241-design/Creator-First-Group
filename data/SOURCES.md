@@ -57,6 +57,12 @@ the provenance record for every non-obvious number in the watchlist.
   — founded 2015 by Tara Kingi and Victoria Harrison —
   https://www.startupdaily.net/advice/exposure-co-crushfame-want-tap-influencer-marketing-industry/
   — headcount via https://au.linkedin.com/company/the-exposure-co-
+- **Pulse Advertising** (Hamburg, Germany) — https://www.pulse-advertising.com
+  — "has not raised any funding yet... does not have a single investor" —
+  https://tracxn.com/d/companies/pulse-advertising/__FOZFUo1P0evEpnAH8W6RoGyDXgNm7kxq2zrCHvWhr2o
+  — founded 2014 by Chris Kastenholz and Lara Daniel, origin story —
+  https://www.linkedin.com/pulse/pulse-advertising-founder-lara-daniel-founding-multi-million-tausch
+  — 125+ people across 11 global offices — https://influencermarketinghub.com/influencer-marketing-agencies/pulse-advertising/
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
@@ -91,12 +97,18 @@ acquired by WPP), Cashmere Agency (acquired, S4 Capital), Digital Voices
 - **Flodesk** — https://flodesk.com — founders rejected by YC, self-funded
   with ~$90k savings, now ~$36-37M ARR — https://www.inc.com/jennifer-conrad/she-was-rejected-by-y-combinator-bootstrapped-startup-36-million-arr-flodesk/91278173
   — growth detail — https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu
+- **Systeme.io** (France) — https://systeme.io — "has not raised any
+  funding yet," founder Aurelien Amacker bootstrapped from personal course
+  sales — https://yaro.blog/aurelien-amacker/ — $20.1M ARR (2024), up from
+  $8M (2023) — https://getlatka.com/companies/systemeio
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
 a16z/YC seed), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
 Forerunner Ventures), ThriveCart ($35M investment from LTV SaaS Growth
-Fund, Jan 2023, after being bootstrapped 2016-2023).
+Fund, Jan 2023, after being bootstrapped 2016-2023), Modash (Tallinn,
+Estonia -- $14M raised over 3 rounds incl. a $12M Series A led by henQ VC
+— https://www.eu-startups.com/2024/10/tallinn-based-modash-raises-e11-million-to-help-consumer-brands-scale-creator-partnerships/).
 
 ## Performance marketing
 
