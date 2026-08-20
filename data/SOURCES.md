@@ -70,7 +70,10 @@ Obviously (acquired, WPP), Whalar (multiple seed rounds + 2025 round),
 Viral Nation (~$198M PE, Eldridge/Maverix), Sixteenth (acquired by Whalar),
 Fanbytes (VC-funded, acquired by Brainlabs), The Goat Agency (VC-funded,
 acquired by WPP), Cashmere Agency (acquired, S4 Capital), Digital Voices
-(acquired, PMG), Open Influence (Series A), Mediakix (acquired, Stadiumred).
+(acquired, PMG), Open Influence (Series A), Mediakix (acquired, Stadiumred),
+Narrators (Singapore -- started with $2M initial funding per founder
+Laurent Verrier's background; checked as an APAC influencer-agency
+candidate but funded, not bootstrapped).
 
 ## Software
 
@@ -108,7 +111,10 @@ a16z/YC seed), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
 Forerunner Ventures), ThriveCart ($35M investment from LTV SaaS Growth
 Fund, Jan 2023, after being bootstrapped 2016-2023), Modash (Tallinn,
 Estonia -- $14M raised over 3 rounds incl. a $12M Series A led by henQ VC
-— https://www.eu-startups.com/2024/10/tallinn-based-modash-raises-e11-million-to-help-consumer-brands-scale-creator-partnerships/).
+— https://www.eu-startups.com/2024/10/tallinn-based-modash-raises-e11-million-to-help-consumer-brands-scale-creator-partnerships/),
+Typefully (Italian founders, bootstrapped to $1.6M ARR but took backing
+from Twitter co-founder Evan Williams -- notable-investor-backed, not
+bootstrapped).
 
 ## Performance marketing
 
