@@ -73,7 +73,9 @@ acquired by WPP), Cashmere Agency (acquired, S4 Capital), Digital Voices
 (acquired, PMG), Open Influence (Series A), Mediakix (acquired, Stadiumred),
 Narrators (Singapore -- started with $2M initial funding per founder
 Laurent Verrier's background; checked as an APAC influencer-agency
-candidate but funded, not bootstrapped).
+candidate but funded, not bootstrapped), Influency.me (Sao Paulo, Brazil --
+2021 press release announced it "commences fundraising to accelerate
+growth," so treated as funded/fundraising rather than bootstrapped).
 
 ## Software
 
@@ -141,7 +143,10 @@ Billo (€2.9M seed/pre-seed), The Shelf ($1.4M VC per Crunchbase), Common
 Thread Collective (PE from The Acacia Group), Mavely (acquired, Nu Skin
 then Later), Motion ($60M+ across Seed-Series C), Directive Consulting
 (Serent Capital growth investment), Ignite Visibility (backed by
-Mountaingate Capital), Trend.io (acquired by soona).
+Mountaingate Capital), Trend.io (acquired by soona), Nqyer (Hamburg,
+Germany -- raised $50K in 2016 from next media accelerator and SAP.io
+Foundry Munich; also more of an influencer directory/platform than a
+managed talent roster).
 
 ## Talent management
 
@@ -161,9 +166,15 @@ Mountaingate Capital), Trend.io (acquired by soona).
   — headcount via LinkedIn (~136 employees, Aug 2025) — note: runs a record
   label as a partnership with Sony Music UK, a content joint venture rather
   than equity investment, flagged in the CSV note for transparency.
+- **Scooperz** (Breda, Netherlands) — https://scooperz.com — described as
+  "the largest and most successful independent social media and influencer
+  agency in the Netherlands"; founded 2011 by Esther Goos. No funding
+  rounds found on Crunchbase. First Netherlands entry in this subsector.
 
 ### Excluded (verified funded, acquired, or wrong category)
-Night Media (raised $70M from StepStone Group, Founders Fund, House
+Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
+acquired by Gameaddik on Jan 31, 2024, so no longer independent), L'AGENCY
+(Amsterdam, Netherlands -- acquired by PCV Group on Nov 28, 2024), Night Media (raised $70M from StepStone Group, Founders Fund, House
 Capital, K5 Global, PagsGroup, and runs its own $100M VC fund —
 https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/ —
 removed 2026-08; previously kept as a control case, now dropped entirely
