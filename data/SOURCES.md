@@ -75,7 +75,13 @@ Narrators (Singapore -- started with $2M initial funding per founder
 Laurent Verrier's background; checked as an APAC influencer-agency
 candidate but funded, not bootstrapped), Influency.me (Sao Paulo, Brazil --
 2021 press release announced it "commences fundraising to accelerate
-growth," so treated as funded/fundraising rather than bootstrapped).
+growth," so treated as funded/fundraising rather than bootstrapped),
+FLUVIP (Bogota, Colombia -- $7.87M raised over 5 rounds, Series A in 2018,
+per Crunchbase), AJ Marketing (Singapore/Seoul -- Crunchbase shows seed
+funding round(s) on record), Arfadia (Jakarta, Indonesia -- founded 2008
+"with zero investors" per its own site, but its company-profile page now
+states a co-investor/advisor joined in 2024, so it's no longer purely
+bootstrapped as of that date).
 
 ## Software
 
