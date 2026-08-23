@@ -63,6 +63,15 @@ the provenance record for every non-obvious number in the watchlist.
   — founded 2014 by Chris Kastenholz and Lara Daniel, origin story —
   https://www.linkedin.com/pulse/pulse-advertising-founder-lara-daniel-founding-multi-million-tausch
   — 125+ people across 11 global offices — https://influencermarketinghub.com/influencer-marketing-agencies/pulse-advertising/
+- **NØRR3** (Helsinki, Finland) — https://norr3.fi — branded "Finland's
+  only independent full-service insight and media agency," explicitly
+  employee-owned — https://norr3.fi/en/norr3/ — member of the
+  "Independent Nordic Network" alongside HowCom (Sweden), Calibrate
+  (Denmark), TRY Opt (Norway). Founded 2019; revenue grew 160%+ YoY,
+  exceeding EUR10M in 2023, with ~60 employees -- net_revenue_per_head in
+  the CSV is derived from that disclosed ratio, not a pure benchmark.
+  Note: general digital/media agency, not creator-specific, but fits the
+  agency subsector's existing scope (similar to Pulse Advertising's mix).
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
