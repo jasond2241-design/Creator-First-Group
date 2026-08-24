@@ -131,7 +131,10 @@ Estonia -- $14M raised over 3 rounds incl. a $12M Series A led by henQ VC
 — https://www.eu-startups.com/2024/10/tallinn-based-modash-raises-e11-million-to-help-consumer-brands-scale-creator-partnerships/),
 Typefully (Italian founders, bootstrapped to $1.6M ARR but took backing
 from Twitter co-founder Evan Williams -- notable-investor-backed, not
-bootstrapped).
+bootstrapped), Bonjoro (Sydney, Australia -- raised ~$743K seed plus ~$1M
+AUD from Equity Venture Partners, Grand Prix Capital, and Tidal Ventures
+per Crunchbase; personal-video messaging tool used by creators/businesses,
+checked as a software candidate but funded, not bootstrapped).
 
 ## Performance marketing
 
