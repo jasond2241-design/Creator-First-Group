@@ -154,6 +154,15 @@ checked as a software candidate but funded, not bootstrapped).
   https://tracxn.com/d/companies/inbeat/__W8IJQ2QJdLl3MDSgaw9Jxz4qCOOnr8de_Mn28sEqGEM
   — co-founded 2019 by David Morneau —
   https://ca.linkedin.com/in/morneaudavid
+- **UGCers** (Haslemere, UK) — https://www.ugcers.com — UK Companies House
+  #15201857, incorporated Oct 2023 —
+  https://find-and-update.company-information.service.gov.uk/company/15201857
+  — persons-with-significant-control filing confirms co-founders Leanne
+  Orr and Riina Stocker each hold 25-50% share ownership as individuals,
+  with no institutional/corporate controller listed —
+  https://find-and-update.company-information.service.gov.uk/company/15201857/persons-with-significant-control
+  — first watchlist entry verified directly via a national company
+  registry rather than a third-party funding tracker or press statement.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
