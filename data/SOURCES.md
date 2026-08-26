@@ -197,6 +197,14 @@ managed talent roster).
   "the largest and most successful independent social media and influencer
   agency in the Netherlands"; founded 2011 by Esther Goos. No funding
   rounds found on Crunchbase. First Netherlands entry in this subsector.
+- **Get Social With Lily** (UK) — https://www.getsocialwithlily.co.uk —
+  founded 2024 by Lily Mae Herridge-Baker. UK Companies House #15990304,
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/15990304/persons-with-significant-control
+  — confirms Herridge-Baker as the sole controller, an individual holding
+  75%+ of shares and voting rights, no institutional/corporate entity
+  listed. Second watchlist entry verified directly via a national company
+  registry (after UGCers).
 
 ### Excluded (verified funded, acquired, or wrong category)
 Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
