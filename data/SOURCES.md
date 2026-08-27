@@ -121,6 +121,16 @@ bootstrapped as of that date).
   funding yet," founder Aurelien Amacker bootstrapped from personal course
   sales — https://yaro.blog/aurelien-amacker/ — $20.1M ARR (2024), up from
   $8M (2023) — https://getlatka.com/companies/systemeio
+- **Subs (Subco Group)** (UK) — https://subs.com — creator subscription
+  platform launched May 2025 by Tim Stokely, founder of OnlyFans —
+  https://en.wikipedia.org/wiki/Subs.com — verified via UK Companies
+  House #14818102: officers filing confirms Timothy Christopher Stokely
+  and Guy Robert Stokely as directors —
+  https://find-and-update.company-information.service.gov.uk/company/14818102/officers
+  — persons-with-significant-control filing confirms Timothy Christopher
+  Stokely as sole controller, an individual holding 75%+ of shares and
+  voting rights, no institutional/corporate entity listed —
+  https://find-and-update.company-information.service.gov.uk/company/14818102/persons-with-significant-control
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
@@ -225,7 +235,11 @@ category -- corporate recruitment marketing, PE-owned), Beckham Media
 (wrong company -- a Pittsburgh PR firm), Amra & Elma (brand-side agency,
 not a talent roster), The Digital Fairy [talent mgmt search] (couldn't
 confirm it manages a roster rather than running brand campaigns -- it's
-included in this watchlist under the agency subsector instead, see above).
+included in this watchlist under the agency subsector instead, see above),
+The Independents (Paris -- $400M raised, latest round Private Equity,
+investors include Cathay Capital, TowerBrook Capital Partners, and FL
+Entertainment per Crunchbase; grown via acquisitions of creative/PR
+agencies).
 
 ## Control cases (intentionally included, known-funded)
 
