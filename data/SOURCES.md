@@ -51,6 +51,25 @@ the provenance record for every non-obvious number in the watchlist.
 - **Socially Powerful** — https://sociallypowerful.com — no funding rounds
   found; lower-confidence bootstrapped read (absence-of-record only, no
   explicit founder statement located)
+- **The Social Shepherd** (Bath, UK) — https://thesocialshepherd.com —
+  founded 2018 by married co-founders Jack Shepherd and Zoe Alexandra
+  Margaret Stephenson. Verified via UK Companies House #11573646,
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/11573646/persons-with-significant-control
+  — confirms both founders as the only controllers, individuals each
+  holding 25-50% of shares, no institutional/corporate entity listed.
+- **The Good Influence** (London/Manchester) — https://www.thegoodinfluence.co.uk
+  — founded 2021 by Sarah Crawley and Josh Harding. Verified via UK
+  Companies House #13444864 (The Good Influence Group Limited),
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/13444864/persons-with-significant-control
+  — confirms both founders as the only controllers, individuals each
+  holding 25-50% of shares, no institutional/corporate entity listed.
+  (Note: a separate, more recently incorporated "Good Influence Holdings
+  Limited" turned up in the same search with an unrelated individual as
+  sole controller -- no connection to this agency was found, and it was
+  not pursued further; flagged here only so a future run doesn't
+  mistake the two for the same business.)
 - **The Exposure Co.** (Brisbane, Australia) — https://theexposure.co —
   Tracxn: unfunded, no institutional or angel investors —
   https://tracxn.com/d/companies/the-exposure-co/__ySgj-CQaWdRUN8Beaw7oR1YMFF-LY43Yl8HgJEScRWo
