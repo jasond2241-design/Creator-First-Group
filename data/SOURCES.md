@@ -211,6 +211,13 @@ managed talent roster).
 - **Shine Talent Group** — https://shinetalentgroup.com — described as
   having "remained independent" — https://www.netinfluencer.com/shine-talent-groups-jess-hunichen-advocates-for-creator-value/
 - **VRAI Digital** — https://vraidigital.com — solo-founded 2019 — https://shoutoutla.com/meet-molly-tracy-ceo-founder-of-vrai-digital-boutique-talent-management-agency/
+- **86 Talent** (UK) — https://86talent.com — founded 2023 by Melissa
+  Ritchie, a former influencer herself. Verified via UK Companies House
+  (Eightysix Talent Ltd, #14445061), persons-with-significant-control
+  filing —
+  https://find-and-update.company-information.service.gov.uk/company/14445061/persons-with-significant-control
+  — confirms Ritchie as sole controller, an individual holding 75%+ of
+  shares and voting rights, no institutional/corporate entity listed.
 - **johanna b. voss Agency** — https://www.johannavoss.com — founder
   self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
