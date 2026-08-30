@@ -192,6 +192,14 @@ checked as a software candidate but funded, not bootstrapped).
   https://find-and-update.company-information.service.gov.uk/company/15201857/persons-with-significant-control
   — first watchlist entry verified directly via a national company
   registry rather than a third-party funding tracker or press statement.
+- **Another Concept** (Leeds, UK) — https://anotherconcept.co.uk —
+  founded May 2023 by four ex-agency colleagues — https://www.yorkshirepost.co.uk/business/new-leeds-marketing-agency-hopes-to-redefine-the-agency-model-4383433
+  — verified via UK Companies House #14873367,
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/14873367/persons-with-significant-control
+  — confirms Richard Hart, Marcus Hearn, Alexander Gregory, and Thomas
+  Brook by name as the only controllers, each an individual holding
+  25-50% of shares, no institutional/corporate entity listed.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
