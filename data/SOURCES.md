@@ -163,7 +163,9 @@ from Twitter co-founder Evan Williams -- notable-investor-backed, not
 bootstrapped), Bonjoro (Sydney, Australia -- raised ~$743K seed plus ~$1M
 AUD from Equity Venture Partners, Grand Prix Capital, and Tidal Ventures
 per Crunchbase; personal-video messaging tool used by creators/businesses,
-checked as a software candidate but funded, not bootstrapped).
+checked as a software candidate but funded, not bootstrapped), Pillar
+(San Francisco -- creator storefront/link-in-bio tool; raised a seed
+round with Four Cities Capital per Crunchbase).
 
 ## Performance marketing
 
