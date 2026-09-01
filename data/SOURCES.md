@@ -253,7 +253,9 @@ managed talent roster).
   registry (after UGCers).
 
 ### Excluded (verified funded, acquired, or wrong category)
-Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
+GG Talent Group (Naperville, Illinois -- raised a $20M Series A led by
+Coral Tree Partners, spring 2022, then acquired by Loaded on Mar 12,
+2024), Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
 acquired by Gameaddik on Jan 31, 2024, so no longer independent), L'AGENCY
 (Amsterdam, Netherlands -- acquired by PCV Group on Nov 28, 2024), Night Media (raised $70M from StepStone Group, Founders Fund, House
 Capital, K5 Global, PagsGroup, and runs its own $100M VC fund —
