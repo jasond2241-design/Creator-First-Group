@@ -91,6 +91,19 @@ the provenance record for every non-obvious number in the watchlist.
   the CSV is derived from that disclosed ratio, not a pure benchmark.
   Note: general digital/media agency, not creator-specific, but fits the
   agency subsector's existing scope (similar to Pulse Advertising's mix).
+- **Faulhaber** (Toronto/Montreal/Vancouver, Canada) — https://faulhaber.agency
+  — founded 2001 by Christine Faulhaber, self-described as "an
+  independent, woman-owned" agency for 25 years —
+  https://faulhaber.agency/about-us/ — founder identity corroborated via
+  Forbes Agency Council — https://councils.forbes.com/profile/Christine-Faulhaber-Founder-CEO-Faulhaber/dd15b651-b6d2-4735-9130-a4c12847d176
+  and Toronto Metropolitan University alumni recognition —
+  https://www.torontomu.ca/trsm-alumni/alumni-recognition/alumni-awards/2024-award/christinefaulhaber/
+  — no funding rounds found, but NOT verified via a Canadian company
+  registry (Corporations Canada's online search tool did not return
+  results for a GET-style query, and the entity may be provincially
+  rather than federally incorporated) -- medium-high confidence based on
+  sustained "independent" branding plus absence-of-record, one tier below
+  the UK Companies House registry confirmations elsewhere in this file.
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
