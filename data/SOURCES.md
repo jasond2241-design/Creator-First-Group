@@ -146,6 +146,17 @@ bootstrapped as of that date).
 - **Ghost** — https://ghost.org — nonprofit Ghost Foundation, funded via
   2013 Kickstarter after 2x YC rejection; crossed $10M ARR per founder —
   https://x.com/JohnONolan/status/2029195753428758756
+- **Senja** (London, UK) — https://senja.io — co-founded 2023 by Olly
+  Meakings and Wilson Wilson, who met via X's #buildinpublic community —
+  https://support.senja.io/who-created-senja-9kqxi — explicitly
+  self-described as bootstrapped, $0 external funding and ~$800K ARR per
+  https://getlatka.com/companies/senja.io — verified via UK Companies
+  House (Senja Proof Ltd, #14609789), persons-with-significant-control
+  filing —
+  https://find-and-update.company-information.service.gov.uk/company/14609789/persons-with-significant-control
+  — confirms Oliver Dominic Meakings and Nnani Wilson Wilson (ceased June
+  2025) as the only controllers, both individuals, no institutional
+  entity listed.
 - **Flodesk** — https://flodesk.com — founders rejected by YC, self-funded
   with ~$90k savings, now ~$36-37M ARR — https://www.inc.com/jennifer-conrad/she-was-rejected-by-y-combinator-bootstrapped-startup-36-million-arr-flodesk/91278173
   — growth detail — https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu
@@ -264,6 +275,16 @@ managed talent roster).
   75%+ of shares and voting rights, no institutional/corporate entity
   listed. Second watchlist entry verified directly via a national company
   registry (after UGCers).
+- **Blinding Talent** (UK) — https://www.blindingtalent.com — independent
+  music artist management/marketing consultancy founded 2021 by Mark
+  Adams (28 years in music TV, ex-Channel 4/Bauer/Emap) and Scott Monks —
+  https://musically.com/2026/08/13/from-the-box-to-blinding-talent-mark-adams-on-28-years-shaping-music-tv-and-artist-careers/
+  — verified via UK Companies House #13246982,
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/13246982/persons-with-significant-control
+  — confirms Mark Steven Adams and Scott Anthony Monks by name as the
+  only controllers, each an individual holding 25-50% of shares, no
+  institutional/corporate entity listed.
 
 ### Excluded (verified funded, acquired, or wrong category)
 GG Talent Group (Naperville, Illinois -- raised a $20M Series A led by
