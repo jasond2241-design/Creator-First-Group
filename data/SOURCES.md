@@ -104,6 +104,17 @@ the provenance record for every non-obvious number in the watchlist.
   rather than federally incorporated) -- medium-high confidence based on
   sustained "independent" branding plus absence-of-record, one tier below
   the UK Companies House registry confirmations elsewhere in this file.
+- **Block Report** (London, UK) — https://www.blockreport.uk — AI-driven
+  social PR/cultural-intelligence agency founded Dec 2024 by Jack
+  Colchester (ex-Wonderhood) and Chris Grimwood (ex-Iris, since departed)
+  — named one of Campaign's "Eight New Agencies to Watch in 2026" —
+  https://www.campaignlive.co.uk/article/eight-media-agencies-watch-2025/1900928
+  — verified via UK Companies House #16112510,
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/16112510/persons-with-significant-control
+  — confirms Colchester as the sole active controller, an individual
+  holding 75%+ of shares and voting rights, no institutional/corporate
+  entity listed.
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
