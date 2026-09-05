@@ -209,6 +209,13 @@ round with Four Cities Capital per Crunchbase).
   — manages $500M+ in media spend (company-reported)
 - **KlientBoost** — https://www.klientboost.com — founder built on personal
   savings, chose agency model over VC-backed SaaS deliberately — https://pod.tomhunt.io/e/x816wj1n-bootstrapping-klientboost-to-1m-mrr-with-jonathan-dane-of-klientboost
+- **UGC3** (UK) — https://ugc3.co.uk — founded by Ashley Chinyangarara,
+  inspired by his own experience as a UGC creator —
+  https://www.influme.io/blog/top-ugc-agencies-uk — verified via UK
+  Companies House #16812965, persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/16812965/persons-with-significant-control
+  — confirms Chinyangarara as sole controller, an individual holding 75%+
+  of shares and voting rights, no institutional/corporate entity listed.
 - **Kynship** — https://www.kynship.co — no funding rounds found on
   Crunchbase/PitchBook/Tracxn
 - **AdVenture Media Group** — https://adventuremedia.ai — no funding rounds
