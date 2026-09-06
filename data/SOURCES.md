@@ -51,6 +51,16 @@ the provenance record for every non-obvious number in the watchlist.
 - **Socially Powerful** — https://sociallypowerful.com — no funding rounds
   found; lower-confidence bootstrapped read (absence-of-record only, no
   explicit founder statement located)
+- **NEI** (Lisbon, Portugal) — https://nei.agency — founded April 2021 by
+  Nuna Martins, Erika Barra, and Ines Cunha. Launch coverage headline:
+  "Independencia e palavra de ordem da nova agencia de marketing de
+  influencia NEI" ("Independence is the watchword of the new influence
+  marketing agency NEI") —
+  https://marketeer.sapo.pt/independencia-e-palavra-de-ordem-da-nova-agencia-de-marketing-de-influencia-nei
+  — no funding rounds found. NOT verified via a Portuguese company
+  registry (no accessible free registry found); medium-high confidence
+  based on explicit independence framing at launch plus absence-of-record.
+  First Portugal entry.
 - **The Social Shepherd** (Bath, UK) — https://thesocialshepherd.com —
   founded 2018 by married co-founders Jack Shepherd and Zoe Alexandra
   Margaret Stephenson. Verified via UK Companies House #11573646,
