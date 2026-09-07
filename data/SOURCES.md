@@ -313,9 +313,19 @@ managed talent roster).
   — confirms Mark Steven Adams and Scott Anthony Monks by name as the
   only controllers, each an individual holding 25-50% of shares, no
   institutional/corporate entity listed.
+- **L3TCRAFT** (Madrid, Spain) — https://www.l3tcraft.com — founded 2013
+  by four YouTubers (Alexelcapo, Tonacho, Chincheto77, and Aitor
+  "Milicua" Fernandez, confirmed founder/COO via LinkedIn) as the first
+  YouTubers agency in Spain; LinkedIn lists it as "self-owned," 11-50
+  employees; no funding rounds found. Not verified via a Spanish company
+  registry (no accessible free registry found). First Spanish-speaking
+  market entry in this subsector.
 
 ### Excluded (verified funded, acquired, or wrong category)
-GG Talent Group (Naperville, Illinois -- raised a $20M Series A led by
+Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
+representation agency, clients incl. Ibai Llanos, El Rubius, Willyrex;
+acquired by Webedia in 2021), GG Talent Group (Naperville, Illinois --
+raised a $20M Series A led by
 Coral Tree Partners, spring 2022, then acquired by Loaded on Mar 12,
 2024), Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
 acquired by Gameaddik on Jan 31, 2024, so no longer independent), L'AGENCY
