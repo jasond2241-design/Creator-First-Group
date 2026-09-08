@@ -167,6 +167,15 @@ bootstrapped as of that date).
 - **Ghost** — https://ghost.org — nonprofit Ghost Foundation, funded via
   2013 Kickstarter after 2x YC rejection; crossed $10M ARR per founder —
   https://x.com/JohnONolan/status/2029195753428758756
+- **Kunfupay** (Murcia, Spain, Delaware-incorporated) — https://www.kunfupay.com
+  — founded 2022 by Ruben Romero; press quote: "ha crecido... de forma
+  completamente organica, sin recurrir a financiacion externa" —
+  https://ecosistemastartup.com/kunfupay-un-millon-al-mes-sin-inversion-externa/
+  — ~EUR1M/month revenue, 2,000+ creators, though US funds have since
+  shown interest — https://www.cantabriaeconomica.com/patrocinado/informacion-al-dia/kunfupay-la-startup-espanola-que-factura-un-millon-de-euros-al-mes-sin-inversion-capta-la-atencion-de-fondos-estadounidenses/
+  — SEC EDGAR full-text search for "Kunfupay"/"Kunfu" (with Form D
+  filter) returns zero hits, consistent with no US securities offering
+  to date.
 - **Senja** (London, UK) — https://senja.io — co-founded 2023 by Olly
   Meakings and Wilson Wilson, who met via X's #buildinpublic community —
   https://support.senja.io/who-created-senja-9kqxi — explicitly
