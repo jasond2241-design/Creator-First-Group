@@ -329,6 +329,17 @@ managed talent roster).
   employees; no funding rounds found. Not verified via a Spanish company
   registry (no accessible free registry found). First Spanish-speaking
   market entry in this subsector.
+- **Side** (Sao Paulo, Brazil) — https://sideco.com.br — founded 2017 by
+  Larissa Calheiros and Tatiane Medeiros, reportedly starting with R$400
+  in capital —
+  https://www.poder360.com.br/poder-empreendedor/empresarias-abrem-agencia-de-marketing-com-investimento-de-so-r-400/
+  — Exame headline: "Sem investimento inicial, elas criaram agencia de
+  marketing de influencia" —
+  https://exame.com/negocios/sem-investimento-inicial-elas-criaram-agencia-de-marketing-de-influencia-e-miram-r-36-mi-em-2025/
+  — real disclosed revenue R$32M (2025) per Forbes Brasil —
+  https://forbes.com.br/forbes-mkt/2026/04/infomercial-side-co-uma-decada-moldando-a-creator-economy/
+  — not verified via a Brazilian company registry; first Brazil/LATAM
+  entry and first Portuguese-speaking market entry in this subsector.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
