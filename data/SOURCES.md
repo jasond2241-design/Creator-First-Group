@@ -204,6 +204,22 @@ bootstrapped as of that date).
   Stokely as sole controller, an individual holding 75%+ of shares and
   voting rights, no institutional/corporate entity listed —
   https://find-and-update.company-information.service.gov.uk/company/14818102/persons-with-significant-control
+- **Payhip** (London, UK) — https://payhip.com — digital-product storefront
+  for creators (courses, downloads, memberships, 5%/2%/0% fee tiers by
+  plan); founded 2012/2013 by brothers Abshir ("Abs") and Kahin Farah.
+  Verified via UK Companies House: Payhip Ltd (#08386910)
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/08386910/persons-with-significant-control
+  — confirms both brothers as the only controllers, each an individual
+  holding 25-50% of shares/voting rights; the related Payhip Holdings Ltd
+  (#16772931) —
+  https://find-and-update.company-information.service.gov.uk/company/16772931/persons-with-significant-control
+  — is wholly controlled by Kahin Farah (75%+), no institutional/corporate
+  PSC anywhere in the structure. Third-party aggregator revenue/headcount
+  figures (~$14.2M revenue, 152-164 employees) conflict sharply with
+  LinkedIn's own 2-10 employee count and are not disclosed by the company
+  -- treated as unreliable, so customers/arpu left blank rather than
+  guessed. Fourth UK software entry.
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
@@ -219,7 +235,12 @@ AUD from Equity Venture Partners, Grand Prix Capital, and Tidal Ventures
 per Crunchbase; personal-video messaging tool used by creators/businesses,
 checked as a software candidate but funded, not bootstrapped), Pillar
 (San Francisco -- creator storefront/link-in-bio tool; raised a seed
-round with Four Cities Capital per Crunchbase).
+round with Four Cities Capital per Crunchbase), SendOwl (UK -- founded by
+George Palmer 2010, but acquired by Plotke in 2020, which then raised
+$4.5M in seed funding backed by Stripe -- https://www.siliconrepublic.com/start-ups/sendowl-seed-funding-stripe
+-- no longer independent), Beacons.ai (checked again 2026-09-11: also
+raised a $23M Series A in Nov 2023 with a16z among prior investors,
+confirming the earlier exclusion).
 
 ## Performance marketing
 
