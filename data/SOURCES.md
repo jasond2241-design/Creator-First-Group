@@ -125,6 +125,27 @@ the provenance record for every non-obvious number in the watchlist.
   — confirms Colchester as the sole active controller, an individual
   holding 75%+ of shares and voting rights, no institutional/corporate
   entity listed.
+- **One Shot Group** (Milan, Italy) — https://www.oneshotgroup.it — digital
+  talent/influencer marketing group (One Shot Agency manages 35+ digital
+  creators, plus a streaming and a music-label unit); founded 2017 by
+  Eugenio Scotto (CEO), Matteo Maffucci (Creative Director), and Benedetta
+  Balestri (Managing Director), named consistently across two separate
+  Forbes Italia profiles —
+  https://forbes.it/2023/04/21/one-shot-group-agenzia-influencer-marketing
+  and https://forbes.it/2023/11/14/benedetta-balestri-agenzia-one-shot-group-talenti-digitali
+  — real disclosed revenue over EUR7M in 2022 (+30% YoY), ~40 employees
+  plus the three founders, corroborated by trade press —
+  https://www.adcgroup.it/adv-express/news/industry/industry/one-shot-group-chiude-il-2022-con-un-fatturato-di-oltre-7-milioni-di-euro-e-una-crescita-del-30-nello-stesso-anno-il-gruppo-si-consolida-in-quattro-unit-e-firma-la-sua-prima-joint-venture.html
+  , https://www.engage.it/agenzie/one-shot-group-cresce-del-30-e-si-consolida-in-quattro-unit.aspx
+  , https://www.touchpoint.news/2023/01/25/one-shot-chiude-il-2022-in-crescita-del-30-a-quota-7-milioni-di-fatturato/
+  — no funding rounds or investors found in any source searched. NOT
+  verified via the Italian company registry (Registro Imprese/Camera di
+  Commercio ownership/shareholder data is paywalled -- same access issue
+  as other Italian/French entities); confidence rests on convergent
+  named-founder press coverage, same evidentiary tier as Side (Brazil) and
+  NEI (Portugal). net_revenue_per_head=$175,000 in the CSV is derived from
+  the real EUR7M/2022 figure divided by headcount, not a pure benchmark.
+  First Italian entry.
 
 ### Excluded (verified funded or acquired)
 Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
@@ -143,7 +164,28 @@ per Crunchbase), AJ Marketing (Singapore/Seoul -- Crunchbase shows seed
 funding round(s) on record), Arfadia (Jakarta, Indonesia -- founded 2008
 "with zero investors" per its own site, but its company-profile page now
 states a co-investor/advisor joined in 2024, so it's no longer purely
-bootstrapped as of that date).
+bootstrapped as of that date), House of Marketers (London, UK TikTok
+agency -- backed by private-equity investor Ethos Partners via a buy-out
+funded with a seven-figure loan from Frontier Development Capital —
+https://www.frontierdevelopmentcapital.com/news/fdc-backs-private-equity-buy-out-at-leading-tiktok-agency/
+), Creative Converters (Melbourne, Australia UGC/TikTok agency founded
+2020 by Noah Hunter Dorsey -- TMSPC Group (parent of Admosis Media Group)
+acquired an 85% majority stake, per B&T and Campaign Brief trade coverage,
+so no longer independent).
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+Stride Social (Worthing, UK influencer agency co-founded by Alex Hendy and
+Ollie Kitson) -- UK Companies House (#14198728) shows both founders held
+PSC status only until 13 Oct 2025, when it was replaced by a filed
+statement of "no registrable person"; critically, a Singapore entity,
+"Stride Global Holdings Pte. Ltd.", held 75%+ control immediately before
+that change. Unclear whether this Singapore holding company is itself
+wholly founder-owned (a common tax-structuring move) or represents
+outside/institutional capital -- no funding announcement was found either
+way. Left out rather than guessed; a future run could try to trace
+Stride Global Holdings Pte. Ltd.'s own ownership via Singapore's ACRA
+(previously found to require paid access) or a founder interview that
+addresses the Singapore entity directly.
 
 ## Software
 
