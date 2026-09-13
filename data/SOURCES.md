@@ -114,6 +114,22 @@ the provenance record for every non-obvious number in the watchlist.
   rather than federally incorporated) -- medium-high confidence based on
   sustained "independent" branding plus absence-of-record, one tier below
   the UK Companies House registry confirmations elsewhere in this file.
+- **AIDEM Agency** (Amsterdam, Netherlands) — https://www.aidem-agency.com —
+  full-service TikTok agency, registered as Aidem Agency B.V. (Dutch KVK
+  #85557137, incorporated 2022) — https://us.kompass.com/c/aidem-agency-b-v/nlc9820910/
+  — grew out of a YouTube content-production venture founded 2016 by Senna
+  Kost and Oscar Mooy, formalized as an independent agency in 2021, joined
+  by Marwan Guedamsi in 2020 — https://www.aidem-agency.com/about-us —
+  second agency in Europe to get a TikTok for Business case study —
+  https://ads.tiktok.com/business/en/inspiration/aidem-agency-tiktok-success-story
+  — no funding rounds found on Crunchbase/Tracxn (no dedicated profile for
+  the Amsterdam entity found at all). NOT verified via a registry-level
+  ownership check (Dutch UBO/beneficial-ownership data is paywalled, same
+  limitation as other EU jurisdictions) -- medium confidence based on
+  consistently named co-founders plus absence-of-funding-record, same
+  tier as Movement Strategy/Faulhaber. First Netherlands entry in the
+  agency subsector (Scooperz already covers Netherlands under
+  talent_management).
 - **Block Report** (London, UK) — https://www.blockreport.uk — AI-driven
   social PR/cultural-intelligence agency founded Dec 2024 by Jack
   Colchester (ex-Wonderhood) and Chris Grimwood (ex-Iris, since departed)
@@ -429,6 +445,16 @@ category -- corporate recruitment marketing, PE-owned), Beckham Media
 not a talent roster), The Digital Fairy [talent mgmt search] (couldn't
 confirm it manages a roster rather than running brand campaigns -- it's
 included in this watchlist under the agency subsector instead, see above),
+Treasure Hunter (Seoul, South Korea -- South Korea's first independent
+MCN, founded 2015 by Song Jae-yong -- but raised institutional capital
+from SK Telecom ($4.3M), Industrial Bank of Korea, DSC Investment, and
+Link2 Infotainment, and pursued a stock-exchange listing rather than
+staying independent), SWAI (Warsaw/Berlin -- UGC/nano-influencer agency
+founded by Oliwia Dumnicka; UK-registered SWAI LTD Companies House PSC
+filing confirms Dumnicka as sole individual controller, no institutional
+entity -- genuinely founder-owned, but only ~4 employees and no revenue
+disclosed anywhere, clearly too small to approach the $5M+ threshold, so
+left out on size grounds rather than a funding concern),
 The Independents (Paris -- $400M raised, latest round Private Equity,
 investors include Cathay Capital, TowerBrook Capital Partners, and FL
 Entertainment per Crunchbase; grown via acquisitions of creative/PR
