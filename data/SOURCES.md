@@ -141,6 +141,27 @@ the provenance record for every non-obvious number in the watchlist.
   — confirms Colchester as the sole active controller, an individual
   holding 75%+ of shares and voting rights, no institutional/corporate
   entity listed.
+- **IPLIX Media** (Gurugram, India) — https://iplixmedia.com — creator-economy
+  company blending talent management, branded content, and creator-led
+  ventures for top Indian influencers; founded 2019 by Neel Gogia,
+  converted to IPLIX MEDIA LLP in 2020 with UK-based partner Jag Chima
+  joining — https://yourstory.com/2022/01/iplix-media-connects-influencers-brands
+  — explicit founder quote on funding: "We are in no need to raise capital
+  right now, if in the future we need to then, we will enter the market to
+  raise capital. We are happy where we are." — same article — corroborated
+  by Tracxn: "has not raised any funding yet" —
+  https://tracxn.com/d/companies/iplix/__6_VaYiDkv2X6RwllXCdOJgL6BAk1x9Ebs5Cx_YvFyHE
+  — real disclosed revenue INR84 crore (~$10.1M) for FY2024-25, +95% YoY,
+  163 employees, per trade press (Entrepreneur India profile —
+  https://www.entrepreneur.com/en-in/social-media/behind-the-scenes-the-agency-behind-some-of-indias/432290
+  ). NOT verified via India's MCA registry (LLP partner/ownership data is
+  paywalled), but the explicit founder no-funding quote is the same
+  evidentiary tier used for Kit/Nathan Barry and Systeme.io/Aurelien
+  Amacker elsewhere in this file. net_revenue_per_head=$62,000 is derived
+  from the real FY2024-25 figure divided by headcount, not a benchmark --
+  notably lower than other agency entries' per-head figures, consistent
+  with a larger-headcount creator-economy platform rather than a boutique
+  creative agency. First India entry.
 - **One Shot Group** (Milan, Italy) — https://www.oneshotgroup.it — digital
   talent/influencer marketing group (One Shot Agency manages 35+ digital
   creators, plus a streaming and a music-label unit); founded 2017 by
@@ -187,7 +208,11 @@ https://www.frontierdevelopmentcapital.com/news/fdc-backs-private-equity-buy-out
 ), Creative Converters (Melbourne, Australia UGC/TikTok agency founded
 2020 by Noah Hunter Dorsey -- TMSPC Group (parent of Admosis Media Group)
 acquired an 85% majority stake, per B&T and Campaign Brief trade coverage,
-so no longer independent).
+so no longer independent), Gushcloud International (Singapore -- pan-Asia
+influencer/talent agency founded 2011 by Althea Lim and Vincent Ha;
+Crunchbase/Tracxn show $14.5M raised over 6 rounds including a Series A,
+with investors incl. YG Entertainment, Wavemaker Partners, and YDM --
+checked as an APAC talent-agency candidate but funded, not bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Stride Social (Worthing, UK influencer agency co-founded by Alex Hendy and
@@ -201,7 +226,14 @@ outside/institutional capital -- no funding announcement was found either
 way. Left out rather than guessed; a future run could try to trace
 Stride Global Holdings Pte. Ltd.'s own ownership via Singapore's ACRA
 (previously found to require paid access) or a founder interview that
-addresses the Singapore entity directly.
+addresses the Singapore entity directly. Minimalist Agency (Mexico City --
+performance/influencer marketing agency founded 2015 by CEO Alexis
+Soubran, described in press only as "one of Mexico's leading independent
+digital agencies") -- "independent" here reads as ad-industry shorthand
+for "not part of a holding network" (WPP/Omnicom/etc.) rather than a
+funding claim, no explicit no-VC statement or revenue/headcount figure
+found anywhere, and Tracxn's page returned 403/blocked -- left out for
+insufficient evidence rather than guessed either way.
 
 ## Software
 
