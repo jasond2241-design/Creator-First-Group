@@ -233,7 +233,19 @@ digital agencies") -- "independent" here reads as ad-industry shorthand
 for "not part of a holding network" (WPP/Omnicom/etc.) rather than a
 funding claim, no explicit no-VC statement or revenue/headcount figure
 found anywhere, and Tracxn's page returned 403/blocked -- left out for
-insufficient evidence rather than guessed either way.
+insufficient evidence rather than guessed either way. Curve (Tromso/Oslo,
+Norway -- performance marketing agency founded 2023 by Sivert Ridderseth
+and Alex Andreessen, paid-per-performance model across Meta/Google/
+Snapchat/TikTok for Scandinavian B2C brands) -- no funding confirmation
+either way was found (Crunchbase/PitchBook/Dealroom pages didn't resolve
+to usable content), and the company's own materials gave conflicting
+managed-ad-spend figures across sources (one said "over 1.5 million EUR
+monthly," another said "15 million EUR" -- a 10x discrepancy). Using the
+more conservative, primary-source figure (EUR1.5M/month = EUR18M/year)
+against a typical performance-marketing fee rate doesn't clearly clear
+the $5M threshold either. Left out on both funding-ambiguity and
+data-quality grounds; a future run could revisit once the company (very
+new, founded 2023) has more third-party coverage.
 
 ## Software
 
@@ -330,7 +342,17 @@ George Palmer 2010, but acquired by Plotke in 2020, which then raised
 $4.5M in seed funding backed by Stripe -- https://www.siliconrepublic.com/start-ups/sendowl-seed-funding-stripe
 -- no longer independent), Beacons.ai (checked again 2026-09-11: also
 raised a $23M Series A in Nov 2023 with a16z among prior investors,
-confirming the earlier exclusion).
+confirming the earlier exclusion), Linktree (Melbourne, Australia --
+link-in-bio pioneer, bootstrapped to $10M ARR by 2020 per company
+retrospectives, but has since raised $165.7M total across Series B/C
+rounds led by Index Ventures and Coatue at a $1.3B valuation -- no longer
+bootstrapped, checked as an obvious Australian software candidate given
+its founding story is often mis-cited as a pure-bootstrap success), Twigeo
+(Stockholm, Sweden -- TikTok/app growth marketing agency; Crunchbase shows
+$150K raised over 1 round, so not purely bootstrapped), Moongency
+(Hamburg, Germany -- influencer/artist management agency founded 2022 by
+Janet Pawelczyk; acquired by MYTY Group on Dec 18, 2024, no longer
+independent).
 
 ## Performance marketing
 
