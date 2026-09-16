@@ -352,7 +352,19 @@ its founding story is often mis-cited as a pure-bootstrap success), Twigeo
 $150K raised over 1 round, so not purely bootstrapped), Moongency
 (Hamburg, Germany -- influencer/artist management agency founded 2022 by
 Janet Pawelczyk; acquired by MYTY Group on Dec 18, 2024, no longer
-independent).
+independent), Agorapulse (Paris, France -- social media management tool
+often cited as a French bootstrap success story, but Crunchbase shows
+$18.3M raised across a seed round and a 2019 venture round led by Hi
+Inov, with Cipio Partners and Starquest Capital also investors -- funded,
+not bootstrapped), Sendible (London, UK -- founder Gavin Hammar
+bootstrapped it from his spare bedroom in 2009 to ~GBP2M turnover by 2015
+with no outside investment, but the company was acquired by Traject in
+March 2021 -- no longer independent), TubeBuddy (bootstrapped YouTube
+optimization tool per Tracxn/Latka, grew to $4.8M revenue with a 44-person
+team, but acquired by Branded Entertainment Network on 29-Oct-2020 -- no
+longer independent), vidIQ (YouTube optimization suite -- $7.3M raised
+across 3 rounds per Crunchbase, backed by Mark Cuban and other angels --
+funded, not bootstrapped).
 
 ## Performance marketing
 
@@ -422,6 +434,28 @@ managed talent roster).
   https://find-and-update.company-information.service.gov.uk/company/14445061/persons-with-significant-control
   — confirms Ritchie as sole controller, an individual holding 75%+ of
   shares and voting rights, no institutional/corporate entity listed.
+- **AFK Creators** (London, UK) — https://www.thisisafk.com — gaming/esports
+  talent management agency founded 2018 by Matt Woods, starting from his
+  living room — https://theclick.news/afk-creators/ — explicit founder
+  quote: "It was all self-revenue generation... we don't have a board to
+  answer to" (same article). Verified via UK Companies House (AFK Creators
+  Ltd, #11771069, incorporated Jan 2019),
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/11771069/persons-with-significant-control
+  — confirms Matthew Woods (50-75% of shares) and Haodong Zhang (25-50%)
+  as the only controllers, both individuals, no institutional/corporate
+  entity listed. IMPORTANT: several unrelated companies share the generic
+  "AFK" name at Companies House (AFK Group Limited #11073561, PSC Alim
+  Firoz Karmali; AFK Studios Group Ltd #12575969, PSC Earle Peter Brent
+  Arney) -- both entirely unconnected to Woods. This entry cites only AFK
+  Creators Ltd #11771069, the one actually matching Woods by name, after
+  explicitly ruling the other two out -- a name-collision risk analogous
+  to the "Ghost" Form D false-positive elsewhere in this file. Companies
+  House lists 20 employees for this specific Ltd; press describes the
+  wider "AFK Group" umbrella (which includes ventures beyond talent
+  management) reaching 98 employees by 2026, but that figure isn't
+  isolated to this entity so wasn't used. No company-specific revenue or
+  roster GMV found.
 - **johanna b. voss Agency** — https://www.johannavoss.com — founder
   self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
@@ -512,7 +546,8 @@ left out on size grounds rather than a funding concern),
 The Independents (Paris -- $400M raised, latest round Private Equity,
 investors include Cathay Capital, TowerBrook Capital Partners, and FL
 Entertainment per Crunchbase; grown via acquisitions of creative/PR
-agencies).
+agencies), Prodigy Agency (esports talent representation, founded 2017 --
+CB Insights shows $1.21M raised at Seed stage, so not bootstrapped).
 
 ## Control cases (intentionally included, known-funded)
 
