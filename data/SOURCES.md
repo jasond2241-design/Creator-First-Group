@@ -212,7 +212,20 @@ so no longer independent), Gushcloud International (Singapore -- pan-Asia
 influencer/talent agency founded 2011 by Althea Lim and Vincent Ha;
 Crunchbase/Tracxn show $14.5M raised over 6 rounds including a Series A,
 with investors incl. YG Entertainment, Wavemaker Partners, and YDM --
-checked as an APAC talent-agency candidate but funded, not bootstrapped).
+checked as an APAC talent-agency candidate but funded, not bootstrapped),
+Kingfluencers (Zurich, Switzerland -- Swiss market-leading influencer
+agency founded 2015; Swiss Founders Fund invested, and the company was
+acquired by Naoo on 14-Mar-2025 -- both funded and no longer independent).
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+Vibrander (Cordoba, Argentina -- performance/"brandformance" marketing
+agency founded 2019 by Tatiana Morozovsky and Giuliano Flesler, ~22-25
+people, 40-50+ clients, first Great Place to Work-certified performance
+agency in Cordoba) -- no funding announcement found either way, and no
+explicit founder no-VC statement; also no managed-ad-spend or revenue
+figure disclosed anywhere, so even if bootstrapped status were confirmed
+there's no real number to feed the performance_marketing model. Left out
+on both evidentiary and data-availability grounds.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Stride Social (Worthing, UK influencer agency co-founded by Alex Hendy and
@@ -364,7 +377,20 @@ optimization tool per Tracxn/Latka, grew to $4.8M revenue with a 44-person
 team, but acquired by Branded Entertainment Network on 29-Oct-2020 -- no
 longer independent), vidIQ (YouTube optimization suite -- $7.3M raised
 across 3 rounds per Crunchbase, backed by Mark Cuban and other angels --
-funded, not bootstrapped).
+funded, not bootstrapped), Fohr (New York -- influencer marketing
+platform founded 2013 by James Nord; Crunchbase shows $1.76M raised from
+Ataraxia Capital Partners, O'Reilly AlphaTech Ventures, Indie.vc, and
+Joyance Partners -- funded, not bootstrapped).
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+Boozt.io (Manila, Philippines -- creator-economy platform led by
+co-founder/CEO Jason Deniega, mission to enable Filipino creators to earn
+from their work) -- received a PHP4.1M (~$73K) DOST-PCIEERD government
+startup grant, which is non-dilutive rather than VC equity, so doesn't
+automatically disqualify it the way institutional funding would; but no
+revenue, customer count, or other financial figure was found anywhere,
+so there's nothing to feed the software model even if bootstrapped status
+were otherwise confirmed. Left out on data-availability grounds.
 
 ## Performance marketing
 
