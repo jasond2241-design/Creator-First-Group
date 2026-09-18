@@ -338,7 +338,9 @@ new, founded 2023) has more third-party coverage.
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
-a16z/YC seed), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
+a16z/YC seed), Hype/HypeKit (creator marketing and payments platform
+founded 2016 -- Crunchbase shows a Series A with Bullpen Capital among
+investors -- funded, not bootstrapped), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
 Forerunner Ventures), ThriveCart ($35M investment from LTV SaaS Growth
 Fund, Jan 2023, after being bootstrapped 2016-2023), Modash (Tallinn,
 Estonia -- $14M raised over 3 rounds incl. a $12M Series A led by henQ VC
@@ -390,7 +392,19 @@ startup grant, which is non-dilutive rather than VC equity, so doesn't
 automatically disqualify it the way institutional funding would; but no
 revenue, customer count, or other financial figure was found anywhere,
 so there's nothing to feed the software model even if bootstrapped status
-were otherwise confirmed. Left out on data-availability grounds.
+were otherwise confirmed. Left out on data-availability grounds. Nine
+Agency (Sweden/Nordics -- influencer marketing agency founded 2018 by
+Viktor Nylén and Jacob Boe as a continuation of Nouw.com, a Scandinavian
+blogging platform sold off in 2022) -- the entity trail is genuinely
+confusing: the original holding company (Nouw Media AB, renamed Nine & Co
+Group AB) reported 32.1M SEK revenue in 2022 (~$3M), and a related entity
+Collabri AB (board chaired by Jacob Boe) reported 30.5M SEK in 2025
+(~$2.9M) with only 6 employees -- neither entity individually clears the
+$5M threshold, and it's unclear how these relate to the wider "Nine
+Agency" brand operating across Sweden/Norway/Denmark/Finland (possibly
+separate national entities not surfaced here). Left out on both
+threshold and entity-structure-clarity grounds rather than guessed at a
+combined figure.
 
 ## Performance marketing
 
