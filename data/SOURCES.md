@@ -448,6 +448,17 @@ combined figure.
   — confirms Richard Hart, Marcus Hearn, Alexander Gregory, and Thomas
   Brook by name as the only controllers, each an individual holding
   25-50% of shares, no institutional/corporate entity listed.
+- **TBAR Partners** (Los Angeles area) — https://tbarpartners.com —
+  official TikTok Shop Partner agency launched June 2025 by Tyler
+  Brechbiel and Alex Rudolph, college baseball teammates at Grace College,
+  Indiana, who dropped out to run the agency full-time —
+  https://www.netinfluencer.com/tbar-partners-built-a-tiktok-shop-agency-around-what-brands-get-wrong-about-the-channel/
+  — this tool's own SEC EDGAR full-text search for "TBAR Partners" returns
+  zero Form D filings. No explicit founder no-funding quote found, but
+  also no funding round found anywhere. Manages $5M+/month in gross
+  merchandise value (GMV, not company revenue) across 30+ brands. Very
+  new (~15 months old at time of writing) -- likely still below the $5M
+  threshold.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
@@ -458,7 +469,21 @@ then Later), Motion ($60M+ across Seed-Series C), Directive Consulting
 Mountaingate Capital), Trend.io (acquired by soona), Nqyer (Hamburg,
 Germany -- raised $50K in 2016 from next media accelerator and SAP.io
 Foundry Munich; also more of an influencer directory/platform than a
-managed talent roster).
+managed talent roster), Uptickk (TikTok Shop agency, one of four
+agencies in TikTok Shop's early beta program -- backed by Caldicot
+Capital, funded not bootstrapped).
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
+Elsea, reports driving $130-150M+/year in client GMV -- not the agency's
+own revenue) -- this tool's own SEC EDGAR search returns zero Form D
+filings, but founder Alex Elsea's bio describes him as "known for driving
+growth in venture-backed companies" and having "scaled a startup to a
+$250M Series D valuation" (his past employers, not necessarily MomentIQ
+itself), and "every full-time team member holds equity" hints at an
+external-investor-style cap table without confirming one. No explicit
+funding announcement found either way. Left out on ambiguity grounds
+rather than guessed.
 
 ## Talent management
 
