@@ -130,6 +130,18 @@ the provenance record for every non-obvious number in the watchlist.
   tier as Movement Strategy/Faulhaber. First Netherlands entry in the
   agency subsector (Scooperz already covers Netherlands under
   talent_management).
+- **InHype** (Dubai, UAE) — https://www.inhype.social — creator/influencer
+  marketing agency for beauty, retail, and FMCG brands across the UAE and
+  Saudi Arabia; founded 2016/2017 by Nour Chaar (Founder & CEO) —
+  https://campaignme.com/inhype-a-next-gen-influencer-agency-for-brands/
+  — Tracxn: "has not raised any funding yet." Team named specifically as
+  an "agency family of 20" (Jad Gosen, Devya Ghosn among named staff),
+  though LinkedIn's broader band is 11-50. No UAE company-registry
+  ownership check available (no free public equivalent to UK Companies
+  House found for the UAE), so confidence rests on the Tracxn signal plus
+  a consistently-named founder, same tier as Faulhaber/Movement Strategy.
+  Third-party revenue estimates ($1-5M/yr, algorithmic) are not used.
+  First Middle East/GCC entry.
 - **Block Report** (London, UK) — https://www.blockreport.uk — AI-driven
   social PR/cultural-intelligence agency founded Dec 2024 by Jack
   Colchester (ex-Wonderhood) and Chris Grimwood (ex-Iris, since departed)
@@ -382,7 +394,15 @@ across 3 rounds per Crunchbase, backed by Mark Cuban and other angels --
 funded, not bootstrapped), Fohr (New York -- influencer marketing
 platform founded 2013 by James Nord; Crunchbase shows $1.76M raised from
 Ataraxia Capital Partners, O'Reilly AlphaTech Ventures, Indie.vc, and
-Joyance Partners -- funded, not bootstrapped).
+Joyance Partners -- funded, not bootstrapped), Skool (Las Vegas --
+community-plus-course platform founded 2019 by Sam Ovens; raised $0 in
+formal VC rounds, but Alex Hormozi's firm Acquisition.com became a
+confirmed outside investor/partner in 2023, described by Ovens as "the
+largest investment of his life" -- treated as notable-investor-backed
+rather than bootstrapped, same standard applied to Typefully/Evan
+Williams elsewhere in this file), Mighty Networks (community platform --
+$66M raised across 3 rounds, most recently 2021 -- funded, not
+bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Boozt.io (Manila, Philippines -- creator-economy platform led by
