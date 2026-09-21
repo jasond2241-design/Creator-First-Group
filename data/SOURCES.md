@@ -314,6 +314,19 @@ new, founded 2023) has more third-party coverage.
   — confirms Oliver Dominic Meakings and Nnani Wilson Wilson (ceased June
   2025) as the only controllers, both individuals, no institutional
   entity listed.
+- **Subscribr** — https://subscribr.ai — AI scriptwriting/ideation
+  platform built exclusively for YouTube creators; founder Gil Hildebrand
+  ran it solo for ~1.5 years before a co-founder joined, explicitly chose
+  "the path of not taking VC money," bootstrapped from $0 plus a $20K
+  customer pre-launch presale (not equity) —
+  https://startupfounderstories.com/stories/gil-hildebrand-subscribr-10k-mrr
+  — reached $1M in annual revenue within 18 months of launch with 4,000+
+  paying customers — https://www.thestartupstorys.com/2026/03/gil-hildebrands-subscribr-story.html
+  — this tool's own SEC EDGAR full-text search for "Subscribr" returns
+  zero Form D filings. customers=4,000 and arpu=$250 are both derived
+  from the two independently disclosed figures above, not a benchmark
+  guess. Likely below the $5M qualifying threshold at current scale, but
+  included given the unusually clean, explicit-founder-quote sourcing.
 - **Flodesk** — https://flodesk.com — founders rejected by YC, self-funded
   with ~$90k savings, now ~$36-37M ARR — https://www.inc.com/jennifer-conrad/she-was-rejected-by-y-combinator-bootstrapped-startup-36-million-arr-flodesk/91278173
   — growth detail — https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu
@@ -503,7 +516,13 @@ $250M Series D valuation" (his past employers, not necessarily MomentIQ
 itself), and "every full-time team member holds equity" hints at an
 external-investor-style cap table without confirming one. No explicit
 funding announcement found either way. Left out on ambiguity grounds
-rather than guessed.
+rather than guessed. The UGC Agency (Wembley, UK -- UGC marketing agency
+founded by Aleks Velev, 3,000+ creator network across 11 ad platforms)
+-- Tracxn: unfunded. Registered as THE UGC LONDON LIMITED (Companies
+House #16071533), but only incorporated 11 Nov 2024 with first accounts
+not due until 11 Aug 2026, so no revenue/headcount figures exist in the
+public record yet. Left out purely on data-availability/company-age
+grounds; worth re-checking once its first accounts are filed.
 
 ## Talent management
 
