@@ -227,10 +227,25 @@ with investors incl. YG Entertainment, Wavemaker Partners, and YDM --
 checked as an APAC talent-agency candidate but funded, not bootstrapped),
 Kingfluencers (Zurich, Switzerland -- Swiss market-leading influencer
 agency founded 2015; Swiss Founders Fund invested, and the company was
-acquired by Naoo on 14-Mar-2025 -- both funded and no longer independent).
+acquired by Naoo on 14-Mar-2025 -- both funded and no longer independent),
+Wowzi (Nairobi, Kenya -- creator/influencer marketplace founded 2019 by
+Brian Mogeni, Mike Otieno, and Dr. Hassan Bashir; raised $3.2M total
+across pre-seed and seed rounds led by 4DX Ventures, with To.org, Golden
+Palm Investments, LoftyInc Capital, and others -- funded, not
+bootstrapped; checked as an East Africa creator-platform candidate).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
-Vibrander (Cordoba, Argentina -- performance/"brandformance" marketing
+Upeo Talent Agency (Nairobi, Kenya -- East African talent management and
+creative consultancy founded 2016 by Mike Mutenyo, representing
+musicians, actors, and content creators across 10+ African markets) -- no
+funding, revenue, or headcount information found anywhere; genuinely
+unknown funding status rather than confirmed bootstrapped. GO2JUMP
+(Barcelona/Madrid, Spain -- general digital marketing agency, Google/
+HubSpot/Meta partner, founded 2008) -- no founder name found to check
+against any registry, and it reads as a generalist digital-marketing shop
+(SEO/PPC/CRO/web analytics) rather than a creator-economy-specific
+business, so it doesn't clearly fit this watchlist's scope even before
+funding status is considered. Vibrander (Cordoba, Argentina -- performance/"brandformance" marketing
 agency founded 2019 by Tatiana Morozovsky and Giuliano Flesler, ~22-25
 people, 40-50+ clients, first Great Place to Work-certified performance
 agency in Cordoba) -- no funding announcement found either way, and no
