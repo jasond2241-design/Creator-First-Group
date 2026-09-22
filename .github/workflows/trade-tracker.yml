@@ -1,0 +1,45 @@
+name: Trade Tracker
+
+on:
+  schedule:
+    # 13:17 UTC daily -- after both efdsearch.senate.gov and OGE's data
+    # refresh for the day, off the top of the hour to avoid pile-ups.
+    - cron: "17 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trade-tracker-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch new trades and filings
+        run: |
+          python -m trade_tracker.update_data \
+            --user-agent "Creator First Group Trade Tracker (GitHub Actions) 22jasond1@gmail.com"
+
+      - name: Commit and push data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/senate_trades.json data/executive_filings.json data/tracker_state.json
+          if git diff --cached --quiet; then
+            echo "No new trades or filings."
+          else
+            git commit -m "Update trade tracker data [automated]"
+            git push
+          fi

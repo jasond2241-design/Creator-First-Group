@@ -169,6 +169,34 @@ understanding before reading its output as equivalent to the Senate data:
   your environment can reach that host before assuming there's nothing to
   report.
 
+## Running it automatically
+
+`.github/workflows/trade-tracker.yml` runs `trade_tracker/update_data.py`
+daily (13:17 UTC, plus a manual "Run workflow" button via
+`workflow_dispatch`) and commits any new trades/filings straight back to
+the repo -- no separate server or hosting needed.
+
+- **First run**: no `data/tracker_state.json` yet, so it backfills the
+  trailing `DEFAULT_BACKFILL_DAYS` (270 days) of Senate PTR filings. With
+  a few hundred filings to fetch at a polite one-request-per-half-second
+  pace, expect this run to take several minutes.
+- **Every run after that**: only asks for filings since the last
+  successful run's watermark (with a few days of overlap re-checked, in
+  case a filing posted late) -- fast, and safe to re-run any time, since
+  merges are deduped by content rather than by run count.
+- Results land in three files under `data/`, each just a JSON array/object
+  kept in git so history is visible in diffs:
+  - `senate_trades.json` -- every itemized Trade seen so far, newest first
+  - `executive_filings.json` -- the OGE President/VP filing index, if any
+  - `tracker_state.json` -- the last-run watermark and any source errors
+    from the most recent run (so a persistent OGE connection failure is
+    visible without digging through Action logs)
+
+Scheduled workflows only fire from the repo's default branch, so the daily
+run won't start until this is merged there; until then (or if you just
+want to check it works), trigger it manually from the Actions tab with
+"Run workflow."
+
 ## Tests
 
 ```bash
