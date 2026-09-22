@@ -105,3 +105,77 @@ pytest
 ```
 
 EDGAR tests run against mocked responses (no network access required).
+
+---
+
+# Congressional & Presidential Trade Tracker
+
+Tracks stock trades disclosed by U.S. Senators and by the President/Vice
+President, pulled live from the two official disclosure systems as filings
+land -- there is no seed CSV here, everything comes from the source.
+
+## Usage
+
+```bash
+python -m trade_tracker.cli --user-agent "Your Name you@example.com"
+python -m trade_tracker.cli --since 2026-01-01 --senator Booker --ticker NVDA --json
+```
+
+Other flags:
+
+- `--since` / `--until` -- filter by filing submission date (`YYYY-MM-DD`)
+- `--senator` -- filter to politicians whose name contains this substring
+- `--ticker` -- filter to one ticker symbol
+- `--skip-senate` / `--skip-executive` -- skip either source
+- `--json` -- emit JSON instead of a text summary
+
+Both source sites expect a descriptive `User-Agent` with contact info, same
+as SEC EDGAR above -- pass yours via `--user-agent`.
+
+## Two sources, two different levels of fidelity
+
+**Senate** (`trade_tracker/senate_efd.py`): itemized, ticker-level Periodic
+Transaction Reports (PTRs), which the STOCK Act requires senators to file
+within 30-45 days of a trade. Pulled live from the Senate's Electronic
+Financial Disclosure system (`efdsearch.senate.gov`) -- its search UI gates
+on a one-time "prohibition agreement" click, then serves results from a
+DataTables JSON endpoint; each filing's own transaction table is scraped
+for ticker, transaction date, owner (self/spouse/joint/dependent child),
+buy/sell type, and the disclosed dollar range. A small number of older
+filings were submitted on paper (scanned images) and have no structured
+data to parse -- those are surfaced as `unsupported_format`, not silently
+dropped or miscounted as "no trades."
+
+**Executive branch / President & Vice President**
+(`trade_tracker/executive_oge.py`): fundamentally different, and worth
+understanding before reading its output as equivalent to the Senate data:
+
+- They file an annual OGE Form 278e, not a 45-day PTR. The STOCK Act
+  technically extends the PTR requirement to the President/VP too, but in
+  practice their disclosed holdings are almost always widely-diversified
+  funds or Treasury instruments, which are *exempt* from that requirement
+  -- so there is often nothing itemized to find, and that's expected, not
+  a bug in this tool.
+- The U.S. Office of Government Ethics (OGE) hosts a document *index*
+  (name, title, filing type, agency, date, and a link) via a DataTables API
+  at `extapps2.oge.gov` -- but the documents themselves are PDFs, not
+  structured tables like the Senate's PTR pages. This client returns
+  `Filing` index records, not itemized `Trade` records, on purpose: a
+  pointer to "here's a disclosure, go read it," not parsed trade lines.
+- `extapps2.oge.gov` was found to be unreachable from some restricted
+  network environments during development (the TLS handshake itself gets
+  reset). Failures are raised/surfaced rather than treated as "zero
+  filings" -- if you see an executive-branch lookup error, check whether
+  your environment can reach that host before assuming there's nothing to
+  report.
+
+## Tests
+
+```bash
+pytest
+```
+
+Both clients' tests run against mocked responses (no network access
+required) -- fixtures were captured from real live responses during
+development, including the nested HTML the Senate PTR page uses for its
+Asset Name and Ticker columns.
