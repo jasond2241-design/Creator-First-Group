@@ -459,6 +459,22 @@ combined figure.
 - **Hawke Media** — https://www.hawkemedia.com — founder Erik Huberman:
   self-funded growth, no outside investment — https://erikhuberman.com/posts/scaling-without-strings-the-power-of-self-funded-growth/
   — manages $500M+ in media spend (company-reported)
+- **Positive Agency** (Lima, Peru) — https://www.positive.agency —
+  performance/digital-media agency with distributed teams across Mexico,
+  Colombia, Peru, and Chile (clients incl. Canon, Volvo Trucks, Sodimac);
+  founded ~2009 by Miguel de la Roca and Hugo Rodriguez, who met as
+  students at the University of Lima —
+  https://www.latinpost.com/articles/166875/20260206/two-peruvian-marketing-visionaries-show-global-brands-how-intelligent-talent-distribution-creates.htm
+  and https://www.techtimes.com/articles/314354/20260128/co-founders-miguel-de-la-roca-hugo-rodriguez-transform-how-international-companies-navigate-latin.htm
+  — no funding rounds or investors found on Crunchbase for either the
+  company or Miguel de la Roca's person profile. managed_ad_spend=$10M is
+  a conservative floor from the company's own press materials ("manages
+  over $10 million in digital media investment") -- treated as a floor,
+  not a precise figure, so the true managed spend and implied revenue may
+  be higher; fee_rate=15% is a benchmark, not disclosed. ~50 employees per
+  one press source, not independently corroborated. NOT verified via a
+  Peruvian company registry (SUNARP ownership data not freely accessible).
+  First Peru entry.
 - **KlientBoost** — https://www.klientboost.com — founder built on personal
   savings, chose agency model over VC-backed SaaS deliberately — https://pod.tomhunt.io/e/x816wj1n-bootstrapping-klientboost-to-1m-mrr-with-jonathan-dane-of-klientboost
 - **UGC3** (UK) — https://ugc3.co.uk — founded by Ashley Chinyangarara,
