@@ -642,6 +642,22 @@ grounds; worth re-checking once its first accounts are filed.
   https://forbes.com.br/forbes-mkt/2026/04/infomercial-side-co-uma-decada-moldando-a-creator-economy/
   — not verified via a Brazilian company registry; first Brazil/LATAM
   entry and first Portuguese-speaking market entry in this subsector.
+- **Johnson & Laird** (Auckland, New Zealand) — https://johnsonlaird.com —
+  talent agency (actors, voice artists, presenters, MCs, plus a dedicated
+  content-creators/social-influencer division "J&L Creators"); founded
+  2002 by Imogen Johnson, celebrating its 25th year in 2026 —
+  https://www.nzherald.co.nz/lifestyle/society-insider-nz-talent-agency-johnson-laird-celebrates-25-years-imogen-johnson-shares-biggest-moments/premium/TGI4M5P3AFAD3IGWWPPAANPWNI/
+  — verified via the New Zealand Companies Register (company #1168630) —
+  https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1168630/shareholdings
+  — shareholder list: Imogen Johnson (92%+1%), Theresa Maria Healey (6%),
+  Dennis Johnson (1%) -- all individuals, no institutional/corporate
+  shareholder. First watchlist entry verified via New Zealand's company
+  registry. Third-party sources cite $5.9M revenue (not a company
+  disclosure, treated cautiously) and 16 staff per the NZ Herald profile
+  (other sources cite 14 or 42 -- 16 used as the most recent primary
+  source). No verified roster GMV or commission rate -- real revenue is
+  cited for reference only, not fed into the model, same treatment as
+  Side (Brazil). First New Zealand entry.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
@@ -683,6 +699,16 @@ investors include Cathay Capital, TowerBrook Capital Partners, and FL
 Entertainment per Crunchbase; grown via acquisitions of creative/PR
 agencies), Prodigy Agency (esports talent representation, founded 2017 --
 CB Insights shows $1.21M raised at Seed stage, so not bootstrapped).
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+Liquorice (Grey Lynn, Auckland, New Zealand -- influencer/talent agency
+founded 2020 by Gina Williams-Folau and Greer Bland, both previously at
+Undertow Media) -- Tracxn: unfunded. Real named founders and a genuinely
+promising profile, but revenue is only a vague third-party range ($1-5M,
+straddling the qualifying threshold) and headcount is small (5-9 per
+ZoomInfo/SignalHire) -- not verified via the New Zealand Companies
+Register the way Johnson & Laird was. Left out on data-precision grounds
+rather than guessed; worth a registry check in a future run.
 
 ## Control cases (intentionally included, known-funded)
 
