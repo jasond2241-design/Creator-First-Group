@@ -658,6 +658,20 @@ grounds; worth re-checking once its first accounts are filed.
   source). No verified roster GMV or commission rate -- real revenue is
   cited for reference only, not fed into the model, same treatment as
   Side (Brazil). First New Zealand entry.
+- **Liquorice** (Grey Lynn, Auckland, New Zealand) — https://www.liquorice.co.nz
+  — influencer/talent agency founded 2020 by Gina Williams-Folau and
+  Greer Bland, both previously at Undertow Media (Bland as founder,
+  Williams-Folau as a long-time senior director) — Tracxn: unfunded.
+  Verified via the New Zealand Companies Register (LIQUORICE LIMITED,
+  company #8126798) —
+  https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8126798/shareholdings
+  — shareholder list: Greer Elizabeth Bland (50%) and Gina Rae Williams
+  (50%), both individuals, no institutional/corporate shareholder. Second
+  New Zealand entry verified via that registry. Revenue is only a vague
+  third-party range ($1-5M) and headcount only 5-9 (ZoomInfo/SignalHire),
+  neither a reliable disclosed figure, so no roster GMV was computed;
+  commission_rate=15% is a benchmark, not disclosed. Likely below the $5M
+  threshold at current scale.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
@@ -701,14 +715,17 @@ agencies), Prodigy Agency (esports talent representation, founded 2017 --
 CB Insights shows $1.21M raised at Seed stage, so not bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
-Liquorice (Grey Lynn, Auckland, New Zealand -- influencer/talent agency
-founded 2020 by Gina Williams-Folau and Greer Bland, both previously at
-Undertow Media) -- Tracxn: unfunded. Real named founders and a genuinely
-promising profile, but revenue is only a vague third-party range ($1-5M,
-straddling the qualifying threshold) and headcount is small (5-9 per
-ZoomInfo/SignalHire) -- not verified via the New Zealand Companies
-Register the way Johnson & Laird was. Left out on data-precision grounds
-rather than guessed; worth a registry check in a future run.
+AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
+talent agency, 150+ creators, founded by Andrea Roche in 2013 as a
+branch of her Andrea Roche Model Agency, established 2010) -- press
+reports "over EUR500,000" in one year's revenue back in 2014 and a
+separate, undated "EUR850,000 in profits" figure with no clear source or
+year; the operating legal entity (A.R Models Limited, Irish CRO #480816)
+has accounts on file, but SoloCheck paywalls the actual figures and
+ownership details (same access issue as other Irish-registry checks in
+this file). Left out on data-reliability grounds -- the only free
+figures are either too old or too vague to establish current scale or
+funding status.
 
 ## Control cases (intentionally included, known-funded)
 
