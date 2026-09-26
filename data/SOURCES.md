@@ -712,7 +712,11 @@ The Independents (Paris -- $400M raised, latest round Private Equity,
 investors include Cathay Capital, TowerBrook Capital Partners, and FL
 Entertainment per Crunchbase; grown via acquisitions of creative/PR
 agencies), Prodigy Agency (esports talent representation, founded 2017 --
-CB Insights shows $1.21M raised at Seed stage, so not bootstrapped).
+CB Insights shows $1.21M raised at Seed stage, so not bootstrapped),
+The Right Fit (Darlinghurst, Australia -- talent/creator marketplace
+co-founded 2016 by Taryn Williams and Aurelien Labonne -- raised $750K
+seed from AirTree Ventures and SoGal Ventures per Crunchbase, then
+exited to international acquirers in 2023 -- funded and acquired).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
@@ -725,7 +729,18 @@ has accounts on file, but SoloCheck paywalls the actual figures and
 ownership details (same access issue as other Irish-registry checks in
 this file). Left out on data-reliability grounds -- the only free
 figures are either too old or too vague to establish current scale or
-funding status.
+funding status. Born Bred Talent (Sydney, Australia -- TikTok-first
+talent agency founded 2017 by Clare Winterbourn, first to launch TikTok
+talent representation in Australia/NZ, 250+ creators) -- Tracxn: "has
+not raised any funding yet," 10-14 employees. No revenue figure found
+anywhere, and ASIC's company register returned 403 (consistent with
+Australia's registry requiring an authenticated session, no free
+ownership lookup found). Also note: Winterbourn stepped away from
+day-to-day operations in 2026 in favor of a new managing director and
+head of finance, described in trade press as a normal founder succession
+rather than an acquisition -- no ownership-change evidence found either
+way. Left out on data-availability grounds (no revenue to model, no
+registry confirmation) rather than any specific funding concern.
 
 ## Control cases (intentionally included, known-funded)
 
