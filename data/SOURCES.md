@@ -591,6 +591,18 @@ grounds; worth re-checking once its first accounts are filed.
   management) reaching 98 employees by 2026, but that figure isn't
   isolated to this entity so wasn't used. No company-specific revenue or
   roster GMV found.
+- **Trend** (Nashville, Tennessee) — https://www.trendmanagement.com —
+  influencer marketing/talent management company (divisions incl. Trend
+  Social, Trend Elevate, Trend Athletes); founded Jan 7, 2019 by Ted Raad,
+  a former Hewlett-Packard IT M&A employee. Explicit founder quote: "My
+  only startup costs were a laptop and internet" —
+  https://www.entrepreneur.com/building-a-business/this-dads-side-hustle-led-to-80-million-a-year-my-only-startup-costs-were-a-laptop-and-internet
+  — this tool's own SEC EDGAR full-text search returns zero Form D
+  filings across "Trend," "Trend Inc," "Trend LLC," and "Trend
+  Management." Represents 130+ creator clients; roster_gmv=$80,000,000 is
+  company-reported ("secures approximately $80 million in brand deals
+  annually"); commission_rate=15% is a benchmark, not disclosed. ~100-110
+  employees per company reporting/press.
 - **johanna b. voss Agency** — https://www.johannavoss.com — founder
   self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
