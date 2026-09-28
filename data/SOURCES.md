@@ -114,6 +114,16 @@ the provenance record for every non-obvious number in the watchlist.
   rather than federally incorporated) -- medium-high confidence based on
   sustained "independent" branding plus absence-of-record, one tier below
   the UK Companies House registry confirmations elsewhere in this file.
+- **Clark Influence** (Montreal, Canada) — https://www.clarkinfluence.com —
+  influencer marketing/social content agency with offices in Montreal,
+  Toronto, Paris, and Austin, TX; founded 2017 on Clark Street in Montreal
+  by Vincent Bronner and Nicolas Bon —
+  https://montrealguardian.com/montreal-business-clark-influence/ —
+  Great Place to Work Canada certified. No funding rounds found on
+  Crunchbase/Tracxn/PitchBook (a targeted search for "Clark Influence
+  funding" surfaced only an unrelated German insurtech confusingly also
+  named "Clark," not this company). Not verified via a Canadian company
+  registry (same limitation as Faulhaber). ~11-50 employees per LinkedIn.
 - **AIDEM Agency** (Amsterdam, Netherlands) — https://www.aidem-agency.com —
   full-service TikTok agency, registered as Aidem Agency B.V. (Dutch KVK
   #85557137, incorporated 2022) — https://us.kompass.com/c/aidem-agency-b-v/nlc9820910/
