@@ -613,6 +613,19 @@ grounds; worth re-checking once its first accounts are filed.
   company-reported ("secures approximately $80 million in brand deals
   annually"); commission_rate=15% is a benchmark, not disclosed. ~100-110
   employees per company reporting/press.
+- **Creators Inc** (Los Angeles) — https://creatorsinc.com — talent
+  management agency for subscription-platform creators (OnlyFans-style
+  monetization); founded ~2019, incorporated in Florida Sept 2022 by
+  Andrew "Andy" Bachman —
+  https://www.entrepreneur.com/building-a-business/how-creators-inc-ceo-andy-bachman-built-the-business-behind-creator-fame
+  — explicit founder quote: started "with no investors, no partners, and
+  just one phone." This tool's own SEC EDGAR full-text search returns
+  zero Form D filings for "Creators Inc" or "Creators Agency." Manages
+  400+ creators. Revenue claims in circulation ("$60M in year one," "$1B+
+  in sales, $300M+ EBITDA") come from a money-focused podcast and a
+  MarketRealist profile rather than business journalism, and don't
+  distinguish company revenue from creator/platform GMV -- treated as
+  unreliable and not used; roster_gmv/commission_rate left blank.
 - **johanna b. voss Agency** — https://www.johannavoss.com — founder
   self-funded via consulting income — https://www.johannavoss.com/how-i-became-an-influencer-talent-manager-and-built-an-agency/
   — published commission-rate guidance — https://www.johannavoss.com/how-much-percentage-do-influencer-managers-take/
@@ -763,6 +776,15 @@ head of finance, described in trade press as a normal founder succession
 rather than an acquisition -- no ownership-change evidence found either
 way. Left out on data-availability grounds (no revenue to model, no
 registry confirmation) rather than any specific funding concern.
+Talenture Agency (live-streaming/TikTok LIVE talent accelerator, founded
+2020 by Ashley Bidelspach and Anthonee Mandani) -- distinctive
+creator-first model, taking no commission from creators and instead
+getting paid directly by TikTok based on agency performance; manages
+3,000+ creators across the US/UK/Australia with ~30 staff. No funding
+history disclosed either way, no headquarters location specified, and
+revenue is only an aspirational founder quote ("get to $2M in revenue
+every month in diamonds") rather than a current disclosed figure. Left
+out on data-availability grounds.
 
 ## Control cases (intentionally included, known-funded)
 
