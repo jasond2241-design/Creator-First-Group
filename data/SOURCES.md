@@ -533,6 +533,31 @@ combined figure.
   merchandise value (GMV, not company revenue) across 30+ brands. Very
   new (~15 months old at time of writing) -- likely still below the $5M
   threshold.
+- **Somerce** (Manchester/London, UK) — https://www.somerce.com —
+  social-commerce/TikTok Shop agency (TikTok Affiliates, TikTok Live,
+  TikTok Ads; official TikTok Shop Partner); founded 2024 by Joe Yates, a
+  repeat agency founder who sold his first digital agency at 21. Verified
+  via UK Companies House (Somerce Ltd, #15611233),
+  persons-with-significant-control filing —
+  https://find-and-update.company-information.service.gov.uk/company/15611233/persons-with-significant-control
+  — confirms Joseph Yates as sole controller, an individual holding 75%+
+  of shares and voting rights, no institutional/corporate entity listed.
+  No funding rounds found on Crunchbase/Tracxn. 40+ specialists; press
+  reports GBP100M+ GMV managed and GBP20M/month within the first year —
+  https://www.netinfluencer.com/tiktok-shop-strategy-somerce-creator-community-method/
+  — GMV, not company revenue, so managed_ad_spend/fee_rate left blank,
+  same treatment as TBAR Partners.
+
+**Inconclusive, not added (needs further diligence before re-checking):**
+Nonsensical (Birmingham, UK -- TikTok agency founded Oct 2020 by Oli
+Hills, 50+ creators/staff) -- advised by Dominic McGregor, co-founder of
+Social Chain and now MD of VC firm Fearless Adventures, which is a soft
+signal of investor involvement even though no funding round was found. A
+Companies House search for "Nonsensical" only returned two unrelated
+entities (one in liquidation, one dissolved) -- neither matches this
+agency, so the correct registered entity name is unknown and couldn't be
+checked. Left out on both the VC-advisor ambiguity and the inability to
+verify ownership.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
