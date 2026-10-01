@@ -557,7 +557,21 @@ Companies House search for "Nonsensical" only returned two unrelated
 entities (one in liquidation, one dissolved) -- neither matches this
 agency, so the correct registered entity name is unknown and couldn't be
 checked. Left out on both the VC-advisor ambiguity and the inability to
-verify ownership.
+verify ownership. Social Tale (UK, offices in London and New York --
+TikTok Shop agency and official TikTok Shop/Affiliate Partner founded by
+Ashley Wright, 1,200+ creator network) -- GMV figures in circulation are
+inconsistent across sources ("$80M+ in social commerce revenue" vs.
+"over $50M in sales" for "100+ ecommerce brands"), no funding
+confirmation found either way, and the exact UK registered entity name
+couldn't be identified (the company's own terms page doesn't disclose a
+legal name, and "Ashley Wright" / "Social Tale" Companies House searches
+were too generic to isolate a match). Left out on data-reliability and
+registry-verification grounds; worth another look if a cleaner entity
+name surfaces. Rock&stars digital (Hamburg, Germany -- owner-led
+full-service agency founded 2015 by Stefanie Polster and others,
+offices also in Munich, Vienna, and New York) -- genuinely privately
+held with no funding found, but only ~$2M revenue and 35 employees per
+third-party estimates, clearly below the $5M threshold.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
