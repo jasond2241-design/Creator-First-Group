@@ -500,6 +500,20 @@ combined figure.
   found; founder retrospective — https://medium.com/@isaacrudansky/i-forfeited-760-560-in-revenue-last-year-f5f643670064
 - **Brighter Click** — https://www.brighterclick.com — founded by a
   freelancer in 2019, no funding rounds found; pricing via https://themanifest.com/company/brighter-click
+- **The Social Savannah** (US) — https://thesocialsavannah.com — UGC/
+  paid-social ad production agency for DTC brands (Athletic Greens, The
+  Farmer's Dog, Etsy); founded Dec 2019 by solo founder Savannah Sanchez
+  after years at paid-social agencies —
+  https://www.triplewhale.com/blog/social-savannah-tiktok-marketing —
+  deliberately positioned as "quality over quantity," not scaling past
+  ~50 client brands by design. This tool's own SEC EDGAR full-text search
+  for "The Social Savannah"/"Social Savannah" returns zero Form D
+  filings. No explicit funding statement found either way, and no
+  revenue figure disclosed -- left with no revenue model populated
+  (headcount-based benchmarking would be too speculative for a
+  personal-brand-led agency without a registry or funding confirmation),
+  included for subsector completeness at the lowest confidence tier used
+  in this file.
 - **inBeat Agency** (Montreal, Canada) — https://inbeat.agency — Tracxn:
   unfunded, has not raised any funding —
   https://tracxn.com/d/companies/inbeat/__W8IJQ2QJdLl3MDSgaw9Jxz4qCOOnr8de_Mn28sEqGEM
@@ -584,7 +598,10 @@ Germany -- raised $50K in 2016 from next media accelerator and SAP.io
 Foundry Munich; also more of an influencer directory/platform than a
 managed talent roster), Uptickk (TikTok Shop agency, one of four
 agencies in TikTok Shop's early beta program -- backed by Caldicot
-Capital, funded not bootstrapped).
+Capital, funded not bootstrapped), Minisocial (New York -- UGC platform
+founded 2019 by Austin Rogers and Kirsten Baumberger; Crunchbase/
+PitchBook show a 2020 seed round led by Hustle Fund with Blue Slide
+Ventures and Alex Pattis -- funded, not bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
