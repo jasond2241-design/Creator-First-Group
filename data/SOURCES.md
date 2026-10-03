@@ -585,7 +585,18 @@ name surfaces. Rock&stars digital (Hamburg, Germany -- owner-led
 full-service agency founded 2015 by Stefanie Polster and others,
 offices also in Munich, Vienna, and New York) -- genuinely privately
 held with no funding found, but only ~$2M revenue and 35 employees per
-third-party estimates, clearly below the $5M threshold.
+third-party estimates, clearly below the $5M threshold. The Drive Agency
+(US -- B2B creator talent management firm launched March 2025 by
+Patrick Zielinski (ex-Cameo, ex-LinkedIn) and Leila Marsh (7 years
+running PRIZMA MGMT)) -- this tool's own SEC EDGAR full-text search
+returns zero Form D filings for "The Drive Agency"/"Drive Agency," and
+the founders have legitimate creator-industry backgrounds, but no
+revenue figure was found anywhere and the firm is only ~1 year old, so
+there's nothing to model and it's very likely still below the $5M
+threshold regardless. We The People (Melbourne, Australia -- official
+TikTok Marketing Partner founded 2019, joined the Worldwide Partners
+global independent-agency network) -- no funding or revenue information
+found at all. Both left out purely on data-availability grounds.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
@@ -601,7 +612,11 @@ agencies in TikTok Shop's early beta program -- backed by Caldicot
 Capital, funded not bootstrapped), Minisocial (New York -- UGC platform
 founded 2019 by Austin Rogers and Kirsten Baumberger; Crunchbase/
 PitchBook show a 2020 seed round led by Hustle Fund with Blue Slide
-Ventures and Alex Pattis -- funded, not bootstrapped).
+Ventures and Alex Pattis -- funded, not bootstrapped), Influentials
+(Rotterdam, Netherlands -- creator marketing SaaS platform/UGC
+marketplace co-founded by Charlotte Koeleman -- acquired by Somention,
+the largest independent Dutch social media agency, no longer
+independent).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
