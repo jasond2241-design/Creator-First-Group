@@ -440,7 +440,19 @@ largest investment of his life" -- treated as notable-investor-backed
 rather than bootstrapped, same standard applied to Typefully/Evan
 Williams elsewhere in this file), Mighty Networks (community platform --
 $66M raised across 3 rounds, most recently 2021 -- funded, not
-bootstrapped).
+bootstrapped), Captivate.fm (Sheffield, UK -- podcast hosting platform
+founded 2019 by Mark Asquith and Kieran McKeefery; "has not raised any
+funding rounds according to available records," but acquired by Global
+(media & entertainment group) on Dec 20, 2021 -- founders stayed on
+post-acquisition, but no longer independent), Monet (monet.money, London,
+UK -- revenue management/embedded-finance platform for creators and
+creative agencies founded 2020 by Jacob Casson; a third-party aggregator
+(Latka) lists ~$5.6M revenue and "no VC funding," but this is directly
+contradicted by press coverage of a GBP17M early-stage equity-and-debt
+raise (Jul 2025) led by Paul Rippon (Monzo/Starling co-founder), Michael
+Fischer (Modern Capital Group), Dan Adler (Railsr/D Squared Capital), and
+Force Over Mass -- funded, not bootstrapped; Latka's self-reported figures
+treated as unreliable per this file's established pattern).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Boozt.io (Manila, Philippines -- creator-economy platform led by
@@ -634,7 +646,18 @@ founded by Aleks Velev, 3,000+ creator network across 11 ad platforms)
 House #16071533), but only incorporated 11 Nov 2024 with first accounts
 not due until 11 Aug 2026, so no revenue/headcount figures exist in the
 public record yet. Left out purely on data-availability/company-age
-grounds; worth re-checking once its first accounts are filed.
+grounds; worth re-checking once its first accounts are filed. Stay Viral
+(San Diego -- TikTok Shop affiliate/creator agency co-founded by Ryan
+Rigney and a creator known as Michael; "facilitated $20M+ in tracked
+TikTok Shop sales" and "$500K+/month in revenue for partner brands" --
+both brand-side GMV/revenue figures, not the agency's own revenue --
+explicitly stated to be built "without outside funding or investors").
+Only source found is a single promotional-style press release
+(ipsnews.net, Mar 2026) with no independent corroboration, no employee
+count, and no agency-level revenue figure. Left out on data-reliability
+and data-availability grounds -- nothing here can be fed into the
+performance_marketing model (managed_ad_spend/fee_rate) without
+guessing.
 
 ## Talent management
 
@@ -822,7 +845,13 @@ CB Insights shows $1.21M raised at Seed stage, so not bootstrapped),
 The Right Fit (Darlinghurst, Australia -- talent/creator marketplace
 co-founded 2016 by Taryn Williams and Aurelien Labonne -- raised $750K
 seed from AirTree Ventures and SoGal Ventures per Crunchbase, then
-exited to international acquirers in 2023 -- funded and acquired).
+exited to international acquirers in 2023 -- funded and acquired),
+Tier One Entertainment (Philippines -- esports/gaming talent agency
+founded 2017 by Alodia Gosiengfiao, Tryke Gutierrez, and Brian Lim --
+raised institutional capital from BITKRAFT Esports Ventures, then a
+Pre-Series A led by Gobi Partners' Gobi-Core Philippine Fund with Warner
+Music Group, Octava, Kayac Inc., and Atlas Ventures participating, and a
+subsequent Series A totaling $8.25M -- funded, not bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
