@@ -573,6 +573,27 @@ combined figure.
   https://www.netinfluencer.com/tiktok-shop-strategy-somerce-creator-community-method/
   — GMV, not company revenue, so managed_ad_spend/fee_rate left blank,
   same treatment as TBAR Partners.
+- **Youdji** (Paris, France) — https://youdji.com — UGC content
+  marketplace connecting brands with UGC creators (escrow payments,
+  contracts, automated invoicing); operated by Finller SAS (SIREN
+  897962361, incorporated Apr 2021), co-founded by Lucas Gabriele and
+  Quentin Gabriele, launched under the Youdji brand in 2023 after Lucas's
+  earlier UGC agency Scaleeo (2022). Explicit press statement: "bootstrapped
+  company...built by just two founders without raising external funding."
+  Verified via the French company registry (Pappers.fr,
+  https://www.pappers.fr/entreprise/897962361): share capital increased
+  only from EUR500 to EUR1,500 (2021-2023) -- a nominal change, not an
+  institutional capital raise -- and current officers are SCALEEO and
+  ELEGANTLY ENGINEERING, both founder-controlled holding companies
+  (Lucas's and Quentin's own entities), not outside investors. First
+  France entry, first use of the French registry/BODACC the way UK
+  Companies House and the NZ Companies Register have been used elsewhere
+  in this file. Platform takes a 20% commission on creator-side
+  transactions (0% to brands) -- the real revenue driver is creator-GMV x
+  take-rate, not managed_ad_spend x fee_rate, so left blank rather than
+  guessed. Press-reported revenue "surpassed $5 million in annual revenue"
+  (2026) clears the qualifying threshold but isn't fed into the model
+  since the GMV/take-rate split isn't disclosed.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Nonsensical (Birmingham, UK -- TikTok agency founded Oct 2020 by Oli
