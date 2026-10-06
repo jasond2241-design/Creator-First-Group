@@ -295,7 +295,19 @@ more conservative, primary-source figure (EUR1.5M/month = EUR18M/year)
 against a typical performance-marketing fee rate doesn't clearly clear
 the $5M threshold either. Left out on both funding-ambiguity and
 data-quality grounds; a future run could revisit once the company (very
-new, founded 2023) has more third-party coverage.
+new, founded 2023) has more third-party coverage. Mad Influence (Noida,
+India, with a Dubai/MENA office since 2021 -- influencer marketing/social
+agency founded 2018 by Gautam Madhavan, grew from launch capital of just
+Rs 1 lakh (~$1,200) to reported monthly revenue of Rs 50 lakh-2 crore in
+2019-2020 and ~60 employees; average client ticket size ~$100K/month at a
+reported 25-30% agency margin) -- strong bootstrap origin story but no
+explicit "no outside funding" statement found, and the company's legal
+entity couldn't be pinned down on India's MCA registry (several
+similarly-named but unrelated "Mad ___ Private Limited" companies turned
+up instead) to check for institutional shareholders the way Companies
+House/NZ/French registries have been used elsewhere. Left out on
+verification-gap grounds, not a funding concern -- worth revisiting if a
+clear MCA company name or CIN surfaces.
 
 ## Software
 
@@ -905,7 +917,19 @@ getting paid directly by TikTok based on agency performance; manages
 history disclosed either way, no headquarters location specified, and
 revenue is only an aspirational founder quote ("get to $2M in revenue
 every month in diamonds") rather than a current disclosed figure. Left
-out on data-availability grounds.
+out on data-availability grounds. Diwan Videos (Dubai, UAE, founded 2010
+in Egypt by Ossama Youssef, HQ moved to Dubai 2013 -- MCN/influencer
+talent network operating across Saudi Arabia, Iraq, Turkey, Pakistan,
+Morocco, and India; manages hundreds of influencer accounts, 2.5B+
+monthly views, 600M+ followers, ~3,000 campaigns for 200+ brands) -- no
+funding round found either way in English- or Arabic-language press
+(confirmed it is a distinct company from the similarly-named, separately
+funded "Diwanee," a Lebanese women's digital media company that took a
+$5M Webedia stake in 2017 -- a name-collision check, not a finding about
+Diwan Videos itself). No revenue or headcount figure disclosed anywhere,
+and no accessible UAE company registry (DED/free-zone registries are not
+publicly searchable the way UK/NZ/France registries are). Left out on
+data-availability grounds on both funding-status and revenue fronts.
 
 ## Control cases (intentionally included, known-funded)
 
