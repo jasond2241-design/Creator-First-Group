@@ -217,7 +217,11 @@ Narrators (Singapore -- started with $2M initial funding per founder
 Laurent Verrier's background; checked as an APAC influencer-agency
 candidate but funded, not bootstrapped), Influency.me (Sao Paulo, Brazil --
 2021 press release announced it "commences fundraising to accelerate
-growth," so treated as funded/fundraising rather than bootstrapped),
+growth," so treated as funded/fundraising rather than bootstrapped;
+re-checked 2026-10: confirmed to be a business division of Grupo
+Comunique-se (founder/CEO Rodrigo Azevedo also runs the parent group),
+not an independently-owned startup, and 2024 revenue of R$11M (~$2.1M)
+is below this watchlist's $5M threshold regardless of funding status),
 FLUVIP (Bogota, Colombia -- $7.87M raised over 5 rounds, Series A in 2018,
 per Crunchbase), AJ Marketing (Singapore/Seoul -- Crunchbase shows seed
 funding round(s) on record), Arfadia (Jakarta, Indonesia -- founded 2008
@@ -660,6 +664,33 @@ PitchBook show a 2020 seed round led by Hustle Fund with Blue Slide
 Ventures and Alex Pattis -- funded, not bootstrapped), Influentials
 (Rotterdam, Netherlands -- creator marketing SaaS platform/UGC
 marketplace co-founded by Charlotte Koeleman -- acquired by Somention,
+the largest independent Dutch social media agency, no longer
+independent), Buzzoole (Naples/Milan, Italy -- brand-side influencer
+marketing analytics platform founded 2013; a third-party aggregator
+(Latka) lists it as bootstrapped, but this is directly contradicted by
+press coverage of $19-20M raised across multiple rounds, including an
+$8.9M Series A (StarTIP/Tamburi Investment Partners, R301, Brahma AG,
+Impulse VC, Scaleit Ventures) and a $5.4M Series B with CDP Venture
+Capital -- funded, not bootstrapped), indaHash (Dublin, Ireland/Poland --
+influencer marketing platform founded 2015; also listed as bootstrapped
+by Latka, but ran a 2017 ICO ("Main ICO to tokenize the influencer
+industry") -- a capital raise via token sale -- and was acquired by
+ArabyAds in Oct 2022, no longer independent either way), Hoopygang
+(Milan, Italy -- influencer management/creative platform founded 2017 by
+Simone Pepino; Latka again claims bootstrapped, contradicted by a $1.32M
+Oct-2023 seed round from Nana Bianca and CDP Venture Capital), Inflead
+(Trieste, Italy -- AI influencer-marketing analytics platform founded
+2018 by Giovanni Spinelli; raised $3.7M total from Kolsquare, BlackSheep
+Ventures, and Eureka Ventures, then was acquired by Kolsquare in Dec 2025
+-- funded and acquired). All four of the above are also brand-facing
+influencer-marketing SaaS/analytics tools rather than creator-facing
+monetization software, so even apart from the funding issue they sit
+awkwardly in this watchlist's software-subsector definition (same
+observation as Nqyer, above) -- but the funding/acquisition facts alone
+are sufficient to exclude them, and Latka's "bootstrapped" tag is wrong
+in all four cases, reinforcing the existing pattern (see Monet, software
+section) that Latka's self-reported funding status should not be trusted
+without independent verification.
 the largest independent Dutch social media agency, no longer
 independent).
 
