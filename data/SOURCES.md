@@ -401,6 +401,24 @@ clear MCA company name or CIN surfaces.
   LinkedIn's own 2-10 employee count and are not disclosed by the company
   -- treated as unreliable, so customers/arpu left blank rather than
   guessed. Fourth UK software entry.
+- **Sked Social** (Melbourne, Australia) — https://skedsocial.com —
+  social media scheduling/approvals platform for in-house teams and
+  agencies, built by solo founder Hugh Stephens starting 2013/2014
+  (originally Schedugram, renamed after adding Facebook scheduling),
+  bootstrapped from his existing social-media consultancy's (Dialogue
+  Consulting) revenue. Operating entity Dialogue Consulting Pty Ltd
+  confirmed active via the free Australian Business Register
+  (https://abr.business.gov.au, ABN 29 153 007 259, VIC) -- Australia's
+  ASIC register (directors/shareholders) requires an authenticated
+  session and returned 403 as before, so this is an entity-existence
+  check only, not an ownership/PSC-equivalent confirmation. No funding
+  rounds found on CB Insights/Crunchbase/Tracxn. Two independent
+  third-party sources (Latka, Starter Story) both describe it as
+  self-funded/bootstrapped, though they conflict on figures: Latka
+  reports $10.1M revenue (2024)/~23 employees; Starter Story reports
+  ~$6M annualized. "10,000+ marketers" use the platform (Qantas, IHG,
+  Accor) but isn't a clean paying-customer count, so customers/arpu left
+  blank. First Australia entry.
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
@@ -468,7 +486,13 @@ contradicted by press coverage of a GBP17M early-stage equity-and-debt
 raise (Jul 2025) led by Paul Rippon (Monzo/Starling co-founder), Michael
 Fischer (Modern Capital Group), Dan Adler (Railsr/D Squared Capital), and
 Force Over Mass -- funded, not bootstrapped; Latka's self-reported figures
-treated as unreliable per this file's established pattern).
+treated as unreliable per this file's established pattern), SquadCast
+(San Francisco -- remote podcast recording platform, squadcast.fm,
+founded 2016; founder described it in a 2022 podcast interview as
+bootstrapped/revenue-funded with no outside investors, but CB Insights
+and TinySeed's own announcement confirm it took TinySeed backing and was
+acquired by Descript in Aug 2023 -- funded and acquired, no longer
+independent).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Boozt.io (Manila, Philippines -- creator-economy platform led by
