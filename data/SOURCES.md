@@ -246,7 +246,11 @@ Wowzi (Nairobi, Kenya -- creator/influencer marketplace founded 2019 by
 Brian Mogeni, Mike Otieno, and Dr. Hassan Bashir; raised $3.2M total
 across pre-seed and seed rounds led by 4DX Ventures, with To.org, Golden
 Palm Investments, LoftyInc Capital, and others -- funded, not
-bootstrapped; checked as an East Africa creator-platform candidate).
+bootstrapped; checked as an East Africa creator-platform candidate),
+BeInfluence (Brussels, Belgium -- influencer marketing agency
+co-founded by Thomas Angerer and Arthur Mylle, grew from EUR1M to EUR8M
+revenue in three years per trade press -- Dealroom shows a EUR400K seed
+round, funded not bootstrapped).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Upeo Talent Agency (Nairobi, Kenya -- East African talent management and
@@ -985,6 +989,38 @@ Diwan Videos itself). No revenue or headcount figure disclosed anywhere,
 and no accessible UAE company registry (DED/free-zone registries are not
 publicly searchable the way UK/NZ/France registries are). Left out on
 data-availability grounds on both funding-status and revenue fronts.
+Max Connectors (Sydney, Australia -- "Australia's first influencer
+agency," founded 2013 by Lynette Phillips, sister company to
+MAXMEDIALAB under the MAXNETWORK umbrella; 50+ talent on roster,
+11-14 employees per directory estimates) -- company is listed as
+"Privately Held" with no public revenue or funding figures found
+anywhere; Australia's ASIC register (ownership/directors) remains behind
+authentication as noted elsewhere in this file. Left out on
+data-availability grounds. The Remarkables Group (Sydney, Australia --
+founded 2012 by Lorraine Murphy, self-funded from personal savings in
+her spare bedroom, Australia's first dedicated influencer talent agency)
+-- strong bootstrap origin story and real early revenue (~$1-1.2M in its
+first full year), but that figure is from 2012-2013 and far below the
+$5M threshold even then, no current financials found, and Murphy sold
+the business in Dec 2017 (co-founder Natalie Giddings became sole
+owner) -- an ownership change muddies "founder-controlled" status even
+if the sale wasn't to an institutional buyer. Left out on
+data-staleness/below-threshold grounds. theSalt / Webfluential /
+Nfinity Influencer (Sandton, South Africa -- influencer marketing
+group spanning theSalt and sister platform Webfluential, 600,000+
+opt-in creator network across 11 African markets) -- conflicting
+founder credits across sources (Pieter Groenewald vs. Shayne Moore),
+a muddled entity history (Retroviral launched Webfluential in 2013;
+Nfinity Media later "acquired the license to run Webfluential in South
+Africa"; theSalt is now described as "part of Nfinity Influencer"), and
+one associated individual's LinkedIn profile self-describes as "a VC
+funded Entrepreneur" without specifying which venture -- enough red
+flags on both funding status and clean entity attribution that this
+isn't a verifiable bootstrapped candidate as currently documented;
+revenue estimates found ($2.4-7.7M, third-party aggregators only) would
+clear the threshold if the funding/entity questions were resolved. Left
+out on verification-gap grounds -- worth revisiting if a single clear
+legal entity and funding history can be pinned down.
 
 ## Control cases (intentionally included, known-funded)
 
