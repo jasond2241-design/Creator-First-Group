@@ -496,7 +496,13 @@ founded 2016; founder described it in a 2022 podcast interview as
 bootstrapped/revenue-funded with no outside investors, but CB Insights
 and TinySeed's own announcement confirm it took TinySeed backing and was
 acquired by Descript in Aug 2023 -- funded and acquired, no longer
-independent).
+independent), Paved (newsletter advertising marketplace founded 2016-17
+by John McLaughlin -- acquired by Canadian firm Redbrick in Mar 2025, no
+longer independent), Swapstack (newsletter ad network/monetization
+platform launched 2021 by Jake Schonberger -- acquired by On Deck in Apr
+2021, then acquired again by beehiiv in Sep 2023; a Swapstack investor
+letter also references an earlier "investor" relationship -- funded
+and/or acquired twice over, no longer independent).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Boozt.io (Manila, Philippines -- creator-economy platform led by
@@ -1020,7 +1026,21 @@ isn't a verifiable bootstrapped candidate as currently documented;
 revenue estimates found ($2.4-7.7M, third-party aggregators only) would
 clear the threshold if the funding/entity questions were resolved. Left
 out on verification-gap grounds -- worth revisiting if a single clear
-legal entity and funding history can be pinned down.
+legal entity and funding history can be pinned down. Evolved Talent
+Agency (Los Angeles -- esports/streaming talent agency founded 2016 by
+lawyers Ryan Morrison and Michael Lee, representing major streamers
+incl. xQc, Amouranth, and Kitboga) -- this tool's own SEC EDGAR search
+returns zero Form D filings for "Evolved Talent Agency" (or variants),
+and no funding rounds found on CB Insights/Crunchbase/Dealroom, but the
+original 2016 launch coverage says the two founders "teamed up with the
+Dutch merchandise company Fanfiber to start" the agency -- it's
+genuinely unclear whether Fanfiber's role was a capital investment/stake
+or purely an operational/merchandising partnership, and that ambiguity
+was never resolved despite searching. No revenue or current headcount
+figure found anywhere (an undated third-party estimate gives 11-50
+employees). Left out on both the unresolved Fanfiber question and
+data-availability grounds -- worth revisiting if the Fanfiber
+relationship can be clarified or a revenue figure surfaces.
 
 ## Control cases (intentionally included, known-funded)
 
