@@ -1040,7 +1040,17 @@ was never resolved despite searching. No revenue or current headcount
 figure found anywhere (an undated third-party estimate gives 11-50
 employees). Left out on both the unresolved Fanfiber question and
 data-availability grounds -- worth revisiting if the Fanfiber
-relationship can be clarified or a revenue figure surfaces.
+relationship can be clarified or a revenue figure surfaces. Coastline
+Creatives (talent representation agency for athletic/culinary/wellness
+creators, founded 2018 by Regan Cleminson; deliberately small roster of
+50-60 creators, brand partnerships incl. adidas) -- this tool's own SEC
+EDGAR search returns zero Form D filings, and the company's use of
+Gusto (a US-only payroll product) for hiring suggests a US entity
+despite Cleminson being described as "London-based," but no explicit
+bootstrapped/funding statement and no revenue or headcount figure were
+found anywhere despite several searches. Left out on data-availability
+grounds -- the deliberately-small-roster framing also raises doubt about
+whether it clears the $5M threshold at all.
 
 ## Control cases (intentionally included, known-funded)
 
