@@ -725,8 +725,6 @@ are sufficient to exclude them, and Latka's "bootstrapped" tag is wrong
 in all four cases, reinforcing the existing pattern (see Monet, software
 section) that Latka's self-reported funding status should not be trusted
 without independent verification.
-the largest independent Dutch social media agency, no longer
-independent).
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
@@ -755,7 +753,28 @@ Only source found is a single promotional-style press release
 count, and no agency-level revenue figure. Left out on data-reliability
 and data-availability grounds -- nothing here can be fed into the
 performance_marketing model (managed_ad_spend/fee_rate) without
-guessing.
+guessing. Flame Media (Jakarta, Indonesia -- TikTok Shop livestream
+agency founded by Hank Wang, a former venture investor who moved from
+Shanghai; manages ~50 livestream hosts selling for brands incl. L'Oreal)
+-- CB Insights lists a single 2022 entry for the company tagged
+"Acquired" (no amount/acquirer given, and its own data source
+categorizes it as a divestiture), which is a disqualifying signal on its
+face, but the acquirer/transaction couldn't be independently confirmed
+or dated precisely. No revenue or funding-round figure found either way.
+Left out on the unresolved acquisition signal -- would need the CB
+Insights transaction clarified before reconsidering. Centus / Pursue
+Management Ltd (Galway, Ireland -- performance-focused influencer
+marketing agency, broker between brands and YouTube/social talent;
+founded 2016, formerly "Pursue," by teenage founder Conor O'Flaherty,
+one of only two licensed YouTube talent managers in Ireland at the time)
+-- no funding rounds found in Irish or international press, and a 2018
+article said it ran "$5M+ worth of marketing campaigns for clients"
+(managed spend/GMV, not company revenue) on a commission model; a
+third-party aggregator (Latka) puts actual 2025 revenue at just $1.5M
+with 14 employees, consistent with that commission math and likely
+genuinely below this watchlist's $5M threshold despite a 20-40 person
+team and 150+ brand clients. Left out on revenue-threshold grounds
+rather than a funding concern.
 
 ## Talent management
 
