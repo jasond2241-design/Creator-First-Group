@@ -524,7 +524,27 @@ $5M threshold, and it's unclear how these relate to the wider "Nine
 Agency" brand operating across Sweden/Norway/Denmark/Finland (possibly
 separate national entities not surfaced here). Left out on both
 threshold and entity-structure-clarity grounds rather than guessed at a
-combined figure.
+combined figure. Selar (Lagos, Nigeria -- digital-product storefront for
+creators, founded 2016 by Douglas Kendyson, a former member of the
+Paystack founding team) -- about as clean a bootstrap verification as
+this file has seen: Kendyson told Rest of World "it dawned on me in
+2022, when we'd reached profitability...there's no reason for us to
+raise," and multiple outlets confirm Selar's only outside money was a
+$10,000 non-dilutive Tony Elumelu Foundation seed grant in 2018 (TEF's
+standard $5K-and-up entrepreneurship-programme award, not VC equity --
+same non-dilutive-grant treatment as Boozt.io, above). The problem is
+revenue: press repeatedly cites payouts *to creators* (NGN18bn / $12.8M
+in 2025, up from NGN9bn/$6.6M in 2024), but that figure is net of
+Selar's own cut, not the company's revenue. Selar's disclosed fee
+schedule is ~7% + $0.50/transaction internationally (with volume
+discounts above $5-15K in creator sales); applying that take rate to the
+2025 payout figure implies Selar's own commission revenue is only
+roughly $1-1.5M -- well short of this watchlist's $5M qualifying
+threshold -- and no separate company-revenue or employee-count figure
+was found anywhere to check that estimate against. Left out on
+revenue-threshold grounds, not a funding concern; this is likely one of
+the most solidly-verified bootstrapped companies checked so far, just
+probably too small on the metric this watchlist actually requires.
 
 ## Performance marketing
 
