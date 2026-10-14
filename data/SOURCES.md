@@ -794,7 +794,18 @@ third-party aggregator (Latka) puts actual 2025 revenue at just $1.5M
 with 14 employees, consistent with that commission math and likely
 genuinely below this watchlist's $5M threshold despite a 20-40 person
 team and 150+ brand clients. Left out on revenue-threshold grounds
-rather than a funding concern.
+rather than a funding concern. Faved (London, UK -- creator sponsorship
+marketplace connecting creators with brand sponsors, co-founded 2022 by
+Stephen Titus after multiple earlier failed startups) -- consistently
+reported as bootstrapped/no funding across multiple Latka pages and its
+Crunchbase listing shows no funding total; founder reports $50M+ total
+GMV across 20,000+ orders since 2022 at a 15-20% take rate, implying net
+company revenue of only ~$1.2-2M -- real and well short of this
+watchlist's $5M threshold. Left out on revenue-threshold grounds (same
+pattern as Selar, software section) -- note Faved is a distinct company
+from the similarly-named, separately-funded "Fave" fan-community
+platform ($4.32M raised per CB Insights), a name-collision worth
+flagging for future runs.
 
 ## Talent management
 
@@ -946,7 +957,14 @@ acquired by Webedia in 2021), GG Talent Group (Naperville, Illinois --
 raised a $20M Series A led by
 Coral Tree Partners, spring 2022, then acquired by Loaded on Mar 12,
 2024), Elusive Talent Agency (Montreal, Canada -- no funding rounds found, but
-acquired by Gameaddik on Jan 31, 2024, so no longer independent), L'AGENCY
+acquired by Gameaddik on Jan 31, 2024, so no longer independent),
+Madeviral (Singapore -- gaming-influencer marketing agency founded 2016,
+40,000+ gaming creator network, offices incl. Thailand/Indonesia) -- no
+funding rounds found, but Nasdaq-listed GCL Global Holdings announced a
+non-binding MOU on Oct 16, 2025 to acquire up to 51% equity, pending due
+diligence/regulatory approval -- treated as no longer independent/in the
+process of becoming so even though the deal wasn't confirmed closed),
+L'AGENCY
 (Amsterdam, Netherlands -- acquired by PCV Group on Nov 28, 2024), Night Media (raised $70M from StepStone Group, Founders Fund, House
 Capital, K5 Global, PagsGroup, and runs its own $100M VC fund —
 https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/ —
