@@ -315,7 +315,22 @@ similarly-named but unrelated "Mad ___ Private Limited" companies turned
 up instead) to check for institutional shareholders the way Companies
 House/NZ/French registries have been used elsewhere. Left out on
 verification-gap grounds, not a funding concern -- worth revisiting if a
-clear MCA company name or CIN surfaces.
+clear MCA company name or CIN surfaces. Creatorbuzz (B2B/LinkedIn
+influencer marketing agency founded by Vin Matano, a part-time LinkedIn
+creator turned agency owner) -- only source is a Cannes Lions speaker
+bio self-describing it as a "7-figure" agency; no funding statement, no
+fee/revenue breakdown, and no registry or EDGAR check attempted since
+the entity name/location weren't established. Left out on
+data-reliability grounds -- a single self-reported bio line isn't enough
+to verify either bootstrapped status or threshold-clearing revenue. The
+Wishly Group (Canada -- B2B/LinkedIn creator-brand matchmaking agency,
+founded 2022, 25+ creators repped, 80+ campaigns/month) -- a
+third-party estimate puts revenue "under $5M" (i.e. likely below
+threshold on its face), and two different CB Insights/VCBacked funding
+entries (a $0.4M pre-seed and a $800K seed) could not be confidently
+matched to this company versus a similarly-named, unrelated "WISHLYapp"
+community platform. Left out on both revenue-threshold and
+entity-confusion grounds.
 
 ## Software
 
@@ -744,7 +759,14 @@ observation as Nqyer, above) -- but the funding/acquisition facts alone
 are sufficient to exclude them, and Latka's "bootstrapped" tag is wrong
 in all four cases, reinforcing the existing pattern (see Monet, software
 section) that Latka's self-reported funding status should not be trusted
-without independent verification.
+without independent verification. Lafluence (Prague, Czech Republic --
+the largest influencer-marketing platform in Czech Republic/Slovakia,
+founded by Peter Varga) -- Latka again claims "bootstrapped," directly
+contradicted by Czech business press (CzechCrunch/CzechCrunch-affiliated
+cc.cz, MediaGuru): Nextech Ventures (Josef Matejka's fund) built up a
+15%+ stake, and Venture Club (a ~200-member Czech angel syndicate)
+invested CZK 20M -- funded, not bootstrapped; a fifth Latka
+"bootstrapped" tag proven wrong by independent sourcing.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
