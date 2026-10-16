@@ -1129,7 +1129,29 @@ despite Cleminson being described as "London-based," but no explicit
 bootstrapped/funding statement and no revenue or headcount figure were
 found anywhere despite several searches. Left out on data-availability
 grounds -- the deliberately-small-roster framing also raises doubt about
-whether it clears the $5M threshold at all.
+whether it clears the $5M threshold at all. CookIt Media (Los Angeles --
+food/lifestyle creator talent management agency founded by former food
+editor Laurie Buckle; founding year conflicts across sources, 2012 vs.
+2014 vs. 2015) -- this tool's own SEC EDGAR search returns zero Form D
+filings, and secondary profiles cite a No. 1,756 ranking on the 2020
+Inc. 5000 (a real-growth-based award, if accurate), but inc.com itself
+blocked direct verification (403) and the only revenue figure found is
+an unverified $10-25M range from a sales-prospecting tool; employee
+count also conflicts across sources (9, 11-50, 12). Left out on
+data-verification grounds -- the EDGAR-clean result and Inc. 5000 claim
+are promising, but no figure here is solid enough to cite with
+confidence; worth re-checking with direct access to inc.com's archived
+2020 list. TuManag3r (Malaga, Spain -- influencer management agency
+founded 2021 by Vicente Mirasol, repping 27-30+ countries' worth of
+creators incl. YouTuber Fernanfloo, who is also described as a company
+"partner") -- Spanish registry listing shows Mirasol as sole
+administrator (an ownership-control signal, though not a full
+PSC-equivalent shareholder breakdown) and no venture-round reports found
+anywhere; but the only revenue figure is a promotional "EUR6M cumulative
+billing (EUR3M in 2025)" claim that reads like GMV/managed-campaign
+value rather than company revenue, isn't independently verified, and
+falls short of the $5M threshold even taken at face value. Left out on
+revenue-reliability and threshold grounds.
 
 ## Control cases (intentionally included, known-funded)
 
