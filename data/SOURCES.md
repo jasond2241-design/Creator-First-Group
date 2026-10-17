@@ -1151,7 +1151,15 @@ anywhere; but the only revenue figure is a promotional "EUR6M cumulative
 billing (EUR3M in 2025)" claim that reads like GMV/managed-campaign
 value rather than company revenue, isn't independently verified, and
 falls short of the $5M threshold even taken at face value. Left out on
-revenue-reliability and threshold grounds.
+revenue-reliability and threshold grounds. Momfluence (Toronto, Canada
+area -- mom-creator influencer marketing agency/platform founded 2019 by
+Chelsea Clark, connecting brands with 9,000+ mom creators across North
+America, 500+ brand clients) -- a real, apparently substantial business
+by reach, but no revenue, funding, employee count, or legal-entity name
+was found anywhere despite several searches, so there's nothing to
+verify bootstrapped status against or feed into the model. Left out
+purely on data-availability grounds -- first Canada-linked talent_management
+lead found, worth revisiting if a company name/registry record surfaces.
 
 ## Control cases (intentionally included, known-funded)
 
