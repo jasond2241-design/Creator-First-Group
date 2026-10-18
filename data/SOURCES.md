@@ -766,7 +766,14 @@ contradicted by Czech business press (CzechCrunch/CzechCrunch-affiliated
 cc.cz, MediaGuru): Nextech Ventures (Josef Matejka's fund) built up a
 15%+ stake, and Venture Club (a ~200-member Czech angel syndicate)
 invested CZK 20M -- funded, not bootstrapped; a fifth Latka
-"bootstrapped" tag proven wrong by independent sourcing.
+"bootstrapped" tag proven wrong by independent sourcing. Boksi
+(Helsinki, Finland -- influencer-marketing platform founded 2018 by
+Lasse Laaksonen and co-founders) -- Latka again claims bootstrapped,
+contradicted by tech.eu/ain.ua reporting of a EUR1.2M round in 2020 led
+by Trind Ventures and a EUR7M Series A in Oct 2023 led by 3TS Capital
+Partners and Nexit Ventures (CB Insights: $9.84M total raised) -- funded,
+not bootstrapped; a sixth Latka "bootstrapped" tag proven wrong by
+independent sourcing.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
