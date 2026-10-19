@@ -715,6 +715,21 @@ threshold regardless. We The People (Melbourne, Australia -- official
 TikTok Marketing Partner founded 2019, joined the Worldwide Partners
 global independent-agency network) -- no funding or revenue information
 found at all. Both left out purely on data-availability grounds.
+GravitasQ (London, UK -- TikTok LIVE creator network/agency founded 2018
+by Dipesh Pattni as a digital performance agency, pivoted to LIVE in
+2022 with co-founder Ben Toye; operates in UK/ANZ/US/Canada, creator
+earnings cited at $10K-$100K/month for top talent) -- no revenue,
+funding, or headcount figure found anywhere, and attempts to match
+"Dipesh Pattni" against UK Companies House turned up multiple
+same-named officers with no confident link to this specific company
+(name-collision risk, same caution as the earlier AFK Creators/Ghost
+precedents) -- left unresolved rather than guessed. Left out on
+registry-verification and data-availability grounds. Sakapapi Empire
+Agency (Malaysia -- TikTok LIVE agency founded Nov 2021 by host Zuhamizam
+Mohd Azami ("Papi"), 360+ Malaysian hosts) -- the only substantive
+source is a TikTok-sponsored Vulcan Post article, so treat scale claims
+as promotional; no revenue or funding figure found anywhere. Left out on
+data-reliability and data-availability grounds.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
