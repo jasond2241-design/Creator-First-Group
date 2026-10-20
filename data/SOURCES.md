@@ -729,7 +729,22 @@ Agency (Malaysia -- TikTok LIVE agency founded Nov 2021 by host Zuhamizam
 Mohd Azami ("Papi"), 360+ Malaysian hosts) -- the only substantive
 source is a TikTok-sponsored Vulcan Post article, so treat scale claims
 as promotional; no revenue or funding figure found anywhere. Left out on
-data-reliability and data-availability grounds.
+data-reliability and data-availability grounds. Lilo Social (Brooklyn,
+NY -- e-commerce/Shopify-focused paid social, paid search, and creative
+agency founded 2016, reportedly by Bobby Palmieri) -- this tool's own
+SEC EDGAR search returns zero Form D filings, and several third-party
+aggregators (Persana, Prospeo) independently describe it as unfunded,
+but none of these are strong sources, no independent press coverage of
+the founder or an explicit bootstrapped quote was found, and the only
+revenue figure ($7.6M, 2024) comes solely from Latka -- which this file
+has caught being wrong about "bootstrapped" status six separate times
+elsewhere. Left out on source-reliability grounds pending independent
+corroboration. Adler Social (Pompano Beach/Fort Lauderdale, FL --
+local-marketing agency; Latka lists $6M revenue, 2024, 30 employees, $0
+raised) -- no independent trace of this company or a named founder
+could be found anywhere outside Latka and directory listings, so
+neither its existence as described nor its funding status could be
+corroborated. Left out on verification-gap grounds.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
