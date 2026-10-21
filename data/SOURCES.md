@@ -1008,6 +1008,28 @@ flagging for future runs.
   neither a reliable disclosed figure, so no roster GMV was computed;
   commission_rate=15% is a benchmark, not disclosed. Likely below the $5M
   threshold at current scale.
+- **Monk Entertainment** (Mumbai, India) — https://monk-e.in —
+  talent management/influencer marketing/video production agency (90+
+  creator roster, incl. co-founder Ranveer Allahbadia aka BeerBiceps),
+  co-founded Jan 2018 by Ranveer Allahbadia and Viraj Sheth. Real
+  ROC-filed (India's Registrar of Companies) financials reported by
+  Entrackr —
+  https://entrackr.com/fintrackr/ranveer-allahbadias-monk-e-nears-rs-100-cr-revenue-in-fy24-profit-jumps-59-8720990
+  — revenue from operations Rs 97.8 crore in FY24 (~$11.7M), up from Rs
+  95.8 crore in FY23; profit Rs 7.23 crore in FY24 (+58.9% YoY) — clears
+  the $5M threshold on audited-style regulatory filings, a stronger data
+  point than most international entries here. 101 India-based employees
+  per Great Place to Work certification
+  (https://www.greatplacetowork.in/great/company/monk-entertainment).
+  No funding round, investor, or shareholder found anywhere despite
+  checking Entrackr/Inc42/Tracxn-style sources, which reliably cover
+  Indian funding news and would very likely have reported a round for a
+  company this prominent (won "Influencer Agency of the Year" 2024 per
+  exchange4media) -- an absence-of-record inference rather than a
+  registry-verified PSC-equivalent, since the exact MCA/CIN entity name
+  couldn't be pinned down to check directly (same gap as other India
+  attempts in this file, e.g. Mad Influence). No roster_gmv/
+  commission_rate breakdown disclosed, so left blank. First India entry.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
