@@ -1030,6 +1030,27 @@ flagging for future runs.
   couldn't be pinned down to check directly (same gap as other India
   attempts in this file, e.g. Mad Influence). No roster_gmv/
   commission_rate breakdown disclosed, so left blank. First India entry.
+- **Dot Media** (originally Kanpur, now Mumbai, India) —
+  https://dotmediabase.com — influencer marketing/talent management
+  agency founded August 2020 by Shubham Singhal, Vaibhav Pathak, and Om
+  Singh (started by managing creators from the founders' Kanpur
+  hometown during COVID lockdown, relocated to Mumbai Oct 2021). Legal
+  entity Dot Media Solutions Private Limited (CIN U22300UP2018PTC111527)
+  confirmed via aggregator director-registry data: Singhal (DIN
+  08310367) and Pathak (DIN 08310368) both listed as director AND
+  individual promoter -- roughly analogous to a PSC filing, though
+  sourced via a secondary aggregator since direct MCA/Zaubacorp lookups
+  were blocked (403) rather than the primary registry itself. No funding
+  found for this entity despite checking Entrackr/Inc42/CB Insights --
+  explicitly distinguished from a same-founder-named earlier venture,
+  "Muse Dot Media" (New Delhi, founded 2015, ~$1M raised, last round Oct
+  2019), confirmed to be a separate, earlier company (different
+  CIN/registration state/year), not this one. Co-founder Singhal
+  publicly stated the agency surpassed INR 100 crore (~$12M) in revenue
+  over the 2024 calendar year —
+  https://www.impactonnet.com/more-from-impact/dot-media-surpasses-rs-100-crore-revenue-rebrands-to-lead-influencer-marketing-10008.html
+  — with a roster of 160+ creators/celebrities and 145 employees (up
+  from a founding team of 7). Second India entry.
 
 ### Excluded (verified funded, acquired, or wrong category)
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
