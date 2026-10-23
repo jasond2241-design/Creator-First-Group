@@ -1108,7 +1108,21 @@ founded 2017 by Alodia Gosiengfiao, Tryke Gutierrez, and Brian Lim --
 raised institutional capital from BITKRAFT Esports Ventures, then a
 Pre-Series A led by Gobi Partners' Gobi-Core Philippine Fund with Warner
 Music Group, Octava, Kayac Inc., and Atlas Ventures participating, and a
-subsequent Series A totaling $8.25M -- funded, not bootstrapped).
+subsequent Series A totaling $8.25M -- funded, not bootstrapped),
+OML / Only Much Louder (Mumbai, India -- artist management, live
+events, and content production co-founded by Vijay Nair and Girish
+Talwar) -- CB Insights and a 2016-era Quartz profile confirm a May 2015
+corporate minority investment from The Times Group (via the Jain
+family's fund) and CA Media (The Chernin Group's Asian arm) -- funded,
+not bootstrapped), 8Bit Creatives / Bit Extra (Mumbai, India -- gaming
+talent management agency founded by Animesh Agarwal aka "8Bit Thug";
+launched a brand-solutions arm "Bit Extra" in 2022) -- no funding or
+revenue figure found, but a July 2026 FIR (criminal complaint) was
+filed by gaming creator Kaashvi "Kaash Plays" Hiranandani alleging
+systematic financial fraud against 8Bit Thug/8Bit Creatives -- an
+unresolved legal/integrity red flag, not a funding issue, but
+sufficient on its own to exclude pending resolution; wrong category to
+re-check via the usual funding-status lens.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
