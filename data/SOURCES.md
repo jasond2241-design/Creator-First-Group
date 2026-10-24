@@ -679,6 +679,24 @@ probably too small on the metric this watchlist actually requires.
   guessed. Press-reported revenue "surpassed $5 million in annual revenue"
   (2026) clears the qualifying threshold but isn't fed into the model
   since the GMV/take-rate split isn't disclosed.
+- **Match Agency** (Bogota, Colombia) — https://matchagency.com.co —
+  influencer marketing agency (campaigns for brands, plus creator
+  representation via "Match Management") founded by Karen Carreno, a
+  former Rappi Country Head of Influencers for the Andean region.
+  Legal entity Match Agency SAS confirmed via the EMIS company database:
+  incorporated 26 May 2020, Bogota HQ, 42 employees (2026) -- EMIS
+  paywalled the legal representative/shareholder fields, so this is an
+  entity-existence/scale check, not a registry-verified ownership check
+  (direct RUES/Camara de Comercio lookup wasn't accessible via this
+  tool). No funding round found anywhere despite repeated coverage by
+  major Colombian outlets (El Tiempo, Portafolio, La Republica, Noticias
+  RCN) — https://www.noticiasrcn.com/economia/match-agency-la-agencia-colombiana-de-influencer-marketing-lider-en-latam-1002969
+  — an absence-of-record inference, not an explicit founder statement.
+  Press-reported revenue "superior a los US$12 millones" in 2025 (427
+  campaigns, 2,245+ influencer network across 10 countries), projected
+  above $16M in 2026 -- clears the $5M threshold on company-supplied but
+  widely-repeated figures; no managed_ad_spend/fee_rate breakdown
+  disclosed, so left blank. First Colombia entry.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Nonsensical (Birmingham, UK -- TikTok agency founded Oct 2020 by Oli
