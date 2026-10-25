@@ -762,7 +762,27 @@ local-marketing agency; Latka lists $6M revenue, 2024, 30 employees, $0
 raised) -- no independent trace of this company or a named founder
 could be found anywhere outside Latka and directory listings, so
 neither its existence as described nor its funding status could be
-corroborated. Left out on verification-gap grounds.
+corroborated. Left out on verification-gap grounds. Publifyer (Ecuador
+-- creator-marketing platform/agency connecting brands with nano/micro
+influencers across Ecuador, Peru, Guatemala, Mexico, and Colombia,
+co-founded 2023 by brothers German and Benjamin Lopez and Alberto
+Arauz) -- real scale (70 employees, ~50,000 registered creators, ~$5M
+revenue in 2025) that would otherwise clear the threshold, but the
+company's own press explicitly states it "plans to raise capital, which
+it hopes to close next month" -- same active-fundraising disqualifier
+used for Influency.me (software section) -- so treated as
+funded/fundraising rather than bootstrapped. Content Studio (Lima, Peru
+-- influencer talent management/campaign agency, co-founded by Manuel
+Torres, Gabriel Mena, Jorge Falconi, and Luis Miguel Pazos) -- projected
+2023 revenue of only S/7.5M (~$2M), clearly below the $5M threshold, and
+one co-founder (Pazos) is also the leader of an active angel-investor
+fund (Kukua Ventures) -- a soft signal worth flagging even though no
+direct funding link to Content Studio itself was found. Left out
+primarily on revenue-threshold grounds. PinUp (Chile -- SME/influencer
+marketplace founded 2021 by Paulina Garrido and Agnes Feely) -- confirmed
+funded via accelerator and angel investment (Cristian Tala, Patricio
+Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
+is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
 Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
