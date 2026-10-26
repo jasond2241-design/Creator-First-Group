@@ -841,7 +841,17 @@ contradicted by tech.eu/ain.ua reporting of a EUR1.2M round in 2020 led
 by Trind Ventures and a EUR7M Series A in Oct 2023 led by 3TS Capital
 Partners and Nexit Ventures (CB Insights: $9.84M total raised) -- funded,
 not bootstrapped; a sixth Latka "bootstrapped" tag proven wrong by
-independent sourcing.
+independent sourcing. Rock Content (Belo Horizonte, Brazil -- content
+marketing platform/marketplace, formed via a merger of Everwrite and
+TextCorner) -- some secondary sources describe its early Mexico
+expansion as "bootstrapped focus strategy," but Brazilian startup press
+(Startupi, Baguete) confirms real institutional funding throughout its
+history: an early round from Grupo Abril (Victor Civita joined the
+board) plus Digital News Ventures and e.Bricks Digital, an R$6M round
+from Digital News Ventures/e.Bricks in Mar 2015, and a $30M Series B in
+Oct 2021 led by UnBox Capital with Provence Capital, BTG Pactual, and
+Crescera Capital -- clearly funded, not bootstrapped, despite the
+"bootstrapped" framing some sources used for one phase of its strategy.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 MomentIQ (Los Angeles -- TikTok Shop growth agency founded 2023 by Alex
