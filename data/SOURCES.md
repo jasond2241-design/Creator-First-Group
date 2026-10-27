@@ -250,7 +250,12 @@ bootstrapped; checked as an East Africa creator-platform candidate),
 BeInfluence (Brussels, Belgium -- influencer marketing agency
 co-founded by Thomas Angerer and Arthur Mylle, grew from EUR1M to EUR8M
 revenue in three years per trade press -- Dealroom shows a EUR400K seed
-round, funded not bootstrapped).
+round, funded not bootstrapped), MOCAPP (Bucharest, Romania --
+influencer marketing marketplace/agency founded 2017 by Florin Grozea,
+700+ influencer network across Romania/Moldova and 5 other countries)
+-- Romanian press confirms a EUR200K equity-crowdfunding round via
+SeedBlink (2020) and a later EUR175K bridge round from ROCA X and
+Netopia Ventures -- funded, not bootstrapped.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Upeo Talent Agency (Nairobi, Kenya -- East African talent management and
@@ -1170,7 +1175,17 @@ filed by gaming creator Kaashvi "Kaash Plays" Hiranandani alleging
 systematic financial fraud against 8Bit Thug/8Bit Creatives -- an
 unresolved legal/integrity red flag, not a funding issue, but
 sufficient on its own to exclude pending resolution; wrong category to
-re-check via the usual funding-status lens.
+re-check via the usual funding-status lens. Online Performers Group
+(San Diego -- Twitch streamer talent management agency co-founded 2014
+by Omeed Dariani and his wife, managed streamers incl. Kitboga) -- this
+tool's own SEC EDGAR search returns zero Form D filings, and a 2017
+article reported $1-4M-ish revenue (low-to-mid seven figures,
+doubling) and 15 employees, but all data found is from 2017-2018 with
+no confirmation the company is still operating under this name, and
+separately Dariani reportedly stepped down from a streaming-agency
+leadership role following harassment allegations from a former Overwatch
+employee (date unconfirmed) -- both a data-staleness problem and an
+unresolved integrity concern. Left out on both grounds.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
