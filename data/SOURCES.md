@@ -1185,7 +1185,13 @@ no confirmation the company is still operating under this name, and
 separately Dariani reportedly stepped down from a streaming-agency
 leadership role following harassment allegations from a former Overwatch
 employee (date unconfirmed) -- both a data-staleness problem and an
-unresolved integrity concern. Left out on both grounds.
+unresolved integrity concern. Left out on both grounds. DCT Agency
+(Jakarta/BSD City, Indonesia -- talent management/digital advertising
+agency founded by David Nugroho, 500+ affiliated creators/talents,
+77.8B views in 2022) -- Indonesian business press (CNBC Indonesia,
+Katadata, Bisnis.com) confirms a 2023 pre-Series A round led by Sinar
+Mas Land's corporate venture arm Living Lab Ventures (undisclosed
+amount) -- funded, not bootstrapped.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 AR Agency (Dublin, Ireland -- Ireland's first and largest influencer
@@ -1317,6 +1323,15 @@ was found anywhere despite several searches, so there's nothing to
 verify bootstrapped status against or feed into the model. Left out
 purely on data-availability grounds -- first Canada-linked talent_management
 lead found, worth revisiting if a company name/registry record surfaces.
+Famous Allstars / Allstars.id (Jakarta, Indonesia -- influencer agency
+and marketplace platform, founded 2019, co-led by Alex Wijaya and
+Syamsul Arief Rakhmadani, 20,000+ influencers on the platform) --
+sources conflict directly: CB Insights lists a Seed-stage funding round,
+while a separate aggregator (Prospeo) says "no funding" -- no
+independent press coverage of an actual raise or investor was found
+either way, and no reliable revenue figure exists. Left out on
+source-conflict/verification-gap grounds rather than guessed in either
+direction.
 
 ## Control cases (intentionally included, known-funded)
 
