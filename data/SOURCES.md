@@ -443,6 +443,26 @@ entity-confusion grounds.
   ~$6M annualized. "10,000+ marketers" use the platform (Qantas, IHG,
   Accor) but isn't a clean paying-customer count, so customers/arpu left
   blank. First Australia entry.
+- **Hopper HQ** (London/Birmingham, UK) — https://www.hopperhq.com —
+  social media scheduling/content-planning SaaS (Instagram, Facebook, X,
+  LinkedIn, YouTube, TikTok, Pinterest), founded 20 March 2015 by Dr
+  Michael Bandar and James Vardy as an Instagram-only scheduler before
+  expanding to other platforms. Verified via UK Companies House: HOPPER
+  HQ LTD (#09501144), active, zero registered charges —
+  https://find-and-update.company-information.service.gov.uk/company/09501144/charges
+  — and its sole persons-with-significant-control entry is TURN PARTNERS
+  LIMITED (#08523187), itself wholly owned by the same two individuals
+  (Bandar 75%+, Vardy 25-50% until his Dec 2024 resignation as a Hopper
+  HQ director) —
+  https://find-and-update.company-information.service.gov.uk/company/09501144/persons-with-significant-control
+  https://find-and-update.company-information.service.gov.uk/company/08523187/persons-with-significant-control
+  — a clean founder-ownership chain with no institutional investor, fund,
+  or corporate entity anywhere in either company's PSC register, and no
+  secured/venture debt. Company self-reports 10,000+ businesses served
+  across 60+ countries; Companies House filings are "total exemption full
+  accounts" with no P&L disclosed, and no independent revenue/headcount
+  figure was found elsewhere, so all revenue-model fields left blank
+  rather than guessed.
 
 ### Excluded (verified funded)
 Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
@@ -463,7 +483,18 @@ checked as a software candidate but funded, not bootstrapped), Pillar
 round with Four Cities Capital per Crunchbase), SendOwl (UK -- founded by
 George Palmer 2010, but acquired by Plotke in 2020, which then raised
 $4.5M in seed funding backed by Stripe -- https://www.siliconrepublic.com/start-ups/sendowl-seed-funding-stripe
--- no longer independent), Beacons.ai (checked again 2026-09-11: also
+-- no longer independent), Metricool (Madrid, Spain -- social media
+analytics/scheduling platform founded 2014/2015 by Juan Pablo Tejela;
+genuinely self-financed from inception (~EUR100K own funds + an Enisa
+participative loan, per Alicante Plaza/Valencia Plaza) and reached
+breakeven almost immediately, with Latka citing ~$11M revenue and
+describing it as having raised no VC -- but a DLA Piper legal-advisory
+release (24-Sep-2024) confirms team.blue became a strategic investor
+alongside Axon Partners Group in a corporate-minority investment round,
+also reported as a EUR5M raise "para su expansion internacional" per El
+Referente -- institutional investment confirmed via primary legal/press
+sources, so excluded despite a decade of genuinely bootstrapped history
+before 2024), Beacons.ai (checked again 2026-09-11: also
 raised a $23M Series A in Nov 2023 with a16z among prior investors,
 confirming the earlier exclusion), Linktree (Melbourne, Australia --
 link-in-bio pioneer, bootstrapped to $10M ARR by 2020 per company
