@@ -425,6 +425,35 @@ entity-confusion grounds.
   LinkedIn's own 2-10 employee count and are not disclosed by the company
   -- treated as unreliable, so customers/arpu left blank rather than
   guessed. Fourth UK software entry.
+- **Publer** (Tirana, Albania) — https://publer.com — social media
+  scheduling/management SaaS (Instagram, Facebook, X, LinkedIn, YouTube,
+  TikTok, Pinterest, etc.), founded by sole founder Ervin Kalemi -- began
+  2012 as a side project automating Facebook updates for his family's
+  travel agency (Kalemi Travel & Tours), formally established as a
+  company in 2017. First Albania entry. Publer's own first-party blog
+  post (Oct 2025, "How Publer Went from $0 to $3M ARR and Almost Died
+  (Twice) Along the Way") states the company reached $3M ARR after a
+  13-year journey that twice nearly ended in bankruptcy, explicitly
+  framed as self-funded throughout; a Starter Story breakdown and an
+  Indie Hackers interview both independently corroborate the
+  no-outside-funding framing. No funding round, investor, or
+  Crunchbase/CB Insights record found anywhere; the only partnership
+  found (AppSumo) is a lifetime-deal reseller/distribution channel, not
+  equity investment. Could not locate the entity on Albania's QKB
+  national business registry (the product name doesn't appear to match
+  the registered company name, and QKB's search tool isn't indexable by
+  this tool), so this is an absence-of-funding-record +
+  explicit-founder-statement verification tier, not a registry-verified
+  check -- same tier as Kunfupay elsewhere in this file. customers=13,300
+  and arpu=~$180 are derived from a matched Latka FY2024 pair
+  ($2.4M revenue / 13,300 customers), not guessed; Publer's own later
+  blog post independently reports ARR had grown further to ~$3M by Oct
+  2025, not reflected in the modeled figure since a matching current
+  customer count wasn't found. Either revenue figure is below this
+  watchlist's $5M qualifying threshold, but included given the
+  unusually clean, multi-source, first-party founder sourcing and 13-year
+  independent track record -- same standard applied to Subscribr
+  elsewhere in this file.
 - **Sked Social** (Melbourne, Australia) — https://skedsocial.com —
   social media scheduling/approvals platform for in-house teams and
   agencies, built by solo founder Hugh Stephens starting 2013/2014
@@ -465,7 +494,14 @@ entity-confusion grounds.
   rather than guessed.
 
 ### Excluded (verified funded)
-Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
+SocialPilot (Ahmedabad, India -- social media management SaaS founded
+2014 by Jimit Bagadiya and Tejas Mehta; genuinely bootstrapped for over
+a decade, repeatedly self-described and press-described as such,
+including an ET Startup Awards 2021 "Bootstrap Champ" nomination -- but
+acquired by Sweden's group.one in a deal reported at USD 50M (per
+Entrepreneur India, Jul 2025) -- no longer independent, so excluded
+despite a clean bootstrapped history, same treatment as Captivate.fm/
+TubeBuddy elsewhere in this section), Circle.so (~$30.5M incl. Tiger Global Series A), Beacons.ai (~$29.8M incl.
 a16z/YC seed), Hype/HypeKit (creator marketing and payments platform
 founded 2016 -- Crunchbase shows a Series A with Bullpen Capital among
 investors -- funded, not bootstrapped), Podia ($4.75M across 4 rounds), Stan Store ($5M seed,
@@ -948,7 +984,25 @@ watchlist's $5M threshold. Left out on revenue-threshold grounds (same
 pattern as Selar, software section) -- note Faved is a distinct company
 from the similarly-named, separately-funded "Fave" fan-community
 platform ($4.32M raised per CB Insights), a name-collision worth
-flagging for future runs.
+flagging for future runs. Mad Influence (Noida, India, with a Dubai arm
+since 2021 -- influencer marketing/production agency founded 2018 by
+Gautam Madhavan; a 2023 YourStory Gulf feature describes it as
+"bootstrapped," revenue from agency commissions/ad fees, average deal
+size ~$100K/month at 25-30% margin) -- the bootstrapped framing has only
+one source (a single trade-press line, not an explicit founder quote),
+and quantitative figures are stale/inconsistent: Rs 10 crore (~$1.3M)
+revenue reported for FY2019-20 is the most recent hard figure found,
+headcount estimates range 50-60 across sources, and the "$100K/month
+average deal size" is an average per-client figure, not a company-wide
+total, so it can't be fed into the managed_ad_spend/fee_rate model
+without guessing a client count. Could not locate an MCA/CIN legal
+entity to check via registry, and -- unlike Monk Entertainment/Dot
+Media elsewhere in this file -- neither Entrackr nor Inc42 has ever
+covered this company, so there's no positive "absence of record despite
+reliable coverage" signal either; this is genuine silence, which is a
+weaker verification tier. Left out on sourcing-thinness and
+data-staleness grounds, worth re-checking if a more recent revenue
+figure or registry entity surfaces.
 
 ## Talent management
 
