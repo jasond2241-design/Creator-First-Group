@@ -492,8 +492,45 @@ entity-confusion grounds.
   accounts" with no P&L disclosed, and no independent revenue/headcount
   figure was found elsewhere, so all revenue-model fields left blank
   rather than guessed.
+- **SmarterQueue** (UK -- founder splits time between London and
+  Vancouver, team fully remote) — https://smarterqueue.com — social
+  media scheduling/content-recycling SaaS, founded by sole founder
+  Claude Schneider (astrophysics/computer science background); a beta
+  landing page dates to May 2016, reaching profitability in 2017.
+  Verified via UK Companies House: SMARTERQUEUE LTD (#09981623), active,
+  incorporated 2 Feb 2016, zero registered charges —
+  https://find-and-update.company-information.service.gov.uk/company/09981623/charges
+  — and its sole persons-with-significant-control entry is Claude
+  Schneider himself (75%+ shares/voting rights, individual, no
+  institutional/corporate PSC) —
+  https://find-and-update.company-information.service.gov.uk/company/09981623/persons-with-significant-control
+  — same registry-verified tier as Hopper HQ/Senja/Payhip/Subs elsewhere
+  in this file. Still actively filing current accounts (most recent made
+  up to 28 Feb 2026), confirming it remains operating and independent a
+  decade later. Founder's own 2018 blog post explicitly describes the
+  goal as staying "completely bootstrapped and grown from organic
+  revenue," reporting ~2,000 paying customers and a 15-person team at
+  that time -- but Companies House only files exemption/micro accounts
+  with no P&L, and no independent current (2024-2026) revenue or
+  headcount figure was found, so all revenue-model fields left blank
+  rather than guessed at a decade-stale number.
 
 ### Excluded (verified funded)
+Social Champ (Karachi, Pakistan -- social media scheduling tool
+co-founded by Sameer Ahmed Khan, genuinely bootstrapped from personal
+savings/freelance work in its earliest days -- but took $100K from Oman
+Technology Fund's Wadi accelerator (2019) and a further $225K angel
+round in 2020 -- institutional/angel funding confirmed, not
+bootstrapped), Crowdfire (Mumbai, India -- Twitter/social-growth tool
+bootstrapped for 5 years per founder Nischal Shetty, but raised a $2.5M
+Series A from Kalaari Capital in 2015 -- funded, not bootstrapped),
+Blind Creator (Mexico City, Mexico -- influencer-management SaaS
+founded 2022; raised a ~MX$10M (~$582K) pre-seed round announced Sep
+2023 with Amador Holdings, Kuiper (a Mexico-based VC), and 16 angel
+investors, plus a separate US$500K investment from Shark Tank Mexico
+sharks Brian Requarth and Alejandra Rios -- institutional/angel funding
+confirmed via multiple outlets (LatamList, Contxto, TheSaaSNews), not
+bootstrapped),
 SocialPilot (Ahmedabad, India -- social media management SaaS founded
 2014 by Jimit Bagadiya and Tejas Mehta; genuinely bootstrapped for over
 a decade, repeatedly self-described and press-described as such,
@@ -1002,7 +1039,20 @@ covered this company, so there's no positive "absence of record despite
 reliable coverage" signal either; this is genuine silence, which is a
 weaker verification tier. Left out on sourcing-thinness and
 data-staleness grounds, worth re-checking if a more recent revenue
-figure or registry entity surfaces.
+figure or registry entity surfaces. Dynasty Africa (Lagos, Nigeria --
+influencer marketing agency, self-described "pioneer agency" in
+Nigeria's industry, now repositioned as a full-service creative/
+marketing agency with a footprint across West/East/Southern Africa;
+founder Dayo Adedeji is a Forbes Africa 30 Under 30 honoree, and the
+agency became the first African agency to win a Cannes Dolphin Award
+in 2025) -- no funding round or investor found anywhere, including on
+TechCabal (which reliably covers African startup funding), a moderate
+absence-of-record signal for a company with this much press/award
+visibility; but genuinely nothing to model -- the one financial figure
+found (NGN250M) is explicitly a single client campaign's results, not
+agency revenue, and no headcount figure exists anywhere. Left out purely
+on data-availability grounds (same pattern as Boozt.io, software
+section) rather than a funding concern.
 
 ## Talent management
 
