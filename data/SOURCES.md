@@ -894,7 +894,21 @@ Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
 is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
-Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
+Matriochka Influences (Paris, France -- influence marketing agency
+founded 2014 by Elodie Monchicourt-Lecuyer and Charlie Trouillebout;
+marketing-copy directories describe it as "Agence 100% independante...
+Independante apres 12 ans d'existence" with ~EUR12M revenue (2025) and
+50 active clients -- but a direct societe.com registry check (SIREN
+801025131) shows that as of 6 September 2026 the president changed
+from Elodie Lecuyer (an individual) to 17 MAI CAPITAL (a company), and
+the directeur general to CPB HOLDING (another company) -- a clear
+change-of-control signal to corporate/holding entities, directly
+contradicting the "100% independent" marketing claim, even though no
+independent press confirmation of a specific acquisition/investment
+deal was found. Same "unresolved but registry-confirmed
+change-of-control" treatment as Flame Media elsewhere in this file --
+excluded on the registry evidence itself, which here is the stronger
+source), Ubiquitous ($5M seed; acquired by Humanz), Statusphere ($18M Series A),
 Billo (€2.9M seed/pre-seed), The Shelf ($1.4M VC per Crunchbase), Common
 Thread Collective (PE from The Acacia Group), Mavely (acquired, Nu Skin
 then Later), Motion ($60M+ across Seed-Series C), Directive Consulting
@@ -1466,7 +1480,29 @@ while a separate aggregator (Prospeo) says "no funding" -- no
 independent press coverage of an actual raise or investor was found
 either way, and no reliable revenue figure exists. Left out on
 source-conflict/verification-gap grounds rather than guessed in either
-direction.
+direction. Dulcedo (Montreal, Canada -- originally a modeling agency
+founded 2008 by Karim S. Leduc, later adding an influencer/talent
+management arm; now branded Dulcedo Group) -- no funding round or
+investor found for the group itself, but its recent acquisition spree
+(Influence+All Management and Sundae Creative in 2023; the
+influencer-marketing startup Node in 2024 at a reported ~$13M valuation)
+is unusual for a claimed-independent agency and raised the question of
+PE backing -- a targeted search for private-equity involvement (e.g.
+Novacap, Fonds de solidarite FTQ) found nothing either way. Third-party
+revenue/headcount figures ($54.2M/84 employees) are unsourced
+aggregator estimates. Left out on ambiguity grounds: the M&A activity
+without any disclosed financing is a pattern worth re-checking rather
+than a clean bootstrapped verification. Mythic Talent (talent
+management arm of the OTK streamer collective, co-founded Feb 2023 by
+Asmongold and TipsOut, led by CEO William Lucas) -- OTK's broader
+no-VC framing has been reported, but that's about OTK overall, not
+Mythic Talent specifically, and ownership structure is unclear (listed
+as an OTK subsidiary alongside StarForge Systems and Mad Mushroom in
+some sources). Also named as a defendant (alongside OTK Media Inc. and
+King Gaming Labs Inc.) in a Nov 2025 lawsuit filed by streamer Mizkif --
+an unresolved legal-risk flag independent of the funding question, same
+treatment as 8Bit Creatives/Online Performers Group elsewhere in this
+file. Left out on both funding-ambiguity and legal-risk grounds.
 
 ## Control cases (intentionally included, known-funded)
 
