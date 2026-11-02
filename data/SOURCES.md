@@ -514,6 +514,29 @@ entity-confusion grounds.
   with no P&L, and no independent current (2024-2026) revenue or
   headcount figure was found, so all revenue-model fields left blank
   rather than guessed at a decade-stale number.
+- **Feedalpha** (Carlow, Ireland) — https://feedalpha.com — social
+  media scheduling/content-curation SaaS, founded ~2016-2018 by
+  husband-and-wife team Jane Kavanagh and Gary Evans after their own
+  digital agency struggled to find content to share with clients. First
+  Ireland entry. A Feb 2020 Business & Finance profile quotes the
+  founders describing the company as "mainly self funded," with some
+  non-dilutive help from their Local Enterprise Office -- the same
+  article notes they were "starting a seed investment round" at that
+  time, but no subsequent press, Crunchbase, or CB Insights record of
+  that round (or any funding event) was found in the 5+ years since, and
+  the company has stayed a small team (7 employees per LinkedIn, 2025)
+  at consistent small scale, consistent with the round not closing or
+  not being disclosed -- flagged transparently rather than assumed
+  resolved. Could not locate the entity on Ireland's CRO register
+  (paywalled via Vision-net/SoloCheck, a recurring gap for Ireland in
+  this file), so this is an absence-of-funding-record +
+  explicit-founder-statement tier, not a registry-verified check -- same
+  tier as Kunfupay elsewhere in this file. Latka estimates ~$770K
+  revenue (2025)/$0 funding, a single unverified aggregator figure (not
+  a matched revenue/customer pair), so customers/arpu left blank.
+  Revenue is well below this watchlist's $5M threshold, but included
+  given the explicit founder sourcing and multi-year track record --
+  same standard as Subscribr/Publer elsewhere in this file.
 
 ### Excluded (verified funded)
 Social Champ (Karachi, Pakistan -- social media scheduling tool
@@ -894,6 +917,20 @@ Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
 is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
+IMA / Influencer Marketing Agency (Amsterdam, Netherlands -- founded
+2010/2012 by Emilie Tabor and Maddie Raedts; a data aggregator
+(Prospeo) claims ~$7.68M revenue and "never raised funding," but this
+is directly contradicted by primary coverage: acquired by Dutch PE
+firm Karmijn Kapitaal in August 2017, then merged into MediaMonks/S4
+Capital in August 2019 -- funded and acquired, not bootstrapped, and
+another clear case of an aggregator's "no funding" claim proving wrong,
+same pattern as Latka elsewhere in this file), Influencity (Madrid,
+Spain -- influencer marketing platform/software founded 2014 by Daniel
+Sanchez and Alberto Villar; Spanish press (elreferente.es) explicitly
+reports an EUR8M financing round, with other trackers (PitchBook,
+Caplight) showing a multi-round funding history totaling $2.8M-$11.2M
+-- funded, not bootstrapped, despite one data aggregator (Dealroom)
+incorrectly showing "no known external funding"),
 Matriochka Influences (Paris, France -- influence marketing agency
 founded 2014 by Elodie Monchicourt-Lecuyer and Charlie Trouillebout;
 marketing-copy directories describe it as "Agence 100% independante...
