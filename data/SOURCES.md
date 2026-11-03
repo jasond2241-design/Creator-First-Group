@@ -207,7 +207,22 @@ the provenance record for every non-obvious number in the watchlist.
   First Italian entry.
 
 ### Excluded (verified funded or acquired)
-Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
+Calibrate (Copenhagen, Denmark -- media/performance marketing agency
+founded 2020, repeatedly rated "Denmark's most independent media
+agency" in MyImage surveys 2022-2025, and named alongside NØRR3 as a
+peer in the "Independent Nordic Network" elsewhere in this file -- but
+acquired by iO (a pan-European digital agency group) effective 1
+January 2026, confirmed via iO's own press release -- no longer
+independent, a useful correction given it was referenced as an
+independence peer for an existing watchlist entry), TRY / TRY Opt AS
+(Oslo, Norway -- "full-service media, performance, and production
+agency," repeatedly named Epica's Independent Agency of the Year --
+but TRY's own "about us" page discloses 60% ownership by Ferd, a large
+Norwegian family investment/holding company, with the remaining 40%
+employee-owned -- majority-owned by an outside institutional investor,
+not bootstrapped, despite the "independent" branding referring to
+independence from global ad-network holding groups rather than from
+outside capital), Village Marketing (acquired, WPP), Movers+Shakers (acquired, Stagwell),
 Obviously (acquired, WPP), Whalar (multiple seed rounds + 2025 round),
 Viral Nation (~$198M PE, Eldridge/Maverix), Sixteenth (acquired by Whalar),
 Fanbytes (VC-funded, acquired by Brainlabs), The Goat Agency (VC-funded,
@@ -714,6 +729,26 @@ probably too small on the metric this watchlist actually requires.
   one press source, not independently corroborated. NOT verified via a
   Peruvian company registry (SUNARP ownership data not freely accessible).
   First Peru entry.
+- **King Kong** (Melbourne, Australia) — https://kingkong.co —
+  digital direct-response/performance marketing agency (SEO, PPC, web
+  design), founded 2014 by Sabri Suby, who started it from his bedroom
+  with ~$50 and a laptop, "without any funding, venture capital or
+  safety net" per multiple independent profiles (SmartCompany, Dynamic
+  Business, Business News Australia). Legal entity King Kong
+  Corporation Pty Ltd confirmed active via the free Australian Business
+  Register (https://abr.business.gov.au, ABN 48 153 324 497, VIC 3101)
+  -- Australia's ASIC register (directors/shareholders) requires an
+  authenticated session and returned 403 as before, so this is an
+  entity-existence check only, not a full ownership/PSC-equivalent
+  confirmation. No funding round, investor, or private-equity/
+  acquisition record found anywhere. Revenue=$7.5M and employees=40 are
+  both from SmartCompany's 2018 Smart50 Awards profile (314.5% YoY
+  growth that year) -- clears this watchlist's $5M threshold outright on
+  that figure alone, well before later (unverified-to-the-same-standard)
+  press describing a ~$50M valuation and international expansion
+  (2021). No managed_ad_spend/fee_rate breakdown disclosed, so those
+  model-driving fields are left blank rather than guessed; headcount
+  kept as informational context only.
 - **KlientBoost** — https://www.klientboost.com — founder built on personal
   savings, chose agency model over VC-backed SaaS deliberately — https://pod.tomhunt.io/e/x816wj1n-bootstrapping-klientboost-to-1m-mrr-with-jonathan-dane-of-klientboost
 - **UGC3** (UK) — https://ugc3.co.uk — founded by Ashley Chinyangarara,
@@ -917,6 +952,15 @@ Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
 is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
+4AM / Saebyeok Naesi Corp (Seoul, South Korea -- performance marketing
+agency and martech provider, 100+ campaigns, $100M+ managed media
+budgets per self-reported figures -- but took a seed investment from
+Unbound Lab, announced Sept 2024, confirmed via Preqin/press -- funded,
+not bootstrapped), minisocial.io (New York/remote, US -- UGC/micro-
+influencer production platform co-founded by Kirsten Baumberger in
+2016; initially bootstrapped by choice for its first year, reaching
+"six figures and profitability," but raised a pre-seed round from
+Hustle Fund to build a v2 platform -- funded, not bootstrapped),
 IMA / Influencer Marketing Agency (Amsterdam, Netherlands -- founded
 2010/2012 by Emilie Tabor and Maddie Raedts; a data aggregator
 (Prospeo) claims ~$7.68M revenue and "never raised funding," but this
