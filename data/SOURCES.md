@@ -552,6 +552,31 @@ entity-confusion grounds.
   Revenue is well below this watchlist's $5M threshold, but included
   given the explicit founder sourcing and multi-year track record --
   same standard as Subscribr/Publer elsewhere in this file.
+- **Tezza** (Los Angeles, US) — https://tezza.co — photo/video editing
+  app for creators (filters, presets, collage tools; also sells
+  physical collage kits, apparel, and a magazine), co-founded by Tessa
+  ("Tezza") Barton (freelance photographer) and Cole Herrmann (software
+  developer); launched filters on Adobe Lightroom in 2017 before
+  shipping the standalone app in June 2018. Multiple independent press
+  pieces (CNBC/NBC affiliate network, Benzinga, an Italian business
+  outlet) consistently frame it as self-started with no outside
+  capital -- headline language is "spent $0 to launch," founders
+  describe the business as "profitable almost since inception," and
+  none of these pieces mention an investor, loan, or funding round.
+  This tool's own SEC EDGAR full-text search for "Tezza"/"Tezza Inc"
+  (Form D filter) returns zero hits, consistent with no US securities
+  offering on record -- the same high-confidence absence-of-record
+  check used throughout this file for US entities. One data aggregator
+  (CB Insights) lists a "$5M round led by General Catalyst" on a page
+  associated with the Tezza name, but the snippet doesn't clearly tie
+  that round to this company (no date given, no corroboration found
+  anywhere else), so it's treated as likely a mismatched/different
+  entity rather than evidence against the EDGAR result. CNBC reviewed
+  company documents showing $26.5M in sales for the most recent full
+  year reported (2023), clearing this watchlist's $5M threshold
+  outright; 14 employees per the founders. No subscriber/customer count
+  disclosed (paid tiers at $5.99-$9.99/month), so customers/arpu left
+  blank rather than guessed.
 
 ### Excluded (verified funded)
 Social Champ (Karachi, Pakistan -- social media scheduling tool
