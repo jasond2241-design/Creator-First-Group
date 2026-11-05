@@ -579,7 +579,31 @@ entity-confusion grounds.
   blank rather than guessed.
 
 ### Excluded (verified funded)
-Social Champ (Karachi, Pakistan -- social media scheduling tool
+FATJOE (Cannock/Birmingham, UK -- outsourced link-building/SEO/content
+marketplace for agencies and resellers, founded 2012 by Joe Davies;
+Latka describes it as grown to $7.3M in revenue without raising any
+venture capital, and no funding round was found in general press
+searches -- but a direct UK Companies House check tells a different
+story: the operating entity, GET IDEAL LIMITED (#08475801), was placed
+under a new holding company, GET IDEAL HOLDINGS LIMITED (#14978212),
+in October 2023, and that holding company's persons-with-significant-
+control register shows control passing from founder Joseph Davies to
+SAAS HOLDING AS -- a Norwegian private limited company -- as of 8
+January 2026. SAAS Holding AS is itself a NOK 2+ billion SaaS
+roll-up/holding group (wholly owned by Jotta Group AS) with multiple
+software subsidiaries, per a third-party Norwegian registry aggregator.
+This is a clear corporate change-of-control, confirmed via the primary
+UK registry rather than press, directly contradicting the "no VC
+funding" aggregator claim -- same "registry overrides aggregator"
+pattern as IMA/Matriochka Influences elsewhere in this file), Plann
+(Sydney, Australia -- Instagram-first social media scheduling app
+founded ~2015/2016 by Christy Laurence, who said she turned down
+outside investment in the past to focus on product development;
+GetLatka describes it as grown to $1.7M in revenue without raising any
+venture capital -- but it was acquired by fellow Australian company
+Linktree in August 2024, with Laurence and the team joining Linktree --
+no longer independent, regardless of its earlier bootstrapped
+history), Social Champ (Karachi, Pakistan -- social media scheduling tool
 co-founded by Sameer Ahmed Khan, genuinely bootstrapped from personal
 savings/freelance work in its earliest days -- but took $100K from Oman
 Technology Fund's Wadi accelerator (2019) and a further $225K angel
