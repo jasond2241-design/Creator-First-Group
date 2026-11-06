@@ -762,6 +762,34 @@ probably too small on the metric this watchlist actually requires.
 - **Hawke Media** — https://www.hawkemedia.com — founder Erik Huberman:
   self-funded growth, no outside investment — https://erikhuberman.com/posts/scaling-without-strings-the-power-of-self-funded-growth/
   — manages $500M+ in media spend (company-reported)
+- **NP Digital** (San Diego, US) — https://neilpatel.com — full-service
+  digital marketing agency (SEO, content marketing, paid media),
+  co-founded late 2017 by Neil Patel and Mike Kamo (Global CEO of
+  parent NP Brands); small-business arm NP Accel launched Jan 2019.
+  Legal entity Neil Patel Digital, LLC -- a Delaware LLC formed 1 Dec
+  2022, confirmed current/active via its North Carolina foreign-LLC
+  registration (registered agent Capitol Corporate Services Inc,
+  Raleigh NC). This tool's own SEC EDGAR full-text search for every
+  name variant ("NP Digital," "Neil Patel Digital," "Neil Patel
+  Digital, LLC," "Neil Patel") returns zero Form D hits. ZoomInfo's
+  only funding entry is a single $1M round tagged "PPP" -- almost
+  certainly a Paycheck Protection Program loan (non-dilutive COVID
+  relief, not venture/equity funding). Patel has repeatedly and
+  publicly described trying and failing to raise VC multiple times and
+  choosing to bootstrap instead (The Investor's Podcast), and a
+  secondary podcast summary quotes him describing the company as
+  reaching "strong cash flow without outside investment." Trade press
+  (MediaPost's 2021 Search Agency of the Year profile, Campaign
+  Asia/India's "indie agency... takes on major holding companies")
+  consistently frames NP Digital as independent of the VC-backed/
+  holding-company competitive set. Revenue crossed $100M in 2024 per
+  Patel's own company blog, clearing this watchlist's threshold by a
+  wide margin; headcount (750, Patel's own site) kept as informational
+  context only since no managed_ad_spend/fee_rate breakdown was
+  disclosed. One aggregator (first-mrr.com) lists a conflicting "$35M
+  Series B at $195M valuation" with no independent corroboration found
+  anywhere -- treated as a likely mismatch with an unrelated company,
+  same pattern as the Tezza/CB Insights case in the software section.
 - **Positive Agency** (Lima, Peru) — https://www.positive.agency —
   performance/digital-media agency with distributed teams across Mexico,
   Colombia, Peru, and Chile (clients incl. Canon, Volvo Trucks, Sodimac);
@@ -1001,6 +1029,22 @@ Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
 is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
+Stack Influence (US -- Amazon-focused micro-influencer product-seeding
+platform, co-founded by Laurent Vincent, William Gasner, and Ayor
+Abushawashi after years selling on Amazon themselves; Latka describes
+it as bootstrapped to $1M revenue without raising capital -- but
+Preqin, CB Insights, and Collab Capital's own portfolio page all
+confirm a $1.3M seed round in Nov 2023 with Collab Capital as an
+investor -- funded, not bootstrapped, and also below this watchlist's
+$5M threshold regardless), AdLift (Gurugram, India/US -- SEO and
+performance marketing agency founded 2009 by Prashant Puri and Vivek
+Pahwa; an older BW Disrupt profile headlines it as "a multi-million
+dollar global digital marketing agency without any angel/VC
+investment," a genuinely bootstrapped multi-decade run -- but Puri has
+since confirmed its acquisition by Liqvd Asia for INR 50 crore
+(~$6M), closing in 2025 -- no longer independent, excluded despite the
+earlier clean bootstrapped history, same pattern as SocialPilot/Plann
+elsewhere in this file),
 4AM / Saebyeok Naesi Corp (Seoul, South Korea -- performance marketing
 agency and martech provider, 100+ campaigns, $100M+ managed media
 budgets per self-reported figures -- but took a seed investment from
