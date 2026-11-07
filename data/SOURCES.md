@@ -1677,6 +1677,28 @@ King Gaming Labs Inc.) in a Nov 2025 lawsuit filed by streamer Mizkif --
 an unresolved legal-risk flag independent of the funding question, same
 treatment as 8Bit Creatives/Online Performers Group elsewhere in this
 file. Left out on both funding-ambiguity and legal-risk grounds.
+UnderCurrent Talent (Los Angeles, US -- creator management firm
+founded Feb 2020 by Eric Bogard with partners Adam Bogard and Aaron
+Hoffman; represents 300+ creators across ~12 verticals after two 2025
+"acqui-hire" deals, Project15 and Next Step Talent) -- a Net Influencer
+profile explicitly states the firm is "entirely bootstrapped and
+self-funded," with ~30 managers working on commission splits rather
+than salary. This tool's own SEC EDGAR search for "UnderCurrent"
+returns an exact-match hit on "Undercurrent Holdings LLC" (two Form D
+filings, May and Aug 2025), but checking the filings directly shows
+this is a different, unrelated entity: a Wyoming LLC with a Sheridan,
+WY registered address and a Texas-based sole managing member (Joshua
+Dean Kirby) offering tiny ($300K) profit-participation agreements --
+nothing to do with LA-based talent management. Flagging this
+explicitly as a name-collision false positive (the normalizer strips
+"Holdings" as a legal suffix, so a bare "UnderCurrent" query matches
+it exactly) so a future run doesn't mistake it for evidence against
+this company. That said, no revenue or employee-count figure was
+found anywhere for the real UnderCurrent Talent, and the
+unexplained-financing pattern behind its two 2025 acquisitions (same
+shape as Dulcedo, Montreal, elsewhere in this file) warrants caution.
+Left out purely on data-availability grounds -- nothing here can be
+fed into the talent_management model without guessing.
 
 ## Control cases (intentionally included, known-funded)
 
