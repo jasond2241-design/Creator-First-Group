@@ -205,6 +205,32 @@ the provenance record for every non-obvious number in the watchlist.
   NEI (Portugal). net_revenue_per_head=$175,000 in the CSV is derived from
   the real EUR7M/2022 figure divided by headcount, not a pure benchmark.
   First Italian entry.
+- **Shameless Media** (Melbourne, Australia) — https://shamelessmedia.com.au
+  — youth media/podcast company (lifestyle, pop culture, and
+  reality-TV podcasts across five content verticals; also hosts
+  third-party talent incl. Laura Henshaw and Steph Claire Smith, and
+  recently launched a licensing arm, Shameless Media Studios),
+  co-founded 2018 by journalists Zara McDonald and Michelle Andrews,
+  who started recording on a bedroom floor. Legal entity SHAMELESS
+  MEDIA PTY LTD confirmed active via the free Australian Business
+  Register (https://abr.business.gov.au, ABN 22 632 743 536, VIC 3121)
+  -- Australia's ASIC register requires an authenticated session and
+  returned 403 as before, so this is an entity-existence check only.
+  Multiple independent trade-press profiles (Radio Today, Mediaweek,
+  Forbes Australia 30 Under 30, Saxton speaker-bureau bio) consistently
+  describe the company as reaching eight-figure annual revenue
+  "without external investment" over its eight-year history, with no
+  funding round or investor found anywhere. Radio Today specifically
+  cites "set to crack $10 million in revenue for FY25" per the
+  co-founders; Mediaweek separately reports a 25-person Melbourne team
+  (an older figure cites 15 staff, reflecting growth over time) --
+  net_revenue_per_head=$400,000 is derived from that matched pair,
+  though it's on the high end for this file's agency entries, plausibly
+  reflecting a media/ad-sales revenue model rather than a pure services
+  headcount ratio -- flagged as a modeling caveat rather than asserted
+  with full confidence. Classified under agency (not creator-specific
+  talent management or performance marketing) as the closest fit, same
+  treatment as NØRR3 elsewhere in this file.
 
 ### Excluded (verified funded or acquired)
 Calibrate (Copenhagen, Denmark -- media/performance marketing agency
