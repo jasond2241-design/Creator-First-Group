@@ -1266,7 +1266,22 @@ visibility; but genuinely nothing to model -- the one financial figure
 found (NGN250M) is explicitly a single client campaign's results, not
 agency revenue, and no headcount figure exists anywhere. Left out purely
 on data-availability grounds (same pattern as Boozt.io, software
-section) rather than a funding concern.
+section) rather than a funding concern. Dapper (Rotterdam, Netherlands,
+with a Lisbon office -- B2B demand-generation agency, co-founded 2019
+by Tycho Luijten and Yvo Wander as "Dapper Rhinos," rebranded to Dapper
+in 2022) -- only source for "no outside investment" is a single Latka
+listing citing a founder webinar (~$5M revenue/48 employees, June
+2025); no independent founder quote, press profile, or registry record
+corroborates this. The company's own "about" page (checked directly)
+makes no funding/independence statement at all and instead shows a
+headcount jump to 70+ by 2026 -- a discrepancy worth noting. Could not
+search the Dutch KvK business register directly (the search tool
+returned no results, likely requiring JS the fetch tool can't
+execute), so this remains an unverified, single-aggregator-sourced
+claim rather than the absence-of-record or founder-statement tiers
+used elsewhere in this file. Left out on sourcing-thinness grounds;
+worth re-checking if a primary-source founder statement or KvK record
+surfaces.
 
 ## Talent management
 
