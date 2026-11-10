@@ -605,6 +605,18 @@ entity-confusion grounds.
   blank rather than guessed.
 
 ### Excluded (verified funded)
+SocialBee (Cluj-Napoca, Romania -- AI-driven social media
+management/scheduling SaaS, co-founded ~2016/2017 by Ovi Negrean and
+Vlad Hosu; founder Negrean has said "we are mostly a bootstrapped
+company," and Latka lists it at $5.5M revenue (2025) with no VC --
+but WebPros (Luxembourg, parent of cPanel/Plesk/WHMCS) announced its
+acquisition of SocialBee on 20 Aug 2024, confirmed via multiple
+Romanian outlets (Economedia, Actual de Cluj) and WebPros' own
+announcement; one Romanian report also notes the business had already
+been "held by its founders and a German company" before the sale,
+suggesting some institutional involvement predated the acquisition --
+no longer independent either way, another Latka "no funding" claim
+proven wrong, same pattern as IMA/FATJOE elsewhere in this file),
 FATJOE (Cannock/Birmingham, UK -- outsourced link-building/SEO/content
 marketplace for agencies and resellers, founded 2012 by Joe Davies;
 Latka describes it as grown to $7.3M in revenue without raising any
@@ -1055,6 +1067,17 @@ Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
 is far below threshold regardless -- funded and too small.
 
 ### Excluded (verified funded or acquired)
+LIFT Agency (San Francisco, US -- performance content/creative agency
+for DTC and B2B brands, founded 2003 by Tim Carr; one aggregator
+listing claims "never raised funding" with ~$3.9M revenue -- but
+Digiday, MediaPost, and Mile Marker's own announcement confirm Mile
+Marker acquired LIFT in 2026, with Carr becoming Mile Marker's Chief
+Creative Officer -- no longer independent, and revenue was below this
+watchlist's $5M threshold regardless), The Snow Agency (US -- DTC
+performance marketing agency founded by brothers Daniel and Jonathan
+Snow, who reportedly self-funded growth through their own ecommerce
+brands before taking on client budgets -- but acquired by Avenue Z,
+per Avenue Z's own press release; no longer independent),
 Stack Influence (US -- Amazon-focused micro-influencer product-seeding
 platform, co-founded by Laurent Vincent, William Gasner, and Ayor
 Abushawashi after years selling on Amazon themselves; Latka describes
