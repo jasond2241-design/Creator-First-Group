@@ -828,6 +828,27 @@ probably too small on the metric this watchlist actually requires.
   Series B at $195M valuation" with no independent corroboration found
   anywhere -- treated as a likely mismatch with an unrelated company,
   same pattern as the Tezza/CB Insights case in the software section.
+- **TripleDart** (Bengaluru, India) — https://www.tripledart.com — B2B
+  growth/performance marketing agency (paid media, SEO, AI-driven
+  growth via an in-house AI-agent platform called Slate), founded by
+  Shiyam Sunder (Founder and Managing Director) roughly four and a
+  half years before an August 2026 press announcement (implying a
+  ~2021-2022 founding). Explicitly and directly quoted by the founder
+  as having succeeded "without a single dollar of funding," described
+  in the same release as a "bootstrapped B2B growth company." No
+  funding round, investor, or Crunchbase/Tracxn/Entrackr/Inc42 record
+  found anywhere despite searching outlets that reliably cover Indian
+  startup funding news -- an absence-of-record signal consistent with
+  Monk Entertainment/Dot Media elsewhere in this file. Crossed $7M ARR
+  with a reported 50% EBIT margin; 120 employees; 300+ client
+  companies (named clients incl. General Electric, SentinelOne,
+  ByteDance, Sage, Glean, WeWork, Cognizant, MakeMyTrip) and $200M+ in
+  cumulative managed ad spend -- but since that figure isn't clearly a
+  clean, single-period rate matched to the $7M ARR, managed_ad_spend/
+  fee_rate are left blank rather than back-calculating an implied
+  rate. Sourcing is company-announcement-based (a press release via
+  TheNextWeb) rather than independent reporting, but carries an
+  explicit, attributable founder quote on funding status.
 - **Positive Agency** (Lima, Peru) — https://www.positive.agency —
   performance/digital-media agency with distributed teams across Mexico,
   Colombia, Peru, and Chile (clients incl. Canon, Volvo Trucks, Sodimac);
