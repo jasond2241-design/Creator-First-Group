@@ -231,6 +231,27 @@ the provenance record for every non-obvious number in the watchlist.
   with full confidence. Classified under agency (not creator-specific
   talent management or performance marketing) as the closest fit, same
   treatment as NØRR3 elsewhere in this file.
+- **Inquivix** (Seoul, South Korea) — https://inquivix.com — digital
+  marketing agency helping foreign brands enter the Korean market (and
+  vice versa), founded by sole founder Joon K. Lee, who started it as
+  a side hustle in 2017/2018 while still elsewhere employed. First
+  South Korea entry. A Starter Story profile (originally Dec 2021,
+  referenced again in 2023) quotes Lee directly and explicitly on
+  funding: "I didn't borrow any loans, any debt, or capital
+  investments" -- he started with his own earnings plus a small amount
+  of family money ("a couple hundred bucks"), not an institutional or
+  investor round. No funding round, investor, or Crunchbase/funding-
+  database record found anywhere corroborating or contradicting this
+  (Crunchbase's own profile lists Lee only as "Managing Director" with
+  no funding data). Revenue reported at ~$110K/month (~$1.2-1.3M
+  annualized) with 15 employees -- both self-reported and dated
+  (2021-2023); net_revenue_per_head=$80,000 is derived from that
+  matched pair. Revenue is well below this watchlist's $5M threshold,
+  but included given the explicit, direct founder quote on financing
+  and an 8-year independent track record (now operating regional hubs
+  across South Korea, Indonesia, Singapore, the UK, the US, and
+  Thailand per the company's own site) -- same standard applied to
+  Publer/Subscribr/Feedalpha elsewhere in this file.
 
 ### Excluded (verified funded or acquired)
 Calibrate (Copenhagen, Denmark -- media/performance marketing agency
