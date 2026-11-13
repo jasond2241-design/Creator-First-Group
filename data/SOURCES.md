@@ -1350,6 +1350,36 @@ surfaces.
 
 ## Talent management
 
+- **Nadia** (Tokyo, Japan) — https://nadia-corp.co.jp — cooking-creator
+  management/media company (operates the recipe media platform
+  "Nadia" and manages a roster of 980+ cooking creators/food
+  researchers/influencers known as "Nadia Artist," per the company's
+  own site as of May 2025) plus an advertising/PR production arm.
+  Founded July 2012 (as OCEAN'S, renamed Nadia Corp) by Yoshiki
+  Katsuragi, a former Sony Music Entertainment promoter and Recruit
+  alumnus. First Japan entry. Explicitly confirmed by the founder in a
+  dedicated interview with Sogyo Techo (創業手帳, a Japanese
+  entrepreneurship/startup-support media outlet, published Jan 2025):
+  the article states directly ("実は外部から資金調達をしていない同社です
+  が" -- "in fact, this company has not raised funding from outside")
+  that the company has grown without external fundraising. The
+  company's own corporate page confirms founding date, capital (JPY
+  10M), 41 employees (end Jan 2026), and executive team -- a
+  primary-source company disclosure, though not an independent
+  government registry/PSC-equivalent check (Japan's corporate registry
+  doesn't expose ownership data as freely as UK Companies House or
+  Australia's ABR). Media platform reports 20-22 million monthly users
+  and 180,000+ published recipes; the Nadia Artist roster has 74-82
+  million combined social followers (per company press releases,
+  2026). No revenue figure found anywhere despite searching Japanese
+  credit-research databases (Teikoku Databank/Tokyo Shoko Research
+  weren't accessible via this tool), so roster_gmv/commission_rate are
+  left blank -- included given the explicit, attributed, on-record
+  founder statement on funding and the roster size kept as
+  informational context. A separate, unrelated Tokyo company also
+  named "株式会社ナディア" (DECEM, a creative/web-design agency founded
+  ~2004 in Roppongi/Akasaka) was explicitly checked and ruled out as a
+  name collision -- not to be confused with this entity.
 - **Underscore Talent** — https://www.underscoretalent.com — founded by
   ex-Studio71 execs, 2021 — https://deadline.com/2021/01/underscore-talent-management-agency-formed-michael-green-reza-izad-dan-weinstein-1234682202
 - **Shine Talent Group** — https://shinetalentgroup.com — described as
