@@ -818,6 +818,30 @@ probably too small on the metric this watchlist actually requires.
 
 ## Performance marketing
 
+- **KPI Media** (Singapore) — https://www.kpimedia.co — performance
+  marketing agency for venture-backed startups and SMEs across APAC
+  (paid media across Meta, TikTok, LinkedIn, Microsoft, Google; a
+  money-back guarantee if agreed KPIs aren't met), founded 2020 by
+  Yashwin Naidu, a former regional performance manager at a global ad
+  agency who had previously founded and sold another company. First
+  Singapore-founded entry. Founder directly and explicitly quoted in
+  an e27 piece: the company has "no VC, no PE, no holding company
+  behind us," having bootstrapped because he couldn't raise money in
+  2020 rather than from ideological opposition to VC. Independently
+  ranked #8 overall on The Straits Times x Statista "Fastest Growing
+  Companies in Singapore 2026" list (out of 100 companies, measuring
+  revenue CAGR 2021-2024) per the same e27 piece -- could not
+  independently re-verify the exact rank on Statista's own ranking
+  page (its results table didn't load/match via this tool), so this
+  rests on the e27 citation rather than direct primary confirmation.
+  A separate, company-sponsored Marketing-Interactive profile (treated
+  as company-sourced, not independent) gives specific milestones:
+  SG$100K ARR in year 1, SG$600K ARR in year 2 (2022), and SG$1M+ ARR
+  by July 2023 -- well below this watchlist's $5M threshold on that
+  dated figure, but included given the explicit founder quote and the
+  independent growth-ranking corroboration. Employees=35 per the e27
+  piece; no managed_ad_spend/fee_rate breakdown disclosed, so those
+  model-driving fields are left blank.
 - **Hawke Media** — https://www.hawkemedia.com — founder Erik Huberman:
   self-funded growth, no outside investment — https://erikhuberman.com/posts/scaling-without-strings-the-power-of-self-funded-growth/
   — manages $500M+ in media spend (company-reported)
