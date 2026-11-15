@@ -626,6 +626,20 @@ entity-confusion grounds.
   blank rather than guessed.
 
 ### Excluded (verified funded)
+Inbazz (Brazil, formerly BuzzMates -- CRM for managing influencer/
+creator communities for e-commerce brands, led by CEO Matheus
+Barcelos; clients incl. Farm, Natura, Insider -- took a pre-seed
+investment from Antler (2024, US$125K for 10% equity) and a further
+bridge round from Stamina VC (Apr 2025) -- funded, not bootstrapped,
+and also below this watchlist's $5M threshold on its 2025 revenue of
+R$3M regardless), Brief (AI PM/CRM for influencer marketing teams,
+solo-founded by a former influencer-marketing commercial-side
+operator with 6 years/1,000+ campaigns of industry experience; no
+country of incorporation found anywhere -- but it was accepted into
+and received initial funding from LvlUp Labs' Marketing Edge
+accelerator, and reported figures were a 12-month revenue target
+($799/mo x 50 teams), not an actual result) -- funded (accelerator
+equity) and pre-revenue, not bootstrapped,
 SocialBee (Cluj-Napoca, Romania -- AI-driven social media
 management/scheduling SaaS, co-founded ~2016/2017 by Ovi Negrean and
 Vlad Hosu; founder Negrean has said "we are mostly a bootstrapped
