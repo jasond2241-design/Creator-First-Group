@@ -401,6 +401,39 @@ entity-confusion grounds.
 
 ## Software
 
+- **Submagic** (Paris, France) — https://www.submagic.co — AI-powered
+  video editing/auto-captioning SaaS for short-form video creators
+  (YouTube Shorts, TikTok, Reels), founded May 2023 by David Zitoun
+  (CEO) and Tsi-Fei Chan (CTO). Legal entity TURBO STUDIO SAS (RCS
+  Paris 953 440 716) -- president is Netanext Ltd, a UK company
+  confirmed via UK Companies House to be wholly controlled by David
+  Zitoun himself (he and ex-co-founder Alex Baudin are the only two
+  persons with significant control, both individuals, French
+  nationals -- no corporate/institutional PSC at any point in that
+  company's history) —
+  https://find-and-update.company-information.service.gov.uk/company/11959235/persons-with-significant-control
+  Multiple founder interviews (Latka, Founderpath, Baremetrics
+  "Founder Chats") consistently and explicitly describe the company
+  as bootstrapped with "$0 in outside funding." One weak,
+  uncorroborated directory listing (ToolDirectory.ai) claims a ~$4M
+  seed round, but no other source -- including dedicated trackers
+  (AIWiki, Neuronfeed) that explicitly checked -- found any
+  institutional funding record; treated as a likely aggregator error,
+  same pattern as other such mismatches elsewhere in this file. Noted
+  transparently: societe.com shows Turbo Studio SAS's share capital
+  increased sharply in 2026 (EUR1,000 to EUR50,635.10, per a June 2026
+  legal filing/BODACC announcement) -- the beneficial-owners register
+  is paywalled so the destination of the new shares couldn't be
+  confirmed, but with Netanext Ltd remaining the sole listed
+  president and no new PSC shown, this reads more like an internal/
+  founder-level recapitalization than an institutional round; flagged
+  as a verification caveat rather than a disqualifying finding.
+  Revenue reported at ~$8M ARR (mid-2025, founder interview);
+  employees 10-13 depending on source (12 used as midpoint) -- clears
+  this watchlist's $5M threshold if the figure holds, though it is
+  founder-self-reported rather than independently audited. No clean
+  paying-customer count disclosed (press cites 4M+ total users,
+  including free tier), so customers/arpu left blank.
 - **Kit (formerly ConvertKit)** — https://kit.com — founder Nathan Barry:
   never raised VC — https://yaro.blog/nathan-barry-vc10/ — revenue growth
   history — https://startupgtm.substack.com/p/convertkit-now-kit-growth-story-how
