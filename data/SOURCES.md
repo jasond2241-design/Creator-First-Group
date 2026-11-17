@@ -659,6 +659,14 @@ entity-confusion grounds.
   blank rather than guessed.
 
 ### Excluded (verified funded)
+EzDubs (San Francisco, US -- real-time AI dubbing/translation app
+co-founded by Padmanabhan Krishnamurthy and Amrutavarsh Kinagi, YC-
+backed; a data aggregator (Latka) wrongly lists it as having "no
+outside funding," but TechCrunch and other outlets confirm a $4.2M
+raise, and the company was later acquired by Cisco in Nov 2025 --
+funded and acquired, not bootstrapped, another aggregator "no
+funding" claim proven wrong, same pattern as several other cases
+elsewhere in this file),
 Inbazz (Brazil, formerly BuzzMates -- CRM for managing influencer/
 creator communities for e-commerce brands, led by CEO Matheus
 Barcelos; clients incl. Farm, Natura, Insider -- took a pre-seed
@@ -1451,6 +1459,25 @@ surfaces.
   named "株式会社ナディア" (DECEM, a creative/web-design agency founded
   ~2004 in Roppongi/Akasaka) was explicitly checked and ruled out as a
   name collision -- not to be confused with this entity.
+- **Clicks Talent** (West Hollywood/Los Angeles, US) — https://clickstalent.com
+  — influencer talent management agency representing 5,000+ creators
+  across 65+ countries and 150+ niches, founded 2017 by CEO Abraham
+  "AB" Lieberman. Net Influencer reports the agency "invested $250,000
+  of its own capital" building an internal marketplace platform
+  (Zano) and explicitly states the agency "chose not to seek outside
+  investment," attributing this to confidence in its own finances --
+  a direct, attributable statement, not a secondhand aggregator claim.
+  This tool's own SEC EDGAR full-text search for "Clicks Talent"/
+  "Clicks Talent Inc"/"Clicks Talent LLC" (Form D filter) returns zero
+  hits across all variants. A similarly-named but separate company,
+  "Clicks"/"Clicks Technology" (per Seedtable, with a reported ~$500K
+  seed round), was explicitly checked and ruled out as a name
+  collision. Revenue reported at $5M+ annually per Net Influencer
+  (article references the company's "seventh year," i.e. ~2024),
+  clearing this watchlist's threshold; a separate MarketingSherpa-
+  sourced figure (mid-seven-figures, ~$1M paid to influencers in the
+  prior year) is roughly consistent. No clean roster_gmv/
+  commission_rate breakdown disclosed, so those fields are left blank.
 - **Underscore Talent** — https://www.underscoretalent.com — founded by
   ex-Studio71 execs, 2021 — https://deadline.com/2021/01/underscore-talent-management-agency-formed-michael-green-reza-izad-dan-weinstein-1234682202
 - **Shine Talent Group** — https://shinetalentgroup.com — described as
@@ -1636,6 +1663,10 @@ surfaces.
   from a founding team of 7). Second India entry.
 
 ### Excluded (verified funded, acquired, or wrong category)
+LifeTube (Poland/Central-Eastern Europe -- self-described largest
+multi-channel YouTube network/influencer marketing agency in CEE --
+sold a controlling stake to investment fund Altus TFI in 2016 per
+Polish press (Spider's Web) -- no longer independent),
 Vizz Agency (Barcelona, Spain -- Spain's leading YouTuber/streamer
 representation agency, clients incl. Ibai Llanos, El Rubius, Willyrex;
 acquired by Webedia in 2021), GG Talent Group (Naperville, Illinois --
