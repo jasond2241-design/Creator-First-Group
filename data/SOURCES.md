@@ -434,6 +434,31 @@ entity-confusion grounds.
   founder-self-reported rather than independently audited. No clean
   paying-customer count disclosed (press cites 4M+ total users,
   including free tier), so customers/arpu left blank.
+- **Revid.ai** (Paris, France) — https://revid.ai — AI short-form
+  video generation tool for creators (originally launched as
+  Typeframes, a text-to-product-video tool, acquired by holding
+  company TMAKER in Sept 2023 and rebranded revid.ai), founded/
+  operated by Tibo (Thibault) Louis-Lucas (CEO) and Nicolas Coutureau
+  (CTO). Louis-Lucas previously co-founded Tweet Hunter and Taplio,
+  sold to Lempire for $10M+, then started TMAKER as a bootstrapped
+  multi-product studio funded from that personal exit rather than
+  outside capital. The company's own official "AI instructions" page
+  explicitly self-describes as "an independent software company
+  based in Paris, France." Both Latka and Dealroom list $0/no known
+  external funding. Revenue figures conflict sharply by source:
+  Latka's own (weaker, aggregator) estimate is ~$440K/year (July
+  2025, 4-person team) -- below this watchlist's threshold -- while
+  Peter Yang's "Creator Economy" newsletter (a dedicated, reasonably
+  credible industry publication, interviewing Louis-Lucas directly)
+  attributes a chart caption to him stating Revid "alone does
+  $600K+/month" (~$7.2M/year), roughly 60% of his ~$1M+/month
+  five-product portfolio -- which would clear the threshold outright.
+  Given the direct-interview sourcing, the higher figure is treated
+  as more credible than the generic aggregator estimate, but the
+  discrepancy is flagged transparently rather than resolved; couldn't
+  locate the exact operating entity's SIREN via INSEE/Infogreffe to
+  cross-check independently. No clean customer/ARPU pair disclosed,
+  so those fields are left blank.
 - **Kit (formerly ConvertKit)** — https://kit.com — founder Nathan Barry:
   never raised VC — https://yaro.blog/nathan-barry-vc10/ — revenue growth
   history — https://startupgtm.substack.com/p/convertkit-now-kit-growth-story-how
