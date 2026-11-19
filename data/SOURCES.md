@@ -682,8 +682,58 @@ entity-confusion grounds.
   outright; 14 employees per the founders. No subscriber/customer count
   disclosed (paid tiers at $5.99-$9.99/month), so customers/arpu left
   blank rather than guessed.
+- **Selar** (Lagos, Nigeria) — https://selar.co — creator e-commerce/
+  SaaS platform (storefronts for digital products, courses,
+  memberships; payments across 194 countries), founded 2016 by Douglas
+  Kendyson (ex-Paystack founding team member). First Nigeria/West
+  Africa entry. Exceptionally well-corroborated bootstrapped status:
+  independent, consistent coverage across six years and five separate
+  Nigerian/pan-African tech outlets (TechCabal, Techpoint Africa,
+  Disrupt Africa, WeeTracker, BusinessDay), each explicitly calling it
+  "bootstrapped" with "yet to receive any institutional funding."
+  Direct founder quote (Techpoint, 2022): "We have enough money in the
+  bank to keep going, and there's no reason for us to raise." Only
+  outside money found anywhere is non-dilutive: a $5,000-$10,000 Tony
+  Elumelu Foundation grant (2018) and a $50,000 Job Tech Alliance
+  accelerator grant (2023) -- treated as grants, not equity, same
+  non-dilutive-funding treatment as the PPP loan noted for NP Digital
+  in the performance marketing section. One CB Insights entry lists
+  "Selfany" as an investor with an "Acq - Rumored" tag dated 2026 that
+  doesn't match any other source or the company's own statements --
+  treated as aggregator noise, consistent with this file's repeated
+  findings of CB Insights/similar databases being unreliable. No
+  Nigerian CAC (Corporate Affairs Commission) registry access was
+  available via this tool, so this rests on the press-statement tier
+  rather than a registry-verified check. 21 employees per TechCabal
+  (Jan 2024), likely dated upward since. Revenue model is a blend of a
+  4-6% commission on creator sales, a SaaS subscription tier, and an FX
+  spread -- co-founder Kendyson has said the company "has never really
+  checked" MAU/ARPU, so no clean customers/arpu pair exists and those
+  fields are left blank. The widely-reported "$4M+," then NGN9.8bn
+  (~$6.6M, 2024), then NGN18bn (~$12.8M, 2025) figures are creator
+  payout/GMV, not Selar's own revenue -- a WeeTracker piece (July 2026)
+  puts the company's own net margin at only 1-3% after payment-gateway
+  costs on top of the ~4% commission, implying Selar's actual revenue
+  is very likely well below this watchlist's $5M threshold. Included
+  despite this on the strength of its sourcing (among the
+  best-corroborated bootstrapped claims in this file) and to close a
+  real West Africa coverage gap, consistent with the
+  sub-threshold-inclusion precedent used elsewhere (Publer, Feedalpha,
+  KPI Media) -- flagged explicitly here since the revenue gap below
+  threshold is wider than those precedent cases.
 
 ### Excluded (verified funded)
+Involve Asia (Kuala Lumpur, Malaysia -- affiliate marketing/campaign
+management platform connecting advertisers with affiliates, creators,
+and influencers across Southeast Asia; founded 2014 by Jimmy How and
+Rene E. Menezes; one aggregator-style search result incorrectly
+suggested it was unfunded at "$56.4M revenue," but direct verification
+found it has raised VC funding repeatedly: 500 Startups and Cradle
+Seed Ventures invested in 2015, and it raised a US$10M+ round in Feb
+2023 led by Bintang Capital Partners with participation from Accord
+Ventures and OSK Technology Ventures -- funded, not bootstrapped,
+another case of a secondary source being wrong about funding status,
+same pattern as EzDubs/SocialBee/IMA elsewhere in this file),
 EzDubs (San Francisco, US -- real-time AI dubbing/translation app
 co-founded by Padmanabhan Krishnamurthy and Amrutavarsh Kinagi, YC-
 backed; a data aggregator (Latka) wrongly lists it as having "no
