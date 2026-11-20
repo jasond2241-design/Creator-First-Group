@@ -1260,9 +1260,41 @@ primarily on revenue-threshold grounds. PinUp (Chile -- SME/influencer
 marketplace founded 2021 by Paulina Garrido and Agnes Feely) -- confirmed
 funded via accelerator and angel investment (Cristian Tala, Patricio
 Rojas) per DF.cl, and the only disclosed revenue figure (~$25K in 2021)
-is far below threshold regardless -- funded and too small.
+is far below threshold regardless -- funded and too small. Madrivo
+(Las Vegas, US -- performance marketing/customer-acquisition agency
+founded 2011 by Ronen Hamatian) -- several data aggregators (Prospeo,
+Dealroom, Bounce Watch) say it has never raised funding, but PitchBook's
+profile separately lists a 2011 Accelerator/Incubator deal entry and a
+2024 "secondary transaction" -- no amounts, dates, or counterparties
+were found behind the PitchBook paywall, so neither entry could be
+confirmed or ruled out, and no explicit founder statement on funding
+status was found either way. Revenue estimates also conflict sharply
+(Starter Story: $44M/year; Prospeo: ~$12M/year). Left out on
+verification-gap grounds (ambiguous PitchBook signal, no founder quote)
+rather than as a confirmed exclusion -- worth rechecking if the
+PitchBook deal details become accessible. Ghost Pepper Digital (Cape
+Town, South Africa -- performance marketing agency, Google/Meta/LinkedIn
+Ads; founded 2023) -- only 2-9 employees per directory listings, no
+founder named, no revenue or funding information found anywhere. Left
+out purely on data-availability grounds. Ifluenz (Plan-les-Ouates/
+Geneva, Switzerland -- Instagram influencer marketing software, founded
+2015) -- CB Insights lists a funding round with FONGIT (a Swiss public
+tech-innovation foundation) as investor, and headcount (~3) and revenue
+(shown as $0, likely a placeholder) both appear far too small to matter
+regardless -- small, likely-funded, and effectively defunct-scale.
 
 ### Excluded (verified funded or acquired)
+Thrive Digital (Vancouver, Canada -- performance marketing/paid
+acquisition agency founded by Jonathan Becker, deployed $3.5B+ in paid
+budgets for clients incl. Uber, Asana, Square; began as a freelance
+consultancy run from a closet) -- PitchBook lists two minority
+investors, Occasional Ventures (a VC firm) and Tiny Capital (a holding
+company known for buying stakes in profitable bootstrapped
+businesses), with the deal staged as "Early Stage VC"; CB Insights
+corroborates at least the Tiny Capital investment. No round size or
+date found, but this is a real institutional-investor signal (not an
+aggregator error) -- funded, not bootstrapped, despite the
+closet-freelance origin story.
 LIFT Agency (San Francisco, US -- performance content/creative agency
 for DTC and B2B brands, founded 2003 by Tim Carr; one aggregator
 listing claims "never raised funding" with ~$3.9M revenue -- but
@@ -1736,8 +1768,42 @@ surfaces.
   https://www.impactonnet.com/more-from-impact/dot-media-surpasses-rs-100-crore-revenue-rebrands-to-lead-influencer-marketing-10008.html
   — with a roster of 160+ creators/celebrities and 145 employees (up
   from a founding team of 7). Second India entry.
+- **TuManag3r** (Malaga, Spain) — https://tumanag3r.com — influencer/
+  talent management agency (legal entity TUMANAG3R INFLUENCERS
+  MANAGEMENT AGENCY SL, NIF B67828301, incorporated 26 Nov 2021),
+  founded by CEO Vicente Mirasol Villalobos. Works with a network of
+  2,000+ Spanish-speaking and international creators across 30+
+  countries, including a Dec 2025 Mexico-market launch anchored by
+  Fernanfloo, a major Spanish-language YouTube pioneer. First Spain
+  entry. Verified via the company's own Spanish Mercantile Registry
+  filing (Infonif): a 2026-registered capital increase shows total
+  subscribed share capital at only EUR3,334.00 (up from EUR3,000) --
+  a nominal, founder-scale figure rather than an institutional capital
+  raise, the same quantitative-registry-check approach used for
+  Youdji/Finller SAS (France) earlier in this file. No funding round,
+  investor, or startup-press record found anywhere despite extensive
+  Spanish trade coverage (El Espanol, Marketing Directo, Emprendedores)
+  that has covered the company repeatedly -- an absence-of-record
+  inference rather than an explicit founder quote. Revenue reported at
+  ~EUR3M in 2025 (~$3.2M, per an Emprendedores founder profile) with
+  EUR6M cumulative revenue since the 2021 founding and 149% YoY growth
+  in 2024 -- company-sourced figures, below this watchlist's $5M
+  threshold, but included given the unusually concrete registry-based
+  absence-of-institutional-capital signal, consistent with the
+  sub-threshold-inclusion precedent used elsewhere (Publer, Feedalpha,
+  KPI Media, Selar). No roster_gmv/commission_rate breakdown disclosed,
+  so left blank rather than guessed.
 
 ### Excluded (verified funded, acquired, or wrong category)
+Hoopygang (Milan, Italy -- AI-assisted influencer marketing/creative
+company founded 2017) -- confirmed funded via StartupItalia/Fortune
+Italia: raised a EUR1.25M round (Oct 2023) led by CDP Venture Capital
+(through its Fondo Rilancio Startup) and Nana Bianca, a Florence-based
+startup studio/accelerator; CB Insights corroborates with a Seed VC
+round totaling ~$1.32M. Funded, not bootstrapped -- a GetLatka listing
+suggesting it reached "$3M revenue without raising any venture capital"
+is wrong, another aggregator error consistent with this file's repeated
+findings elsewhere.
 LifeTube (Poland/Central-Eastern Europe -- self-described largest
 multi-channel YouTube network/influencer marketing agency in CEE --
 sold a controlling stake to investment fund Altus TFI in 2016 per
