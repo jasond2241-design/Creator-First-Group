@@ -1284,6 +1284,18 @@ tech-innovation foundation) as investor, and headcount (~3) and revenue
 regardless -- small, likely-funded, and effectively defunct-scale.
 
 ### Excluded (verified funded or acquired)
+Ecomobi (Ho Chi Minh City, Vietnam -- affiliate marketing/UGC and
+TikTok Shop agency platform, clients incl. L'Oreal, Unilever, P&G;
+Lazada SEA "Affiliate of the Year" 2024) -- the company's own timeline
+confirms a Series A round from ESP Capital and Nextrans -- funded, not
+bootstrapped; do not confuse with the separate, unrelated Da Nang-based
+agency Ecomdy Media.
+Cacafly (Taipei, Taiwan -- social/digital advertising sales and
+consulting agency, official Facebook ad-sales partner in Taiwan,
+~120 employees) -- parent company funP Innovation Group raised
+US$3.12M in a March 2023 round from Ennoconn, a Foxconn subsidiary,
+explicitly tied to a digital-advertising/data/cloud partnership
+involving Cacafly -- funded via its parent, not bootstrapped.
 Thrive Digital (Vancouver, Canada -- performance marketing/paid
 acquisition agency founded by Jonathan Becker, deployed $3.5B+ in paid
 budgets for clients incl. Uber, Asana, Square; began as a freelance
