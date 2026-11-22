@@ -948,6 +948,40 @@ probably too small on the metric this watchlist actually requires.
 
 ## Performance marketing
 
+- **Marketwake** (Atlanta, US) — https://www.marketwake.com — creative/
+  growth marketing agency (brand identity, web, social, and a
+  dedicated performance line covering paid traffic/conversions/
+  retention), founded 2015 by Brooke Beach (now using the name Brooke
+  MacLean in recent coverage -- same person, name change not otherwise
+  explained) alongside co-founder Maddie Richardson, starting from a
+  solo consulting gig. This tool's own SEC EDGAR full-text search for
+  "Marketwake," "Marketwake LLC," and "Marketwake Inc" (Form D filter)
+  returns zero hits across all three name variants, consistent with no
+  US securities offering on record. A Sep 2020 company press release
+  (PR Newswire) confirms Marketwake itself launching an investing arm,
+  "Marketwake Ventures," through which it invested its own capital
+  alongside Slack and Parade in another startup's (Sonar) seed round --
+  a sign of outbound financial strength, not evidence Marketwake took
+  outside money. Multiple independent podcast profiles (The Digital
+  Agency Growth Podcast, Soundstripe Sessions, The Entrepreneur's
+  Logbook, spanning 2022-2026) consistently describe the company as
+  built with "no funding and no debt," run "without outside investors"
+  for eight years -- a repeated framing across outlets rather than a
+  single aggregator claim. A CB Insights entry showing a "$6.12M Seed/
+  Angel, 11/14/2023" round is tied to Marketwake's own acquisition of
+  Punchlist that same date, not an investment into Marketwake -- likely
+  a misattributed aggregator artifact (the acquired company's prior
+  funding), the same pattern of aggregator confusion documented
+  elsewhere in this file. Five-time Inc. 5000 honoree, ranked #603 in
+  2020 with audited-for-the-list 772.64% three-year revenue growth
+  (2016-2019) -- a stronger, independently-verified growth signal than
+  most aggregator figures in this file. Later third-party revenue
+  estimates vary widely (ZoomInfo: $35.7M; Prospeo: ~$34.5M; Latka:
+  ~$13.7M, 2024) but all clear this watchlist's $5M threshold by a wide
+  margin regardless of which is closest. No managed_ad_spend/fee_rate
+  breakdown disclosed, so those fields are left blank rather than
+  guessed. 80 employees per multiple 2026 podcast profiles (up from 4
+  in 2017 and 26 in 2019 per the company's own 2020 release).
 - **KPI Media** (Singapore) — https://www.kpimedia.co — performance
   marketing agency for venture-backed startups and SMEs across APAC
   (paid media across Meta, TikTok, LinkedIn, Microsoft, Google; a
