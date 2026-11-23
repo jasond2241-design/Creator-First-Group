@@ -254,6 +254,15 @@ the provenance record for every non-obvious number in the watchlist.
   Publer/Subscribr/Feedalpha elsewhere in this file.
 
 ### Excluded (verified funded or acquired)
+Simply Zesty (Dublin, Ireland -- social media agency co-founded 2009 by
+Niall Harbison and Lauren Fisher) -- took a EUR500,000 minority-stake
+investment from TORA (now SPA Future Thinking) in 2010, then was
+acquired by UTV Media plc in 2012 for an initial GBP1.7M plus a
+deferred consideration of up to ~GBP5-6.7M -- both funded and
+acquired, not bootstrapped. Fabric Social (Ireland/UK -- social-first
+creative agency founded 2021 by Niall McGarry, grew from ~EUR2M to
+~EUR16M revenue in 24 months) -- acquired by Publicis Groupe UK -- no
+longer independent.
 Calibrate (Copenhagen, Denmark -- media/performance marketing agency
 founded 2020, repeatedly rated "Denmark's most independent media
 agency" in MyImage surveys 2022-2025, and named alongside NØRR3 as a
@@ -337,7 +346,37 @@ agency in Cordoba) -- no funding announcement found either way, and no
 explicit founder no-VC statement; also no managed-ad-spend or revenue
 figure disclosed anywhere, so even if bootstrapped status were confirmed
 there's no real number to feed the performance_marketing model. Left out
-on both evidentiary and data-availability grounds.
+on both evidentiary and data-availability grounds. Zulu Alpha Kilo
+(Toronto, Canada -- independent creative/advertising agency founded
+~2008 by Zak Mroueh, ~140-200 staff across Toronto, Vancouver, and a
+New York office; WARC Effective 100-ranked, multiple Strategy Agency
+of the Year Silvers and an Ad Age 2024 Standout Agency listing) --
+repeatedly and consistently described as "vehemently independent" by
+trade press (LBB, Strategy Online, The Drum) across more than a
+decade, and no funding round, investor, or private-equity record found
+anywhere despite real scale and major-brand client work; CB Insights
+even lists the firm on an "investor" page (consistent with its 2021
+equity stake taken in client Consonant Skin + Care), not as a company
+that received investment. SEC EDGAR full-text search for "Zulu Alpha
+Kilo" returns zero Form D hits. However, no explicit founder quote
+denying outside funding was found (only third-party "independent"
+framing), and critically no revenue figure of any kind was found
+anywhere despite extensive trade-press coverage -- only a "revenue
+grew 42% YoY" (2023) data point with no base figure. Left out for now
+on the missing-absolute-revenue-figure gap even though the
+funding-independence signal is unusually strong; worth re-adding if a
+billings/revenue figure surfaces (Ad Age/Adweek agency report cards
+would be the next place to check). Purple Path (Vienna, Austria --
+outsourced/fractional-CMO marketing business founded by Irish
+entrepreneur Andy Culligan) -- founder describes it as funded by a
+EUR700,000 founders' own investment and growing organically with no
+outside investors, but revenue (EUR500K in Q1 2025, trending toward
+~EUR1M for the year) is far below this watchlist's $5M threshold.
+Hashtag South Africa (Rosebank, Johannesburg -- social media agency
+founded by Conrad Travis David, started with a R100 budget) -- only
+~5 employees per a Bizcommunity listing, no revenue figure found
+anywhere, and the most substantive press coverage is a decade old
+(2014-2018); left out on data-availability/staleness grounds.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Stride Social (Worthing, UK influencer agency co-founded by Alex Hendy and
