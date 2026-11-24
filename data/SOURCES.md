@@ -762,6 +762,15 @@ entity-confusion grounds.
   threshold is wider than those precedent cases.
 
 ### Excluded (verified funded)
+SocialPilot (Ahmedabad, India -- social media management/scheduling
+SaaS, co-founded by Jimit Bagadiya (CEO) and Tejas Mehta (COO)) --
+genuinely bootstrapped with no venture capital raised for most of its
+life, but acquired by group.one (Malmo, Sweden) in a ~$50M deal
+announced July 2025; founders stayed on and the brand continues
+standalone, but it is no longer an independent company -- noting this
+explicitly since multiple sources still describe its bootstrapped
+history in the present tense, which could otherwise mislead a future
+run into re-adding it.
 Involve Asia (Kuala Lumpur, Malaysia -- affiliate marketing/campaign
 management platform connecting advertisers with affiliates, creators,
 and influencers across Southeast Asia; founded 2014 by Jimmy How and
