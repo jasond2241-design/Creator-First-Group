@@ -762,6 +762,12 @@ entity-confusion grounds.
   threshold is wider than those precedent cases.
 
 ### Excluded (verified funded)
+Uscreen (Washington, DC, US -- video monetization/membership platform
+for creators, founder Pejman "PJ" Taei) -- genuinely bootstrapped for
+roughly a decade (Taei: "As a bootstrapped business, we're very small,
+nimble"), but PSG (a growth equity firm) made a $150M investment for
+a majority stake in 2025, the company's first institutional capital --
+funded, not bootstrapped, as of 2025.
 SocialPilot (Ahmedabad, India -- social media management/scheduling
 SaaS, co-founded by Jimit Bagadiya (CEO) and Tejas Mehta (COO)) --
 genuinely bootstrapped with no venture capital raised for most of its
@@ -996,6 +1002,32 @@ probably too small on the metric this watchlist actually requires.
 
 ## Performance marketing
 
+- **Go Places** (London, UK) — https://goplaces.io — TikTok Shop/
+  social commerce agency (live shopping production studios, paid
+  social, affiliate-style creator commerce infrastructure for
+  established consumer brands), launched 2024 by co-founders Sam
+  Jacobs and Jack Finger (both ex-Amazon, with Coca-Cola experience
+  also cited) -- originally incorporated 19 Dec 2023 as Ramp
+  Marketplace Limited, renamed Go Places Limited May 2024. Verified
+  via UK Companies House (#15360562), persons-with-significant-control
+  filing: exactly two PSCs, Samuel Jack Jacobs and Jack David Finger,
+  each an individual holding 25-50% of shares and voting rights
+  (potentially summing to 100% between them) -- no institutional or
+  corporate controller listed. Three additional directors joined the
+  board in 2025-2026 but none appear as PSCs, so none holds a >25%
+  stake; no funding round, investor, or press announcement of a raise
+  found anywhere despite reasonable UK startup-press coverage
+  (TechRound "Startup of the Week", Riding Unicorns podcast, Net
+  Influencer). Co-founder/CEO Sam Jacobs directly quoted (GB News, May
+  2026) describing the business bringing in "GBP6 million a year"
+  (~$7.6M) -- framed as the company's own earnings/turnover rather
+  than managed GMV (GMV growth is reported separately elsewhere as a
+  distinct ~4x YoY metric), clearing this watchlist's $5M threshold,
+  though not an audited filing. Grew from 6 to 35 employees in 12
+  months per a podcast profile. Named clients include Samsung, Mars,
+  PepsiCo, McCormick, Lola's Cupcakes, TRIP Drinks, SharkNinja, and
+  LG. No managed_ad_spend/fee_rate breakdown disclosed, so those
+  fields are left blank rather than guessed.
 - **Marketwake** (Atlanta, US) — https://www.marketwake.com — creative/
   growth marketing agency (brand identity, web, social, and a
   dedicated performance line covering paid traffic/conversions/
