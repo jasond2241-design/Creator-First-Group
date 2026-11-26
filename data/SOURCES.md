@@ -376,7 +376,31 @@ Hashtag South Africa (Rosebank, Johannesburg -- social media agency
 founded by Conrad Travis David, started with a R100 budget) -- only
 ~5 employees per a Bizcommunity listing, no revenue figure found
 anywhere, and the most substantive press coverage is a decade old
-(2014-2018); left out on data-availability/staleness grounds.
+(2014-2018); left out on data-availability/staleness grounds. AdUnion
+(Melbourne, Australia -- independent streaming/TV media agency with a
+proprietary ad-tech attribution platform, co-founded ~2015/2016 by
+Adam Shalagin and Robert Ong, 10-year anniversary in 2025) --
+repeatedly described as "independent" across multiple Australian
+trade outlets (AdNews, B&T, Mediaweek), with no funding round found
+anywhere (ZoomInfo shows no funding data). Verified growth rankings:
+#31 on Deloitte's 2025 Technology Fast 50, #26 on AFR's 2025 Fast 100,
+#8 (top media agency) on SmartCompany's Smart50. The only real
+revenue figure found is dated: SmartCompany's 2021 Smart50 profile put
+it at AU$3.3M (FY2020-21, ~$2.2M USD at the time) -- below this
+watchlist's threshold on that figure alone. A May 2026 AdNews piece
+says the agency has "tripled revenue since 2023," but gives no 2023
+base figure, so the current absolute revenue can't be pinned down
+without extrapolating/guessing. Left out on this gap rather than
+estimating; worth revisiting if a current AU$ figure or ASIC filing
+surfaces. Thompson Spencer Group (Auckland, New Zealand -- independent
+creative/media agency formed March 2025 when Thompson Spencer, grown
+from Wendy Thompson's 2016 Socialites, merged with Reason) --
+consistently described as one of NZ's largest independent agency
+groups, but no revenue figure or ownership/equity-split detail was
+found for either the pre-merger or combined entity, and a "merger"
+between two agencies is a different structure than this file's usual
+founder-controlled single company, so it isn't clear the combined
+entity is a clean fit for a single CSV row even if revenue surfaces.
 
 **Inconclusive, not added (needs further diligence before re-checking):**
 Stride Social (Worthing, UK influencer agency co-founded by Alex Hendy and
