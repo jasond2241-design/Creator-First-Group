@@ -254,6 +254,18 @@ the provenance record for every non-obvious number in the watchlist.
   Publer/Subscribr/Feedalpha elsewhere in this file.
 
 ### Excluded (verified funded or acquired)
+Bombayworks AB (Stockholm, Sweden -- digital agency, founded 2007,
+~33-70 employees depending on source, SEK47.5M revenue FY2025
+~$4.5M) -- multiple data aggregators (Latka-style sources, Bouncewatch,
+Prospeo) claim it has "never raised funding" or show no funding data,
+but direct verification via the Swedish company registry (allabolag.se,
+org.nr 556720-9357) shows it is part of a corporate group with parent
+company Storskogen 3 Invest AB -- Storskogen Group AB (publ) is a
+Nasdaq Stockholm-listed serial acquirer/permanent holding company for
+SMEs, acquiring majority stakes (70-80%+ in disclosed deals) --
+acquired/institutionally owned, not bootstrapped, another aggregator
+"no funding" claim proven wrong by a registry check, same pattern as
+IMA/SocialBee/FATJOE/Involve Asia elsewhere in this file.
 Simply Zesty (Dublin, Ireland -- social media agency co-founded 2009 by
 Niall Harbison and Lauren Fisher) -- took a EUR500,000 minority-stake
 investment from TORA (now SPA Future Thinking) in 2010, then was
