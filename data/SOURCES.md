@@ -798,6 +798,15 @@ entity-confusion grounds.
   threshold is wider than those precedent cases.
 
 ### Excluded (verified funded)
+Lafluence (Czech Republic -- online influencer marketplace/platform
+connecting brands with influencers, founded 2017) -- GetLatka lists
+"$0 funding," but Czech business press (CC.cz, 2018) directly reports
+an investment from Nextech Ventures, the investment vehicle of Josef
+Matejka (founder of the CZC.cz e-shop), with a follow-on investment of
+"dalsi miliony korun" (more millions of crowns) reported the same
+year -- funded, not bootstrapped, another aggregator "no funding"
+claim proven wrong by independent press, same pattern as Involve
+Asia/Bombayworks elsewhere in this file.
 Uscreen (Washington, DC, US -- video monetization/membership platform
 for creators, founder Pejman "PJ" Taei) -- genuinely bootstrapped for
 roughly a decade (Taei: "As a bootstrapped business, we're very small,
